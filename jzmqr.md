@@ -1,11 +1,11 @@
-   + <a href='xxxx自己的網址xxxxxxx'>《江泽民其人》epub电子书</a>        
-+ <a href='xxxxx自己的網址xxxxxxxe'>《1233333》epub电子书</a>
-+ <a href='xxxx自己的網址xxxxxxx'>无界翻墙软件</a>
-    - <a href='xxxx自己的網址xxxxxxx'>安卓版4.1</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版17.04exe</a>
-+ <a href='xxxx自己的網址xxxxxxx'>自由门翻墙软件</a>
-    - <a href='xxxx自己的網址xxxxxxx'>安卓版3.2</a>
-    - <a href='xxxx自己的網址xxxxxxx'>桌机版7.64</a>
+   + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a>        
++ <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/ultiGoalCmCN8k.epub?raw=true'>镶崁8k mp3 的共产主义的终极目的中国篇 简体版epub电子书</a>
++ <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版17.04(exe)</a>
++ <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>桌机版7.64(exe)</a>
 
 <hr>
 
