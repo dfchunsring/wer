@@ -2,7 +2,7 @@
 + <a href='xxxxx自己的網址xxxxxxxe'>《1233333》epub电子书</a>
 + <a href='xxxx自己的網址xxxxxxx'>无界翻墙软件</a>
     - <a href='xxxx自己的網址xxxxxxx'>安卓版4.1</a>
-    - <a href='xxxx自己的網址xxxxxxx'>桌机版17.04</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版17.04exe</a>
 + <a href='xxxx自己的網址xxxxxxx'>自由门翻墙软件</a>
     - <a href='xxxx自己的網址xxxxxxx'>安卓版3.2</a>
     - <a href='xxxx自己的網址xxxxxxx'>桌机版7.64</a>
