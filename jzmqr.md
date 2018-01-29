@@ -9,8 +9,10 @@
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>愛博電視Green_iPPOTV(zip)</a>
 <hr>
 
+<a href="#1">1.《江泽民其人》序─江泽民为何物？</a>
 
 <hr>
+<a name=1><h1 align="center"><b>《江泽民其人》序─江泽民为何物？</b></h1>
 <h1 align="center"><b>《江泽民其人》序─江泽民为何物？</b></h1>
 
 <table border="0" cellspacing="3" cellpadding="3">
