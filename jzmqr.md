@@ -10,10 +10,10 @@
 <hr>
 
 <a href="#1">1.《江泽民其人》序─江泽民为何物？</a>
-
+<a href="#2">2.《江泽民其人》一：瞒身世欺骗共党
+<a href="#2"> 第一章：瞒身世欺骗共党 编瞎话过继死人
 <hr>
 <a name=1><h1 align="center"><b>《江泽民其人》序─江泽民为何物？</b></h1>
-<h1 align="center"><b>《江泽民其人》序─江泽民为何物？</b></h1>
 
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
@@ -76,9 +76,9 @@
 还原一个真实的江泽民，是我们这一代见证历史的人们不可推卸的责任。
 
 <hr>
-<h1 align="center"><b>《江泽民其人》一：瞒身世欺骗共党</b></h1>
+<a name=1><h1 align="center"><b>《江泽民其人》一：瞒身世欺骗共党</b></h1>
 
-<h3><b>第一章：瞒身世欺骗共党 编瞎话过继死人</b><p></h3>
+<a name=1><h3><b>第一章：瞒身世欺骗共党 编瞎话过继死人</b><p></h3>
 <tr>
 <td align="center"><IMG SRC="aip/505304644628-600x400.jpg" width=780></td>
 </tr>
