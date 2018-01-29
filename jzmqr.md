@@ -6,7 +6,7 @@
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>桌机版7.64(exe)</a>
-
++ <a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>愛博電視Green_iPPOTV(zip)</a>
 <hr>
 
 
