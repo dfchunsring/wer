@@ -1,4 +1,4 @@
-
+<b>请下载</b><br>
 + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a> <br>    <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/ultiGoalCmCN8k.epub?raw=true'>镶崁8k mp3 的共产主义的终极目的中国篇 简体版epub电子书</a><br>
 <hr>
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a><br>
@@ -2884,7 +2884,6 @@
 <H3 align="center"><b>第十七章：三个代表自吹自擂 自焚伪案黑幕惊天（2000、2001年）</b><p></h3>
 <td align="center"><IMG SRC="aip/1405280213592404-600x400.jpg" width=780></td>
 <h5>2000年3月初，《人民日报》发表了一篇评论员文章，推出三句话，即“三个代表”，首次作为江泽民的“思想”理论在全国范围内推出。但不久，这场轰轰烈烈的宣传就被证明是一出闹剧。（大纪元资料图片）</h5>
-
 【大纪元6月16日讯】<b>1.“三个代表”</b><p>
 
 2000年3月初，《人民日报》发表了一篇评论员文章，推出三句话，即“三个代表”，首次作为江泽民的“思想”理论在全国范围内推出。但不久，这场轰轰烈烈的宣传就被证明是一出闹剧。
@@ -3603,7 +3602,6 @@
 <a name=21><h1 align="center"><b>《江泽民其人》20：躲非典四处流窜</b></h1>
 <H3 align="center"><b>第二十章：躲非典四处流窜 保军权苟延残喘（2003）</b><p></h3>
 <td align="center"><IMG SRC="aip/5061951561230-600x400.jpg" width=780></td>
-
 【大纪元6月19日】<b>1.非典疫情</b><p> 　
 
 2003年，一起恐怖的非典疫情（萨斯，SARS）席卷全球。
