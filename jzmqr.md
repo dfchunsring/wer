@@ -1,15 +1,15 @@
-   + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a>        
-+ <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/ultiGoalCmCN8k.epub?raw=true'>镶崁8k mp3 的共产主义的终极目的中国篇 简体版epub电子书</a>
+
++ <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a> <br> + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/ultiGoalCmCN8k.epub?raw=true'>镶崁8k mp3 的共产主义的终极目的中国篇 简体版epub电子书</a><br>
 <hr>
-+ <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版17.04(exe)</a>
-+ <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>桌机版7.64(exe)</a>
++ <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a><br>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a><br>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版17.04(exe)</a><br>
++ <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a><br>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a><br>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>桌机版7.64(exe)</a><br>
  <hr>
-+ <a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>愛博電視Green_iPPOTV(zip)</a>
-   - <a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true' > 新唐人安卓版2.1.12sp1  (大陆有程序被自动删除或隐藏的安卓产品)iNTD_TV(apk)</a>
++ <a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>愛博電視Green_iPPOTV(zip)</a><br>
+   - <a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true' > 新唐人安卓版2.1.12sp1  (大陆有程序被自动删除或隐藏的安卓产品)iNTD_TV(apk)</a><br>
 <hr>
 
 <a href="#1">1.《江泽民其人》序─江泽民为何物？</a><br>
