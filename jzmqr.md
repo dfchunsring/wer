@@ -15,7 +15,7 @@
    <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a><br>
    <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>桌机版7.64(exe)</a><br>
    
-+ <a href='https://github.com/dfchunsring/wer/blob/master/download/-fangqian.rar'>翻牆-fangqian.rar(rar)</a><br>
++ <a href='https://github.com/dfchunsring/wer/blob/master/download/-fangqian.rar?raw=true'>翻牆-fangqian.rar(rar)</a><br>
 
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>愛博電視Green_iPPOTV(zip)</a><br>
