@@ -1,7 +1,7 @@
 <b>请下载電子書</b><br>
 
 
-+ <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a> <br>    <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/ultiGoalCmCN8k.epub?raw=true'>镶崁8k mp3 的共产主义的终极目的中国篇 简体版epub电子书</a><br>
++ <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a> <br> + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/ultiGoalCmCN8k.epub?raw=true'>镶崁8k mp3 的共产主义的终极目的中国篇 简体版epub电子书</a><br>
 
 <hr>
 
@@ -9,42 +9,63 @@
 
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a><br>
-   <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a><br>
-   <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版17.04(exe)</a><br>
- <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a><br>
-   <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a><br>
-   <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>桌机版7.64(exe)</a><br>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a><br>
+     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版17.04(exe)</a><br>
++ <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a><br>
+   - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2(zip)</a><br>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>桌机版7.64(exe)</a><br>
    
-+ <a href='https://github.com/dfchunsring/wer/blob/master/download/-fangqian.rar?raw=true'>翻牆-fangqian.rar(rar)</a><br>
++ <a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true'>翻牆-fangqian.rar(rar)</a><br>
 
 
-+ <a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>愛博電視Green_iPPOTV(zip)</a><br>
++   <a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>愛博電視Green_iPPOTV(zip)</a><br>
 
 
-  <a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true' > 新唐人安卓版2.1.12sp1  (大陆有程序被自动删除或隐藏的安卓产品)iNTD_TV(apk)</a><br>
++ <a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true' > 新唐人安卓版2.1.12sp1  (大陆有程序被自动删除或隐藏的安卓产品)iNTD_TV(apk)</a><br>
+
 <hr>
-<b>目錄</b><br>
+
+<a name=list><b>目錄</b><p>
  
  
-+ <a href="#1">1.《江泽民其人》序─江泽民为何物？</a><br>
-<a href="#2">2.《江泽民其人》一：瞒身世欺骗共党</a><br>
++ <a href="#1">1.《江泽民其人》序─江泽民为何物？</a>
+
+<a href="#2">2.《江泽民其人》一：瞒身世欺骗共党</a>
+
 <a href="#3">3.《江泽民其人》二：弄机电两代汉奸</a><br>
+
 <a href="#4">4.《江泽民其人》三：小科长钻营有术</a><br>
+
 <a href="#5">5.《江泽民其人》四：上海学潮见风使舵</a><br>
+
 <a href="#6">6.《江泽民其人》五：封导报六四屠城</a><br>
+
 <a href="#7">7.《江泽民其人》六：沙漠风暴老贼心惊</a><br>
+
 <a href="#8">8.《江泽民其人》七：江贼倒杨抢班夺权</a><br>
+
 <a href="#9">9.《江泽民其人》八：抢滩北京希同束手</a><br>
+
 <a href="#10">10.《江泽民其人》九：小平去世乔石下台</a><br>
+
 <a href="#11">11.《江泽民其人》十：穷奢极欲腐败治军</a><br>
+
 <a href="#12">12.《江泽民其人》11：洪水滔天死保龙脉</a><br>
+
 <a href="#13">13.《江泽民其人》12：法轮常转和平请愿</a><br>
+
 <a href="#14">14.《江泽民其人》13：迫害大法赤膊上阵</a><br>
+
 <a href="#15">15.《江泽民其人》14：黑箱作业出卖国土</a><br>
+
 <a href="#16">16.《江泽民其人》15：假反腐收拾异己</a><br>
+
 <a href="#17">17.《江泽民其人》16：穷凶极恶动杀机</a><br>
+
 <a href="#18">18.《江泽民其人》17：三个代表自吹自擂</a><br>
+
 <a href="#19">19.《江泽民其人》18：寡人好色妻妾成群</a><br>
+
 <a href="#20">20.《江泽民其人》19：流年不利成被告</a><br>
 <a href="#21">21.《江泽民其人》20：躲非典四处流窜</a><br>
 <a href="#22">22.《江泽民其人》21：全球起诉风云激荡</a><br>
