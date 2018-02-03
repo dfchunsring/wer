@@ -1,8 +1,11 @@
-<b>请下载翻牆</b><br>
+<b>请下载電子書</b><br>
+
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a> <br>    <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/ultiGoalCmCN8k.epub?raw=true'>镶崁8k mp3 的共产主义的终极目的中国篇 简体版epub电子书</a><br>
 
 <hr>
+
+<b>请下载翻牆</b><br>
 
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1(apk)</a><br>
