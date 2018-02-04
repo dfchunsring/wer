@@ -10,8 +10,8 @@
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>无界翻墙软件</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1</a><br>
-     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'> 無界.桌机版.u1704</a><br>
-     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'> 無界.桌机版.u1704</a>
+   - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'> 無界.桌机版.u1704</a><br>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'> 無界.桌机版.u1704</a>
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2</a>
    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版7.64版（1月9日)</a>
