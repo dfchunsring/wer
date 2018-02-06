@@ -80,7 +80,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	
 <tr>
 	<td>【《九评》编辑部：《共产主义的终极目的》8】</td>
-	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s-shuchun.epub?raw=true">圖文.goalCh8s-epub</a></td>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s%20-05-.epub?raw=true">圖文.goalCh8s-epub</a></td>
 </tr>	
 	
 <tr>
