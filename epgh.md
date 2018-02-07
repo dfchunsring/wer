@@ -45,8 +45,8 @@
   <tr><td width=880;><h1 align="center"><b>电子书下载</b></h1></td></tr>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
-	<td  width="480"></td>
-	<td  width="400">說明</td>
+	<td  width="480">書籍目錄</td>
+	<td  width="400">epub电子书</td>
 </tr>
 <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
