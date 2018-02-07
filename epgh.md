@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-	<td width=490;>收视方法</td>
+	<td width=480;>收视方法</td>
 	<td width=400;>软件下载</td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@
 </tr>
 </table>
 <table>
-  <tr><td width=870;><h1 align="center"><b>电子书下载</b></h1></td></tr>
+  <tr><td width=880;><h1 align="center"><b>电子书下载</b></h1></td></tr>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
 	<td  width="480"></td>
