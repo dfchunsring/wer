@@ -23,7 +23,7 @@
 </tr>
 <tr>
 	<td>3.通过翻墙软件</td>
-	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true'>翻墙软件集成包+下载详细说明书</a></td>
+	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true'>翻墙软件详细说明书</a></td>
 </tr>
 <tr>
 	<td>爱博电视安裝请看桌机板教学</td>
