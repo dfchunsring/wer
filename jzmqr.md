@@ -2,20 +2,20 @@
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a>
 + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/ultiGoalCmCN8k.epub?raw=true'>镶崁8k mp3 的共产主义的终极目的中国篇 简体版epub电子书</a>
-+ <a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true'>翻牆(epub电子书)</a>
++ <a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>翻牆(epub电子书)</a>
 
 <hr>
 
 <b>请下载翻牆</b><br>
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>无界翻墙软件</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>安卓版4.1</a>
+    - <a href='https://github.com/dfchunsring/drdr/blob/master/fg/um4.2.apk?raw=true'>安卓版4.2</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界桌机版17.04(zip)</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>无界桌机版17.04(exe)</a>
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2</a>
    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版7.64版（1月9日)</a>
-+ <a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视桌机版</a>   
++ <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
 + <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
 
