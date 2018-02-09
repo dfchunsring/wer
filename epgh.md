@@ -6,7 +6,6 @@
 </tr></td>
 </table>
 <br />
-<hr> 
 
 <tr><td width=880;><h1 align="center"><b>预告~~新唐人全球華人新年晚會收看的方法</b></h1></td></tr>
 
