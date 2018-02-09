@@ -15,7 +15,7 @@
 </tr>
 <tr>
 	<td>1.爱博电视桌机版(*特別推薦*)</td>
-	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视IPPOTV </a></td>
+	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></td>
 </tr>		
 <tr>
 	<td>2.新唐人安卓版INTD TV</td>
@@ -37,7 +37,7 @@
 	
 </tr>
 <tr>
-	<td>点击下载翻墙软件集成包</td>
+	<td>点击下载翻墙软件</td>
 	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载</a></td>
 </tr>
 </table>
@@ -50,7 +50,7 @@
 </tr>
 <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
-	<td><a href="https://git.io/fang">圖文、視頻epub</a></td>
+	<td><a href="https://git.io/dici">圖文、視頻epub</a></td>
 </tr>
 <tr>
 	<td>【九评共产党】</td>
