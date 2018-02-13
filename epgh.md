@@ -11,14 +11,13 @@
 </table>
 
 <table>
-	<tr><td width=880;>
 	<td  width="293">1</td>
 	<td  width="293">2</td>
 	<td  width="293">3</td>
 	<td><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
-		</td></tr>
+</td>
 </table>
 
 <h2 align="center"><b>翻牆軟件下載</b></h2></p>
