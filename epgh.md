@@ -34,10 +34,8 @@
 <td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书</a></td>
 <td><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件下载</a></td>
 </table>
-
+	<h2 align="center">epub电子书下载</h2></p>
 <table>
-	<td><h2 align="center"><b>epub电子书下载</b></h2></td>
-
 <tr>
 	<td><a href="https://git.io/dici">【突破封锁看世界】翻墙软件手册epub</a></td>
 	<td><a href="https://git.io/9ping">【九评共产党】epub</a></td>
