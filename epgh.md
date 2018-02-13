@@ -12,9 +12,9 @@
 
 <table>
 <tr>
-	<td  width="293"><h2>1</h2></td>
-	<td  width="293"><h2>2</h2></td>
-	<td  width="293"><h2>3</h2></td>
+	<td  width="293"><h2>新唐人韩星五号参数</h2></td>
+	<td  width="293"><h2>爱博电视IPPOTV安装软件</h2></td>
+	<td  width="293"><h2>爱博桌机板安装教学.mp4</h2></td>
 </tr>
 <tr>
 	<td><h2><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></h2></td>
