@@ -39,11 +39,12 @@
 <tr>
 	<td><a href="https://git.io/dici">【突破封锁看世界】翻墙软件手册epub</a></td>
 	<td><a href="https://git.io/9ping">【九评共产党】epub</a></td>
-	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s%20-05-.epub?raw=true">【《九评》编辑部：《共产主义的终极目的》8】.goalCh8s-epub</a></td>
-	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">【共产主义的终极目的中国篇】epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/dfchunsring/yue/blob/master/uty.md" target="_blank">mp4播报版 epub </a></td>
+		<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s%20-05-.epub?raw=true">【《九评》编辑部：《共产主义的终极目的》8】-epub</a></td>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">【共产主义的终极目的中国篇】<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/dfchunsring/yue/blob/master/uty.md" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://github.com/dfchunsring/yue/blob/master/uty.md" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://git.io/jtdwh">解體黨文化epub</a></td>
 </tr>
 <tr>
-	<td><a href="https://git.io/jtdwh">解體黨文化epub</a></td>
 	<td><a href="https://git.io/mks">马克思的成魔之路epub</a></td>
 	<td><a href="https://git.io/jzmqr">江泽民其人epub</a></td>
 	<td><a href="https://git.io/fytdx">风雨天地行epub</a></td>
