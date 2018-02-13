@@ -1,10 +1,42 @@
 
 <table>
+	
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/1411040930302109.1.jpg?raw=true" width=880></a><br></div>	
+	
 <tr><td width=880;><h1 align="center"><b>翻墙软件與电子书</b></h1>
 
 [ <div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true)
 </tr></td>
+
+<tr>	
+	<td>1.大陆观众可通过韩星五号的新唐人中国频道收看</td>
+	<td><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
+</tr>	
+	
+<tr>
+	<td>2.爱博电视桌机版(*特別推薦*)</td>
+	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></td>
+</tr>		
+
+<tr>
+	<td>3.通过翻墙软件</td>
+	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书</a></td>
+</tr>
+
+<tr>
+	<td>点击下载翻墙软件</td>
+	<td><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件下载</a></td>
+</tr>
+
+<tr>
+	<td>爱博电视安裝请看桌机板教学</td>
+	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
+</td>
+</tr>
+</tr>
 </table>
+
 <br />
 
 <tr><td ><h1 align="center"><b>预告~~新唐人全球華人新年晚會收看的方法</b></h1></td></tr>
