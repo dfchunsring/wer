@@ -43,50 +43,39 @@
 	<td  width="400">epub电子书</td>
 </tr>
 <tr>
-	<td>【突破封锁看世界】翻墙软件手册</td>
-	<td><a href="https://git.io/dici">圖文、視頻epub</a></td>
+	<td><a href="https://git.io/dici">【突破封锁看世界】翻墙软件手册epub</a></td>
 </tr>
 <tr>
-	<td>【九评共产党】</td>
-	<td><a href="https://git.io/9ping">圖文epub</a></td>
+	<td><a href="https://git.io/9ping">【九评共产党】epub</a></td>
 </tr>
 	
 <tr>
-	<td>【《九评》编辑部：《共产主义的终极目的》8】</td>
-	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s%20-05-.epub?raw=true">圖文.goalCh8s-epub</a></td>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s%20-05-.epub?raw=true">【《九评》编辑部：《共产主义的终极目的》8】.goalCh8s-epub</a></td>
 </tr>	
 	
 <tr>
-	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/dfchunsring/yue/blob/master/uty.md" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">【共产主义的终极目的中国篇】epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/dfchunsring/yue/blob/master/uty.md" target="_blank">mp4播报版 epub </a></td>
 </tr>
 <tr>
-	<td>解體黨文化</td>
-	<td><a href="https://git.io/jtdwh">圖文epub</a></td>
+	<td><a href="https://git.io/jtdwh">解體黨文化epub</a></td>
 </tr>
 <tr>
-	<td>马克思的成魔之路</td>
-	<td><a href="https://git.io/mks">圖文epub</a></td>
+	<td><a href="https://git.io/mks">马克思的成魔之路epub</a></td>
 </tr>
 <tr>
-	<td>江泽民其人</td>
-	<td><a href="https://git.io/jzmqr">圖文epub</a></td>
+	<td><a href="https://git.io/jzmqr">江泽民其人epub</a></td>
 </tr>
 <tr>
-	<td>风雨天地行</td>
-	<td><a href="https://git.io/fytdx">圖文epub</a></td>
+	<td><a href="https://git.io/fytdx">风雨天地行epub</a></td>
 </tr>
 <tr>
-	<td>为什么要三退</td>
-	<td><a href="https://git.io/whytd">圖文epub</a></td>
+	<td><a href="https://git.io/whytd">为什么要三退epub</a></td>
 </tr>
 <tr>
-	<td>死刑犯遮不住器官市场的蘑菇云</td>
-	<td><a href="https://git.io/mro">圖文epub</a></td>
+	<td><a href="https://git.io/mro">死刑犯遮不住器官市场的蘑菇云epub</a></td>
 </tr>
 <tr>
-	<td>一位律师的肺腑直言</td>
-	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/lawyer.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/lawyer.epub?raw=true">一位律师的肺腑直言epub</a></td>
 </tr>
 </table>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
