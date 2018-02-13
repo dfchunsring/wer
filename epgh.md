@@ -19,7 +19,7 @@
 </td>
 </table>
 
-<h1 align="center"><b>翻牆軟件下載</b></p>
+<h2 align="center"><b>翻牆軟件下載</b></h2></p>
 
 <table>
  <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>自由门.桌机版.exe</a></td>
@@ -30,8 +30,8 @@
 </table>
 
 <table>
-  <tr><td width=880;><h1 align="center"><b>电子书下载</b></h1></td></tr>
-<table  cellspacing="1" cellpadding="1">
+  <tr><td width=880;><h2 align="center"><b>电子书下载</b></h2></td></tr>
+<table  cellspacing="2" cellpadding="2">
 <tr  width="880">
 	<td  width="480">書籍目錄</td>
 	<td  width="400">epub电子书</td>
