@@ -35,12 +35,13 @@
 <td><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件下载</a></td>
 </table>
 	<h2 align="center">epub电子书下载</h2></p>
+	<td><a href="https://git.io/dici">【突破封锁看世界】翻墙软件手册epub</a></td>
 <table>
 <tr>
-	<td><a href="https://git.io/dici">【突破封锁看世界】翻墙软件手册epub</a></td>
 	<td><a href="https://git.io/9ping">【九评共产党】epub</a></td>
-		<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s%20-05-.epub?raw=true">【《九评》编辑部：《共产主义的终极目的》8】-epub</a></td>
-	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">【共产主义的终极目的中国篇】<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/dfchunsring/yue/blob/master/uty.md" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s%20-05-.epub?raw=true">【《九评》编辑部：《共产主义的终极目的》8】-epub</a></td>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">【共产主义的终极目的中国篇】 </a></td>
+	<td><a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp; </a></td>
 	<td><a href="https://github.com/dfchunsring/yue/blob/master/uty.md" target="_blank">mp4播报版 epub </a></td>
 	<td><a href="https://git.io/jtdwh">解體黨文化epub</a></td>
 </tr>
