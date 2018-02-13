@@ -19,43 +19,19 @@
 </td>
 </table>
 
-<br />
-
-<tr><td ><h1 align="center"><b>预告~~新唐人全球華人新年晚會收看的方法</b></h1></td></tr>
+<h1 align="center"><b>翻牆軟件下載</b></p>
 
 <table>
-<tr>
-	<td width=480;>收视方法</td>
-	<td width=400;>软件下载</td>
-</tr>
-<tr>
-	<td>1.爱博电视桌机版(*特別推薦*)</td>
-	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></td>
-</tr>		
-<tr>
-	<td>2.新唐人安卓版INTD TV</td>
-	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true'>INTD TV </a></td>
-</tr>
-<tr>
-	<td>3.通过翻墙软件</td>
-	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true'>翻墙软件详细说明书</a></td>
-</tr>
-<tr>
-	<td>爱博电视安裝请看桌机板教学</td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
-</td>
-</tr>
-<tr>
-	<td>手机安裝请看安卓板教學</td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/ippotvm.mp4?raw=true'>新唐人安卓版教学 </a>
-</td>
-	
-</tr>
-<tr>
-	<td>点击下载翻墙软件</td>
-	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载</a></td>
-</tr>
+
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>自由门.桌机版.exe</a></td>
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门.安卓版.zip</a></td>
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界浏览.桌机版.zip</a></td>
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true'>无界浏览.安卓版.apk</a></td>
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true'>无界.安卓手机版.rar</a></td>
 </table>
+hr
+
+<br />
 <table>
   <tr><td width=880;><h1 align="center"><b>电子书下载</b></h1></td></tr>
 <table  cellspacing="1" cellpadding="1">
