@@ -22,16 +22,13 @@
 <h1 align="center"><b>翻牆軟件下載</b></p>
 
 <table>
-
  <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>自由门.桌机版.exe</a></td>
  <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门.安卓版.zip</a></td>
  <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界浏览.桌机版.zip</a></td>
  <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true'>无界浏览.安卓版.apk</a></td>
  <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true'>无界.安卓手机版.rar</a></td>
 </table>
-hr
 
-<br />
 <table>
   <tr><td width=880;><h1 align="center"><b>电子书下载</b></h1></td></tr>
 <table  cellspacing="1" cellpadding="1">
