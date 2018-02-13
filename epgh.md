@@ -4,8 +4,8 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/1411040930302109.1.jpg?raw=true" width=880></a><br></div>	
 	
-<td><a href="https://git.io/dici"><h2 align="center">【突破封锁看世界】翻墙软件手册epub</h2></a></td>	
-	
+[ <div align="center"><h2>【突破封锁看世界】翻墙软件手册epub</h2></div>](https://git.io/dici)
+
 <tr><td width=880;><h1 align="center"><b>翻墙软件與电子书</b></h1>
 
 [ <div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true)
