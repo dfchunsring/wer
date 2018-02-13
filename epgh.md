@@ -17,9 +17,9 @@
 	<td  width="293"><h2>3</h2></td>
 </tr>
 <tr>
-	<td><a href='https://github.com/gofun72/telove/blob/master/she-1.md'><h2>播出参数</h2></a></td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'><h2>爱博电视IPPOTV </h2></a></td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'><h2>爱博桌机板教学</h2> </a>
+	<td><h2><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a></h2>
 </td></tr>
 </table>
 
