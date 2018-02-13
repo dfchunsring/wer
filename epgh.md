@@ -11,27 +11,12 @@
 </table>
 
 <table>
-<tr>	
 	<td><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
-</tr>	
-	
-<tr>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></td>
-</tr>		
-
-<tr>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书</a></td>
-</tr>
-
-<tr>
 	<td><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件下载</a></td>
-</tr>
-
-<tr>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
 </td>
-</tr>
-</tr>
 </table>
 
 <br />
