@@ -11,12 +11,14 @@
 </table>
 
 <table>
+	<tr><td width=880;>
+	<td  width="293">1</td>
+	<td  width="293">2</td>
+	<td  width="293">3</td>
 	<td><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书</a></td>
-	<td><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件下载</a></td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
-</td>
+		</td></tr>
 </table>
 
 <h2 align="center"><b>翻牆軟件下載</b></h2></p>
@@ -27,6 +29,8 @@
  <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界浏览.桌机版.zip</a></td>
  <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true'>无界浏览.安卓版.apk</a></td>
  <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true'>无界.安卓手机版.rar</a></td>
+<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书</a></td>
+<td><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件下载</a></td>
 </table>
 
 <table>
