@@ -45,7 +45,7 @@
 </tr>
 <tr>	
 	<td><a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp; </a></td>
-	<td><a href="https://github.com/dfchunsring/yue/blob/master/uty.md" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/goalmp4Npf.epub?raw=true">mp4播报版 epub </a></td>
 	<td><a href="https://git.io/jtdwh">解體黨文化epub</a></td>
 </tr>
 <tr>
