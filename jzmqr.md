@@ -3,7 +3,7 @@
 + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a>
 + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/ultiGoalCmCN8k.epub?raw=true'>镶崁8k mp3 的共产主义的终极目的中国篇 简体版epub电子书</a>
 + <a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>翻牆(epub电子书)</a>
-
++ <a href='https://github.com/dfchunsring/wer/blob/master/epub/goalmp3Np.epub?raw=true'>（音频版）【共产主义的终极目的中国篇全书】</a>
 <hr>
 
 <b>翻牆下载</b><br>
