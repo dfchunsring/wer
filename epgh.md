@@ -42,6 +42,9 @@
 [ <div align="center"><h2>软件安装说明:</h2></div>](https://git.io/ree)
 	<h2 align="center">epub电子书下载</h2></p>
 <table>
+<tr>	
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalmp3Np.epub?raw=true">（音频版）【共产主义的终极目的中国篇全书】epub</a></tr>
+	
 <tr>
 	<td><a href="https://git.io/9ping">【九评共产党】epub</a></td>
 	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s%20-05-.epub?raw=true">【《九评》编辑部：《共产主义的终极目的》8】-epub</a></td>
