@@ -70,7 +70,7 @@
 	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/lawyer.epub?raw=true">一位律师的肺腑直言epub</a></td>
 </tr>
 </table>
- <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
+ <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">真相部落</a></div>
  </body>
 </html>
 
