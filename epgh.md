@@ -12,15 +12,7 @@
 </tr></td>
 </table>
 
-<table>
 
-<tr>
-	<td  width="220"><td><h3><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>新唐人韩星五号参数</a></h3></td>
-	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV安装软件</a></h3></td>
-	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板安装教学.mp4</a></h3>
-	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>安卓版2.1.12sp1 .iNTD_TV(apk)</a></h3></td>
-</td></tr>
-</table>
 
 <h3>因为中共全力打造红墙局域网，自由上网在中国成为难得的享用。在网络上发送数据时，会产生“足迹”，跟踪“足迹”会查到来源，这就是“电子路径跟踪”。破坏掉电子路径上的数据才能保障上网匿名化。自由门和无界就是这样的安全软件。中共当局尝试阻止这样的软件，但同时会造成使中国互联网完全关闭的风险。</h3></p>
 
@@ -74,6 +66,17 @@
 </tr>
 	<td><a href="https://github.com/dfchunsring/drdr/blob/master/epub/3tbping.epub?raw=true">明慧特刊：三退是福epub</a></td>
 </table>
+
+<table>
+
+<tr>
+	<td  width="220"><td><h3><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>新唐人韩星五号参数</a></h3></td>
+	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV安装软件</a></h3></td>
+	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板安装教学.mp4</a></h3>
+	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>安卓版2.1.12sp1 .iNTD_TV(apk)</a></h3></td>
+</td></tr>
+</table>
+
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">真相部落</a></div>
  </body>
  【新唐人2018年02月27日讯】2月22号美国硅谷企业家马斯克(Elon Musk)的太空探索科技公司SpaceX，将两颗实验通讯卫星成功送入太空，由此开启向全球数十亿人提供高速互联网的〝星链〞计划。中国网友也欢声一片，不过业界人士指出，中国网友可能无法使用这一服务。
