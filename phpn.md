@@ -3,7 +3,7 @@
 <tbody>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/1c6500064715f0fec83b.jpg?raw=true" width=880></a><br></div>	
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/Firefox1..jpg?raw=true" width=880></a><br></div>	
 <tr>
 <td align="center"><h2>火狐浏览器便携版（易学易用的版本，持续更新）</h2></td>
 </tr>
