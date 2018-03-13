@@ -64,6 +64,16 @@ http://media4.minghui.org/Software/firefox/Firefox_JiaoCheng.zip
 先退出火狐浏览器，从以下链接下载SiteSecurityServiceState.txt，拷贝到“火狐浏览器\FirefoxPortable\Data\profile”路径下，替换原有文件。
 SiteSecurityServiceState.txt
 SiteSecurityServiceState.txt.asc  
-  
+
+<hr>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/googlelogo1..jpg?raw=true" width=880></a><br></div>	
+
+Google Chrome 是一款快速、安全且免费的网络浏览器，能很好地满足新型网站对浏览器的要求。现在就在桌面设备上试 ... 您使用的是Chromebook，因此无需下载Chrome。 您将始终拥有自动更新 ... Chrome 可将您在计算机上打开的标签页、保存的书签和最近搜索过的内容同步到手机或平板电脑上，反之亦然。这意味着您可将自己 ...
+<p>
+              <a class="show-dialog-options hide-cros" data-g-event="cta" href="#">下載適用於其他平台的
+              Google Chrome</a>
+            </p>
 </tbody>
 </table>
