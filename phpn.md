@@ -4,6 +4,9 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/Firefox1..jpg?raw=true" width=880></a><br></div>	
+
+[ <div align="center"><h2>火狐浏览器,Chrome浏览器免费下载</h2></div>](http://220.141.123.198/chrome/)
+
 <tr>
 <td align="center"><h2>火狐浏览器便携版（易学易用的版本，持续更新）</h2></td>
 </tr>
