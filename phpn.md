@@ -64,16 +64,67 @@ http://media4.minghui.org/Software/firefox/Firefox_JiaoCheng.zip
 先退出火狐浏览器，从以下链接下载SiteSecurityServiceState.txt，拷贝到“火狐浏览器\FirefoxPortable\Data\profile”路径下，替换原有文件。
 SiteSecurityServiceState.txt
 SiteSecurityServiceState.txt.asc  
-
+</tbody>
+</tbody>
 <hr>
-
+<tbody>
+<tbody>  
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/googlelogo1..jpg?raw=true" width=880></a><br></div>	
 
 Google Chrome 是一款快速、安全且免费的网络浏览器，能很好地满足新型网站对浏览器的要求。现在就在桌面设备上试 ... 您使用的是Chromebook，因此无需下载Chrome。 您将始终拥有自动更新 ... Chrome 可将您在计算机上打开的标签页、保存的书签和最近搜索过的内容同步到手机或平板电脑上，反之亦然。这意味着您可将自己 ...
-<p>
-              <a class="https://www.google.com.tw" data-g-event="cta" href="#">下載適用於其他平台的
-              Google Chrome</a>
-            </p>
+
+下载和安装 Google Chrome
+Google Chrome 是一款快速且免费的网络浏览器。在下载之前，请检查 Chrome 是否支持您的操作系统，以及您是否满足所有其他系统要求。
+
+计算机 ANDROID 设备IPHONE 和 IPAD
+在 Windows 设备上安装 Chrome
+下载安装文件。
+如果系统出现提示，请点击运行或保存。
+如果选择保存，双击下载文件即可开始安装。
+启动 Chrome：
+Windows 7：完成所有设置后，系统会打开 Chrome 窗口。
+Windows 8 和 8.1：系统会显示一个欢迎对话框。请点击下一步选择默认浏览器。
+Windows 10：完成所有设置后，系统会打开 Chrome 窗口。您可以将 Chrome 设为默认浏览器。
+如果您使用过其他浏览器（例如 Internet Explorer 或 Safari），可以将您的设置导入到 Chrome 中。
+
+离线安装 Chrome
+
+
+
+在 Mac 设备上安装 Chrome
+下载安装文件。
+打开名为“googlechrome.dmg”的文件。
+在随即打开的窗口中，找到 Chrome Chrome。
+将 Chrome 拖动到“应用程序”文件夹中。
+系统可能会要求您输入管理员密码。
+如果您不知道管理员密码，请将 Chrome 拖动到计算机上可让您进行修改的位置（如桌面）。
+打开 Chrome。
+打开 Finder。
+在边栏中，点击 Google Chrome 右侧的“弹出”图标 弹出。
+在 Linux 设备上安装 Chrome
+请使用与在计算机上安装程序时所用的相同软件安装 Chrome，系统会要求您输入管理员帐号密码。
+
+下载安装文件。
+要打开该软件包，请点击确定。
+点击安装软件包。
+系统会将 Google Chrome 添加到软件管理器中，以便随时更新 Chrome。
+
+查看支持的操作系统和系统要求
+Windows
+
+Mac
+
+Linux
+
+解决 Chrome 相关问题
+尝试卸载 Chrome 后再重新安装可以解决搜索引擎、Flash、弹出式窗口或 Chrome 更新方面的问题。
+解决安装 Google Chrome 时遇到的问题
+解决“喔唷，崩溃啦！”网页崩溃问题和其他网页加载错误
+相关文章
+登录 Chrome
+更新 Google Chrome
+卸载 Google Chrome
+
 </tbody>
 </table>
