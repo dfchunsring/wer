@@ -77,7 +77,7 @@
 </td></tr>
 </table>
 
- <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;"><h2>火狐浏览器,Chrome浏览器免费下载</h2></a></div>
+ <div align="right"><h2><a href="https://git.io/goal" style="font-size:24px;color:blue;">火狐浏览器,Chrome浏览器免费下载</a></h2></div>
  </body>
  【新唐人2018年02月27日讯】2月22号美国硅谷企业家马斯克(Elon Musk)的太空探索科技公司SpaceX，将两颗实验通讯卫星成功送入太空，由此开启向全球数十亿人提供高速互联网的〝星链〞计划。中国网友也欢声一片，不过业界人士指出，中国网友可能无法使用这一服务。
 
