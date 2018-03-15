@@ -5,6 +5,8 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/Firefox3..jpg?raw=true" width=880></a><br></div>	
 </table>
+
+<p></p>
 <table>
 
 <tr>
