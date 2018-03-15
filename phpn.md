@@ -20,6 +20,8 @@
  <td>
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/6_115106.jpg?raw=true" width=160  (http://qq.leucas.men/9/)></a><br></td>    
 </tr>
+</table>
+<table>
  <tr> 
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/7_115141.jpg?raw=true" width=880 (http://qq.leucas.men/10/)></a><br></td>  
 </tr>  
