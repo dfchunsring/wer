@@ -3,7 +3,7 @@
 <tbody>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/Firefox3..jpg?raw=true" width=880></a><br></div>	
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/firefox5..jpg?raw=true" width=880></a><br></div>	
 </table>
 
 [ <div align="center"><h2>火狐浏览器,Chrome浏览器免费下载</h2></div>](http://220.141.120.193/chrome/)
