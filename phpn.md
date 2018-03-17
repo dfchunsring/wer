@@ -6,6 +6,8 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/Firefox3..jpg?raw=true" width=880></a><br></div>	
 </table>
 
+[ <div align="center"><h2>火狐浏览器,Chrome浏览器免费下载</h2></div>](http://220.141.120.193/chrome/)
+
 <p>
 <p>
 <table>
@@ -26,7 +28,6 @@
    
 </table>
 
-[ <div align="center"><h2>火狐浏览器,Chrome浏览器免费下载</h2></div>](http://220.141.120.193/chrome/)
 
 <tr>
 <td align="center"><h2>火狐浏览器便携版（易学易用的版本，持续更新）</h2></td>
