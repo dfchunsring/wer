@@ -100,7 +100,7 @@ SiteSecurityServiceState.txt.asc
 <tbody>
 <tbody>  
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/googlelogo1..jpg?raw=true" width=880></a><br></div>	
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/googlelogo5..jpg?raw=true" width=880></a><br></div>	
 
 Google Chrome 是一款快速、安全且免费的网络浏览器，能很好地满足新型网站对浏览器的要求。现在就在桌面设备上试 ... 您使用的是Chromebook，因此无需下载Chrome。 您将始终拥有自动更新 ... Chrome 可将您在计算机上打开的标签页、保存的书签和最近搜索过的内容同步到手机或平板电脑上，反之亦然。这意味着您可将自己 ...
 
