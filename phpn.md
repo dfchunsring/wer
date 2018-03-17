@@ -6,7 +6,7 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/firefox5..jpg?raw=true" width=880></a><br></div>	
 </table>
 
-[ <div align="center"><h2>火狐浏览器,Chrome浏览器免费下载</h2></div>](http://220.141.120.193/chrome/)
+[ <div align="center"><h1>火狐浏览器,Chrome浏览器免费下载</h1></div>](http://220.141.120.193/chrome/)
 
 <tbody>
 <div align="center">
