@@ -64,6 +64,14 @@
 	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/Everconcaa..epub?raw=true">【世事关心】从网络封锁看中共暴政机器的运作.epub</a></td>
 	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/stsczf.epub?raw=true">2.93亿中国人共同的选择！epub</a></td>
 </tr>
+<tr>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/ak-425mstthtr.epub?raw=true">明慧专题：“四•二五”上访真相epub</a></td>	
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/bnhha1~20.epub?raw=true">【百年红祸】特别专题epub</a></td>
+	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/jpgcdm4a.epub?raw=true">九評三退epub</a></td>
+
+</tr>
+
+
 
 </table>
 
