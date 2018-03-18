@@ -10,7 +10,7 @@
 
 <tbody>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/mfn-7.jpg?raw=true" width=500></a><br></div>	
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/okdfmfn-7.jpg?raw=true" width=850></a><br></div>	
 </table>
 
 <p>
