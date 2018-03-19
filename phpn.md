@@ -38,8 +38,8 @@
 <td><h2 align="center"><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件免费下载</a></h2></td></p>
 <table>
 
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width=298>自由门.桌机版764.exe</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width=298>自由门.安卓版3.2.zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width=300>自由门.桌机版764.exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width=300>自由门.安卓版3.2.zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true' width=298>无界浏览.桌机版1704.zip</a></h2></td>
 </table>
 
