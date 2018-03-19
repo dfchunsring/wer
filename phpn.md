@@ -6,7 +6,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/asmfzln_2..png?raw=true" width=850></a><br></div>	
 </table>
-
+<br/>
 <p>
 <p>
 <table>
