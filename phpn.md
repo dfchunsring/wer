@@ -2,11 +2,7 @@
 
 <tbody>
 
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/firefoxx6.jpg?raw=true" width=880></a><br></div>	
-</table>
 
-[ <div align="center"><h1>火狐浏览器,Chrome浏览器免费下载</h1></div>](http://36.227.92.135/)
 
 <tbody>
 <div align="center">
@@ -33,6 +29,11 @@
    
 </table>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/firefoxx6.jpg?raw=true" width=880></a><br></div>	
+</table>
+
+[ <div align="center"><h1>火狐浏览器,Chrome浏览器免费下载</h1></div>](http://36.227.92.135/)
 
 <tr>
 <td align="center"><h2>火狐浏览器便携版（易学易用的版本，持续更新）</h2></td>
