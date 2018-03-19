@@ -2,13 +2,6 @@
 
 <tbody>
 
-<table>
- <tr> 
-<td><a href="http://qq.leucas.men/10/"><img src="https://github.com/dfchunsring/wer/blob/master/img1/7_115141.jpg?raw=true" width=850></a></td>
-</tr>  
-   
-</table>
-
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/firefox6a..png?raw=true" width=880></a><br></div>	
 </table>
