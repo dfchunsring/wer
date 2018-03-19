@@ -35,6 +35,18 @@
 
 <h1>下载浏览器请先翻墙~</h1>
 
+<h2 align="center">翻牆軟件免费下載</h2></p>
+
+<table>
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>自由门.桌机版764.exe</a></td>
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门.安卓版3.2.zip</a></td>
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界浏览.桌机版1704.zip</a></td>
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true'>无界浏览.安卓版4.2.apk</a></td>
+ <td><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true'>无界.安卓手机版1.0.8.rar</a></td>
+<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书-epub</a></td>
+<td><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件免费下载</a></td>
+</table>
+
 <h2>如果破网下载顺利，可直接下载以下这一个文件：</h2>
 
 <h3>完整下载地址:</h3>
