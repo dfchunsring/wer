@@ -6,7 +6,23 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/firefox6a..png?raw=true" width=880></a><br></div>	
 </table>
 
-<h1>需要火狐浏览器,Chrome浏览器请加qq:(908728809)</h1>
+<h1>下载浏览器~请先下载翻墙~</h1>
+
+<td><h2 align="center"><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件免费下载</a></h2></td></p>
+<table>
+
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width=300>自由门.桌机版764.exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width=300>自由门.安卓版3.2.zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true' width=298>无界浏览.桌机版1704.zip</a></h2></td>
+</table>
+
+<table>  
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width=298>无界浏览.安卓版4.2.apk</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width=298>无界.安卓手机版1.0.8.rar</a></h2></td>
+<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true' width=298>下载详细说明书-epub</a></h2></td>
+ </table>
+
+<h1>需要火狐浏览器,Chrome浏览器或者请加~qq:(908728809)</h1>
 
 <tr>
 <td align="center"><h2>火狐浏览器便携版（易学易用的版本，持续更新）</h2></td>
@@ -33,27 +49,13 @@
 
 下面是下载链接，有明慧网pgp签名（.asc结尾的文件，用于验证下载文件的真伪）。目前这个版本是51.0.1，以后可能会有新版，具体以明慧网实际发布链接为准。便携版可拷贝到加密盘的任何目录里，如果您希望用自由门破网，鼠标双击“启动自由门和火狐.exe”即可自动打开自由门软件，自由门找到服务器后，会自动打开火狐浏览器并显示明慧网（双击“设置.exe”可以设为自动打开动态网）；如果您希望用无界破网，则双击“启动无界和火狐.exe”即可。注意，使用这个火狐便携版时，破网软件不要放到其它地方去运行，如果在别处启动破网软件，默认会打开IE浏览器，而不是火狐便携版。
 
-<h1>下载浏览器~请先下载翻墙~</h1>
-
-<td><h2 align="center"><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件免费下载</a></h2></td></p>
-<table>
-
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width=300>自由门.桌机版764.exe</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width=300>自由门.安卓版3.2.zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true' width=298>无界浏览.桌机版1704.zip</a></h2></td>
-</table>
-
-<table>  
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width=298>无界浏览.安卓版4.2.apk</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width=298>无界.安卓手机版1.0.8.rar</a></h2></td>
-<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true' width=298>下载详细说明书-epub</a></h2></td>
- </table>
 
 
 
-<h2>如果破网下载顺利，可直接下载以下这一个文件：</h2>
 
-<h3>完整下载地址:</h3>
+<h1>如果破网下载顺利，可直接下载以下这一个文件：</h1>
+
+<h2>完整下载地址:</h2>
 
 https://webmail.minghui.org/registration/firefox/firefox.rar
 
