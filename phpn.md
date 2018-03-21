@@ -45,7 +45,7 @@ http://big5.minghui.org/mh/articles/2015/7/13/312394.html
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/googlelogo5..jpg?raw=true" width=880></a><br></div>	
 
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/downldoad/chrome_startup.exe?raw=true'>Chrome瀏覽器安裝版啟動包</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/downldoad/chrome_startup.exe?raw=true'>Chrome瀏覽器安裝版啟動包(exe)</a></h2></td>
 
 <tr>
 <td align="center"><h2>Chrome浏览器安装版启动包及教程（易学易用的版本，2017.5更新）</h2></td>
