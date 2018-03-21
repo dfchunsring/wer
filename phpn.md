@@ -6,7 +6,7 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/firefox6a..png?raw=true" width=880></a><br></div>	
 </table>
 
-<h1>下载浏览器~请先下载翻墙~</h1>
+<h1>下载浏览器~请先翻墙~或者请加~qq:(908728809)(亞璇)</h1>
 
 <td><h2 align="center"><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件免费下载</a></h2></td></p>
 <table>
@@ -21,8 +21,6 @@
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width=298>无界.安卓手机版1.0.8.rar</a></h2></td>
 <td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true' width=298>下载详细说明书-epub</a></h2></td>
  </table>
-
-<h1>需要火狐浏览器,Chrome浏览器或者请加~qq:(908728809)</h1>
 
 <tr>
 <td align="center"><h2>火狐浏览器便携版（易学易用的版本，持续更新）</h2></td>
