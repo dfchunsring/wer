@@ -14,7 +14,7 @@
 <td><a href="http://qq.leucas.men/2/"><img src="https://github.com/dfchunsring/wer/blob/master/img1/2_114938.jpg?raw=true" width=440></a></td>
  </tr>
  <tr>
-<td><a href="hhttp://qq.leucas.men/3/"><img src="https://github.com/dfchunsring/wer/blob/master/img1/3_114958.jpg?raw=true" width=440></a></td>
+<td><a href="http://qq.leucas.men/3/"><img src="https://github.com/dfchunsring/wer/blob/master/img1/3_114958.jpg?raw=true" width=440></a></td>
 <td><a href="http://qq.leucas.men/6/"><img src="https://github.com/dfchunsring/wer/blob/master/img1/4_115017.jpg?raw=true" width=440></a></td>
   </tr>
  <tr>
