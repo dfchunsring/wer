@@ -45,7 +45,7 @@ http://big5.minghui.org/mh/articles/2015/7/13/312394.html
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/googlelogo5..jpg?raw=true" width=880></a><br></div>	
 
-<td><h2 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/downldoad/chrome_startup.exe?raw=true'>Chrome瀏覽器安裝版啟動包(exe)</a></h2></td></p>
+<td><h2 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/downldoad/chrome_startup.exe?raw=true'>Chrome瀏覽器安裝版啟動包(exe)</a>下载浏览器~请先翻墙~</h2></td></p>
 <tr>
 <td align="center"><h2>Chrome浏览器安装版启动包及教程（易学易用的版本，2017.5更新）</h2></td>
 </tr>
@@ -56,13 +56,13 @@ http://big5.minghui.org/mh/articles/2015/7/13/312394.html
 
 如果遇到问题，请到天地行论坛网络安全版反馈。
 
-一、使用方法概述：
+<h2>一、使用方法概述：</h2>
 
 先正常安装Chrome浏览器，双击下载的ChromeStandaloneSetup.exe，采用默认的安装过程即可。安装完成后，Chrome会立即启动,先关闭它。把启动包chrome_startup.exe放到加密盘中（这是“自解压”程序，双击就能自动解压缩，无需再做老版本安装时“解除锁定”的操作），如果您希望用自由门破网，鼠标双击“启动自由门和Chrome.exe”即可自动打开自由门软件，自由门找到服务器后，会自动打开Chrome浏览器并显示明慧网（双击“设置.exe”可以设为自动打开动态网）；如果您希望用无界破网，则双击“启动无界和Chrome.exe”即可。
 
 注意不要双击桌面上的Google Chrome图标启动，建议直接删除桌面的快捷方式，双击运行“删除Chrome桌面图标及任务栏图标.vbs”即可。
 
-二、重要提醒：
+<h2>二、重要提醒：</h2>
 
 1、为保障登陆明慧站内信箱和天地行论坛帐号的安全，请停止使用旧版火狐、停止使用ie浏览器，请使用最新版的Chrome浏览器并配合这个启动包使用，或者使用明慧网发表的新版火狐浏览器。这个压缩包里的启动程序会自动关闭ie浏览器。
 
@@ -76,7 +76,7 @@ http://big5.minghui.org/mh/articles/2015/7/13/312394.html
 
 6、不要使用Chrome的隐身模式（即“打开新的隐身窗口”功能），因为它会使安全配置无法持续更新。
 
-三、下载：
+<h2>三、下载：</h2>
 
 (1)下载安装程序：http://media4.minghui.org/Software/ChromeStandaloneSetup.exe
 
@@ -90,7 +90,7 @@ http://big5.minghui.org/mh/articles/2015/7/13/312394.html
 ChromeStandaloneSetup.exe.asc
 chrome_startup.exe.asc
 
-手工更新安全配置文件的方法
+<h2>手工更新安全配置文件的方法</h2>
 
 这个启动包中的安全配置能自动更新，在windows下使用这个启动包，不需要手工更新安全配置。如果您在不同环境下使用Chrome（如Linux或其他操作系统），或者使用的是老版本的启动包（2017.2月或更早发表的启动包没有自动更新安全配置的功能），可以参考以下方式手工更新安全配置。
 
@@ -98,7 +98,7 @@ chrome_startup.exe.asc
 
 如果您下载压缩包后半年内未访问过明慧站内信箱或论坛，或者访问过一次后，60天内没有再次访问，那么安全配置已经失效了，需要从新从明慧网下载新的压缩包，或者手工更新安全配置文件（以后明慧网会发表能自动更新安全配置文件的压缩包）。
 
-手工更新安全配置文件的方法如下：
+<h2>手工更新安全配置文件的方法如下：</h2>
 
 先退出chrome，从以下链接下载TransportSecurity，拷贝到“Chrome易学易用启动包\ChromeStartup\mychrome\Default”路径下，替换原有文件。
 TransportSecurity
