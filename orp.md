@@ -5,7 +5,7 @@
 </tr>
 	<h1 align="center">epub电子书免费下载</h1></p>
 <h1 align="center">	
-<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请使用阅读器Reasily请先下载</a></td></h1></p>	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请使用Reasily阅读器,请先下载</a></td></h1></p>	
 	
 <table>
 <tr>	
