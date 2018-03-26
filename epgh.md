@@ -6,7 +6,7 @@
 	
 [ <div align="center"><h2>【突破封锁看世界】翻墙请先下载免费软件</h2></div>](https://git.io/ree)
 
-<tr><td width=880;><h1 align="center"><b>翻墙软件與电子书免费下载</b></h1>
+<tr><td width=880;><h1 align="center"><b>翻墙软件免费下载</b></h1>
 
 [ <div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true)
 </tr></td>
