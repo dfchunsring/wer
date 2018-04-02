@@ -26,7 +26,8 @@
 
 <table>
  <tr> 
-<td><a href="http://qq.leucas.men/10/"><img src="https://github.com/dfchunsring/wer/blob/master/img1/3tt-1.jpg?raw=true" width=850></a></td>
+<td><a href="http://qq.leucas.men/10/"><img src="https://github.com/dfchunsring/wer/blob/master/img1/3tt-1.jpg?raw=true" width=500></a></td>
+<td><a href="http://qq.leucas.men/5/"><img src="https://github.com/dfchunsring/wer/blob/master/img/sg-5.jpg?raw=true" width=350></a></td>
 </tr>  
    
 </table>
