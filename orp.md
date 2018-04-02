@@ -26,6 +26,10 @@
 	<td><a href="https://git.io/jzmqr">江泽民其人epub</a></td>
 
 </tr>
+<tr>
+<td><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/300Mst.epub?raw=true">三亿退党大潮-epub</a></td>	
+<td><a href="https://git.io/jtdwh">解體黨文化epub</a></td>
+</tr>
 </table>
 <hr/>	
 <table>
@@ -43,10 +47,7 @@
 	<td><a href="https://github.com/dfchunsring/wer/blob/master/epub/stsczf.epub?raw=true">【三退手冊】簡體 鑲嵌16K mp3-epub</a></td>
 	
 </tr>
-<tr>
-<td><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/300Mst.epub?raw=true">三亿退党大潮-epub</a></td>	
-<td><a href="https://git.io/jtdwh">解體黨文化epub</a></td>
-</tr>
+
 <tr>
 	<td><a href="https://git.io/fytdx">风雨天地行epub</a></td>
 	<td><a href="https://git.io/mro">死刑犯遮不住器官市场的蘑菇云epub</a></td>
