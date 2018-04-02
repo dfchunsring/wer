@@ -1,3 +1,13 @@
+<table>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/sfaa6s.jpg?raw=true" width=880></a><br></div>
+ </br>
+
+ <tr>
+<td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td></td>
+</table>
+
+
 <b>電子書下载</b><br>
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/downldoad/jzmqr-pic-2.0-20161021.epub?raw=true'>《江泽民其人》epub电子书</a>
