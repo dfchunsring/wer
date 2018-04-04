@@ -26,7 +26,7 @@
 <tr>
 	<td><h3><a href="https://git.io/whytd">为什么要三退epub</a></h3></td>	
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/305.epub?raw=true"> 【16年前的长春3.05插播壮举】</a></h3></td>	
-	<td><h3><a href="https://git.io/jzmqr">江泽民其人epub</a></h3></td>
+	<td><h3><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/jzmqr-p-2018.epub?raw=true">江泽民其人epub</a></h3></td>
 
 </tr>
 <tr>
