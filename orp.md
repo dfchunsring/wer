@@ -15,7 +15,7 @@
 <tr>	
 	<td><h3><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalmp3Np.epub?raw=true">（音频版）【共产主义的终极目的中国篇全书】epub</a></h3></td>
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">【共产主义的终极目的中国篇】 </a></h3></td>
-	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/goalCh8s%20-05-.epub?raw=true">【《九评》编辑部：《共产主义的终极目的》】播报版第五章-epub</a></h3></td>	
+	<td><h3><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/goalmp3Npr.epub?raw=true">【《九评》编辑部：《共产主义的终极目的》】播报版-epub</a></h3></td>	
 </tr>
 
 <tr>
