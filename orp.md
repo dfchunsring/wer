@@ -47,6 +47,11 @@
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/425snfa.epub?raw=true" width=270>永遠忘不了4.25那一天-epub</a></h3></td>	
 	
 </tr>	
+<tr>
+	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/3etd1.epub?raw=true" width=270>三亿人三退民众声援-epub</a></h3></td>	
+	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/3elntcjg.epub?raw=true" width=270>退出中共不同人的心历之路-epub</a></h3></td>
+	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/td3e..epub?raw=true" width=270>组图-全球各地声援-epub</a></h3></td>	
+</tr>
 </table>
 <hr/>
 <table>	
