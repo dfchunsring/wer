@@ -38,7 +38,7 @@
 <table>
 <tr>
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/ak-425mstthtr.epub?raw=true" width=270>明慧专题：“四•二五”上访真相epub</a></h3></td>	
-	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/upd-bnhha1_20.epub?raw=true" width=270>【百年红祸】特别专题epub</a></h3></td>
+	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/bnhhv.epub?raw=true" width=270>【百年红祸】特别专题epub</a></h3></td>
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/3tvspd316-ok.epub?raw=true" width=270>"3退"與平安-epub</a></h3></td>
 </tr>	
 <tr>
