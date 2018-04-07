@@ -1,6 +1,6 @@
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/gin-0406.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/gin-0407.jpg?raw=true" width=880></a><br></div>
  </br>
 
 <td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td>
