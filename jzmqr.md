@@ -13,7 +13,7 @@
 
 <td><h2> <a href='https://github.com/dfchunsring/wer/blob/master/wdy.md'>一键直连~免翻~</a></h2></td>
 
-<td><h2> <a href='https://git.io/Cich'>明慧专题：“四•二五”上访真相</a></h1></td>
+<td><h2> <a href='https://git.io/Cich'>“四•二五”上访真相</a></h1></td>
 
 <td><h2> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《九评》编辑部：《共产主义的终极目的》</a></h2></td>
 
