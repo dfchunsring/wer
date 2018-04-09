@@ -4,8 +4,9 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/2018-0514189.jpg?raw=true" width=880></td>
 </tr>
 <h1 align="center">	
-<td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true">法轮大法洪传世界-epub</a></td></h1></p>		
-<td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td>
+<td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true">法轮大法洪传世界-epub</a></td></h1></p>
+
+<h1 align="center"><td><a href="https://git.io/duun">重要连结~</a></td></h1></p>
 
 <h1 align="center">epub电子书免费下载</h1></p>
 <h1 align="center">	
