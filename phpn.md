@@ -8,6 +8,8 @@
 
 <h1>下载浏览器~请先翻墙~或者请加~qq:(908728809)(亞璇)</h1>
 
+<td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td>
+
 <td><h2 align="center"><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件免费下载</a></h2></td></p>
 <table>
 
