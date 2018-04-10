@@ -43,6 +43,7 @@
 	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>安卓版2.1.12sp1 .iNTD_TV(apk)</a></h3></td>
 </td></tr>
 </table>
+<td><h1><a href='https://git.io/duun'> 重要连结~~</a><h1></td>
 
  <div align="right"><h3><a href="https://git.io/goal" style="font-size:24px;color:blue;">真相部落</a></h3></div>
  </body>
