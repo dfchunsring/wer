@@ -55,6 +55,9 @@
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/td3e..epub?raw=true" width=270>组图-全球各地声援-epub</a></h3></td>	
 </tr>
 </table>
+<tr>
+	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/real-1.epub?raw=true" width=270>真实的江泽民-epub</a></h3></td>	
+</tr>
 <hr/>
 <table>	
 <tr>
