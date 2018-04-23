@@ -56,7 +56,7 @@
 </tr>
 </table>
 <tr>
-	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/real-1.epub?raw=true" width=270>真实的江泽民-epub</a></h3></td>	
+	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/real-2.epub?raw=true" width=270>真实的江泽民-epub</a></h3></td>	
 </tr>
 <hr/>
 <table>	
