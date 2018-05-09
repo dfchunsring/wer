@@ -57,9 +57,6 @@
 
 <tr>
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/realjzm-2.epub?raw=true" width=270>《真实的江泽民》-epub</a></h3></td>	
-</tr>
-
-<tr>
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/25th-anniversary.epub?raw=true" width=270>法轮大法洪传25周年精选短片-epub</a></h3></td>	
 </tr>
 
