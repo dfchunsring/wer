@@ -11,7 +11,6 @@
 
 <td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/dfgup.md'>三亿中国人三退</a></h2></td>
 
-<td><h2> <a href='https://github.com/dfchunsring/wer/blob/master/wdy.md'>一键直连~免翻~</a></h2></td>
 
 <td><h2> <a href='https://git.io/Cich'>“四•二五”上访真相</a></h1></td>
 
