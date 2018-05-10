@@ -3,7 +3,7 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0422..jpg?raw=true" width=880></a><br></div>
  </br>
 
-<td><h1><a href='https://git.io/duun'> 重要连结~~</a><h1></td>
+<td><h1><a href='https://git.io/duun'> 点击连结~看更多~</a><h1></td>
 
 <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h2> </td>
 
