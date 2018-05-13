@@ -34,6 +34,7 @@
 <tr>
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/300Mst.epub?raw=true">三亿退党大潮-epub</a></h3></td>	
 <td><h3><a href="https://git.io/jtdwh">解體黨文化epub</a></h3></td>
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/fldfhao.epub?raw=true">法轮大法好-epub</a></h3></td>	
 </tr>
 </table>
 <hr/>	
