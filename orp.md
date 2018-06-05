@@ -43,15 +43,11 @@
 <hr/>	
 <table>
 <tr>
-	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/ak-425mstthtr.epub?raw=true" width=270>明慧专题：“四•二五”上访真相epub</a></h3></td>	
+	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/4.25snfaok.epub?raw=true" width=270>四‧二五”中南海万人上访真相epub</a></h3></td>
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/bnhhv605.epub?raw=true" width=270>【百年红祸】特别专题epub</a></h3></td>
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/3tvspd316-ok.epub?raw=true" width=270>"3退"與平安-epub</a></h3></td>
 </tr>	
-<tr>
-	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/4.25snfaok.epub?raw=true" width=270>四‧二五”中南海万人上访真相epub</a></h3></td>	
 
-	
-</tr>	
 <tr>
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/3etd1.epub?raw=true" width=270>三亿人三退民众声援-epub</a></h3></td>	
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/3elntcjg.epub?raw=true" width=270>退出中共不同人的心历之路-epub</a></h3></td>
