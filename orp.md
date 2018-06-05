@@ -48,9 +48,8 @@
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/3tvspd316-ok.epub?raw=true" width=270>"3退"與平安-epub</a></h3></td>
 </tr>	
 <tr>
-	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/425petitioning.epub?raw=true" width=270>四‧二五”中南海万人上访真相epub</a></h3></td>	
-	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/ok.425Insandouts..epub?raw=true" width=270>广播稿：“四•二五”来龙去脉epub</a></h3></td>
-	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/425snfa.epub?raw=true" width=270>永遠忘不了4.25那一天-epub</a></h3></td>	
+	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/4.25snfaok.epub?raw=true" width=270>四‧二五”中南海万人上访真相epub</a></h3></td>	
+
 	
 </tr>	
 <tr>
