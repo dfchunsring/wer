@@ -14,7 +14,11 @@
 <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hero-Qin-shi-huang.epub?raw=true">【千古英雄人物】蒋介石5-epub</a></td></h1></p>
 
+<h1 align="center">	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hero-Tang-tai-zong.epub?raw=true">【千古英雄人物】蒋介石6-epub</a></td></h1></p>
 
+<h1 align="center">	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hero-Yao-shun-yu%20.epub?raw=true">【千古英雄人物】蒋介石7-epub</a></td></h1></p>
 
 
 
