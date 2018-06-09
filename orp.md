@@ -38,6 +38,7 @@
 </tr>
 <tr>
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/whyaytd.epub?raw=true">为什么劝你退党-epub</a></h3></td>	
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/whyTD-0523.epub?raw=true">您把毒誓发给了谁-epub</a></h3></td>	
 </tr>
 </table>
 <hr/>	
