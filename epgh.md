@@ -100,10 +100,10 @@
 
  <p></p>
 <td><h2><a href='http://wujieliulan.com/userguide.php'>无界浏览使用说明</a><h2></td>
-
+  <p><a href="http://wujieliulan.com/userguide.php">无界浏览使用说明</a></p>
  <p></p>
 
-＊＊＊＊＊＊＊＊＊＊
+  <p><a href="https://git.io/vEJlj">下载无界浏览软件</a></p>
 
 下载无界浏览用户说明：http://www.wujieliulan.com/download/ultrasurf_userguide.doc
 <p></p>
