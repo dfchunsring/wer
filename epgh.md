@@ -27,7 +27,7 @@
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界浏览.桌机版1704.zip</a></h2></td>	
 </tr>
 </table>
-
+<td><h2><a href='http://wujieliulan.com/wjlink.php'> 索取无界当前有效网址~</a><h2></td>
 <table>
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.zip?raw=true'>无界浏览18.01正式版 .zip</a></h2></td>
