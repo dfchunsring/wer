@@ -24,8 +24,16 @@
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界浏览18.02正式版 .exe</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界浏览.桌机版1704.zip</a></h2></td>	
 </tr>
-
 </table>
+
+<table>
+<tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.zip?raw=true'>无界浏览18.01正式版 .zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.exe?raw=true'>无界浏览18.01正式版 .exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>无界浏览.桌机版1704.exe</a></h2></td>	
+</tr>
+</table>
+
 
 <table>
 <tr>	
