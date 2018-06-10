@@ -22,7 +22,6 @@
 
 
 
-<td><h2><a href='http://wujieliulan.com/wjlink.php'> 索取无界当前有效网址~</a><h2></td>
 	
 	
 <h2 align="center">翻牆軟件免费下載</h2></p>
@@ -113,9 +112,10 @@
 <table>
  <tr>
 
- <td> <p><a href="https://git.io/vEJlj">下载无界浏览软件</a></p> </td> 
+ <td> <p><a href="https://git.io/vEJlj" width=270>下载无界浏览软件</a></p> </td> 
 
-  <td>  <p><a href="http://wujieliulan.com/userguide.php">无界浏览使用说明</a></p> </td> 
+ <td>  <p><a href="http://wujieliulan.com/userguide.php" width=270>无界浏览使用说明</a></p> </td> 
+ <td><p><a href='http://wujieliulan.com/wjlink.php' width=270> 索取无界当前有效网址~</a></p></td>
   </tr>
 </table>
 <p></p>
