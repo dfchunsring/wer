@@ -110,18 +110,17 @@
 <hr> 
 
 
+<table>
+ <tr>
 
- <p></p>
+ <td> <p><a href="https://git.io/vEJlj">下载无界浏览软件</a></p> </td> 
 
-  <p><a href="https://git.io/vEJlj">下载无界浏览软件</a></p>
-
- <p></p>
-
- <p></p>
-
-  <p><a href="http://wujieliulan.com/userguide.php">无界浏览使用说明</a></p>
-
+  <td>  <p><a href="http://wujieliulan.com/userguide.php">无界浏览使用说明</a></p> </td> 
+  </tr>
+</table>
 <p></p>
+
+下载无界浏览用户说明：http://www.wujieliulan.com/download/ultrasurf_userguide.doc
 
 以用户的安全与使用方便为第一、无界网络公司的网络专家们集多年互联网高技术的研发与创新经验，，不断将突破网络封锁的技术改朝换代。
 
