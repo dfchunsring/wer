@@ -90,7 +90,9 @@
 <hr> 
 
 <td><h2><a href='http://wujieliulan.com/userguide.php'>无界浏览使用说明</a><h2></td>
-	
+
+<p>
+
 下载无界浏览用户说明：http://www.wujieliulan.com/download/ultrasurf_userguide.doc
 
 以用户的安全与使用方便为第一、无界网络公司的网络专家们集多年互联网高技术的研发与创新经验，，不断将突破网络封锁的技术改朝换代。
