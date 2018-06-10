@@ -163,7 +163,7 @@
 
 启动无界浏览后，程序会打开一个新的微软浏览器（IE）显示无界网络主页，用户可在无界网络主页（图五）上浏览任意网站，或再打开一个新的微软浏览器（IE）浏览。如果关闭无界浏览版的使用窗口，就会退出无界浏览程序。例：用户要浏览看中国网站，就在IE浏览器输入窗口输入看中国网址：http://www.secretchina.com，见（图六），无界浏览立即显示看中国网站的主页。
  <p></p>
-  <img src="https://github.com/dfchunsring/wer/blob/master/fq/homepage.jpg?raw=true"/>
+  <img src="https://github.com/dfchunsring/wer/blob/master/fq/homepage.jpg?raw=true" width="80%"/>
  <div>
 图五：无界网络主页
  </div>
