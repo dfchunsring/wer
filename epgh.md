@@ -61,7 +61,7 @@
 <table>
 <tr>
 <td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书-epub</a></h2></td>
-<td><h2><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件免费下载</a></h2></td>
+<td><h2><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件~免费下载~</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></h2></td>		
 </tr>
 </table>
