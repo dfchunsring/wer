@@ -49,22 +49,26 @@
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门.安卓版3.2.zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true'>无界浏览.安卓版4.2.apk</a></h2></td>
 </tr>
+	
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true'>无界.安卓手机版1.0.8.rar</a></h2></td>
-<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书-epub</a></h2></td>
-<td><h2><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件免费下载</a></h2></td>
+ <td><h2><a href='https://git.io/ree'>软件安装说明:</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.3.apk?raw=true'>无界浏览.安卓版4.3.apk</a></h2></td>	
 </tr>	
 </table>
 
+
 <table>
 <tr>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.3.apk?raw=true'>无界浏览.安卓版4.3.apk</a></h2></td>	
-
- <td><h2><a href='https://git.io/ree'>软件安装说明:</a></h2></td>
-
+<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书-epub</a></h2></td>
+<td><h2><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件免费下载</a></h2></td>
 </tr>
 </table>
+
+
 <hr> 
+
+
 <table>
 	<h2 align="center">爱博电视免费下载</h2></p>
 <tr>
