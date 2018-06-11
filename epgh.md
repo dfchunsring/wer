@@ -56,7 +56,14 @@
 </tr>	
 </table>
 
-[ <div align="center"><h2>软件安装说明:</h2></div>](https://git.io/ree)
+<table>
+<tr>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.3.apk?raw=true'>无界浏览.安卓版4.3.apk</a></h2></td>	
+
+ <td><h2><a href='https://git.io/ree'>软件安装说明:</a></h2></td>
+
+</tr>
+</table>
 <hr> 
 <table>
 	<h2 align="center">爱博电视免费下载</h2></p>
