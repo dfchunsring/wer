@@ -21,9 +21,9 @@
 <b>翻牆下载</b><br>
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>无界翻墙软件</a>
-    - <a href='https://github.com/dfchunsring/drdr/blob/master/fg/um4.2.apk?raw=true'>安卓版4.2</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界桌机版17.04(zip)</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>无界桌机版17.04(exe)</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>安卓版4.5</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界桌机版18.02(zip)</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界桌机版18.02(exe)</a>
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2</a>
    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版7.64版（1月9日)</a>
