@@ -28,39 +28,39 @@
 
 <table>
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界浏览18.02正式版 .exe</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界浏览.桌机版1704.zip</a></h2></td>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true' width="293">无界浏览18.02正式版 .zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true' width="293">无界浏览18.02正式版 .exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true' width="293">无界浏览.桌机版1704.zip</a></h2></td>	
 </tr>
 </table>
 
 <table>
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.zip?raw=true'>无界浏览18.01正式版 .zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.exe?raw=true'>无界浏览18.01正式版 .exe</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>无界浏览.桌机版1704.exe</a></h2></td>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.zip?raw=true' width="293">无界浏览18.01正式版 .zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.exe?raw=true' width="293">无界浏览18.01正式版 .exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="293">无界浏览.桌机版1704.exe</a></h2></td>	
 </tr>
 </table>
 
 <table>
 <tr>
 
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></h2></td>	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.3.apk?raw=true'>无界浏览.安卓版4.3.apk</a></h2></td>
-  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true'>无界浏览.安卓版4.2.apk</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true' width="293">无界浏览.安卓版4.5.apk</a></h2></td>	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.3.apk?raw=true' width="293">无界浏览.安卓版4.3.apk</a></h2></td>
+  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width="293">无界浏览.安卓版4.2.apk</a></h2></td>
 </tr>
 </table>
 
 <table>
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true'>自由门.桌机版764.exe</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门.安卓版3.2.zip</a></h2></td>
-<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书-epub</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width="293">自由门.安卓版3.2.zip</a></h2></td>
+<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true' width="293">下载详细说明书-epub</a></h2></td>
 </tr>
 	
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true'>无界.安卓手机版1.0.8.rar</a></h2></td>
- <td><h2><a href='https://git.io/ree'>软件安装说明:</a></h2></td>
-<td><h2><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件~免费下载~</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width="293">无界.安卓手机版1.0.8.rar</a></h2></td>
+ <td><h2><a href='https://git.io/ree' width="293">软件安装说明:</a></h2></td>
+<td><h2><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md' width="293">翻墙软件~免费下载~</a></h2></td>
 </tr>	
 </table>
 
@@ -120,10 +120,10 @@
 <table>
  <tr>
 
- <td> <p><a href="https://git.io/vEJlj" width=270>下载无界浏览软件</a></p> </td> 
+ <td> <p><a href="https://git.io/vEJlj" width=293>下载无界浏览软件</a></p> </td> 
 
- <td>  <p><a href="http://wujieliulan.com/userguide.php" width=270>无界浏览使用说明</a></p> </td> 
- <td><p><a href='http://wujieliulan.com/wjlink.php' width=270> 索取无界当前有效网址~</a></p></td>
+ <td>  <p><a href="http://wujieliulan.com/userguide.php" width=293>无界浏览使用说明</a></p> </td> 
+ <td><p><a href='http://wujieliulan.com/wjlink.php' width=293> 索取无界当前有效网址~</a></p></td>
   </tr>
 </table>
 <p></p>
