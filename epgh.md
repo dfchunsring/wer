@@ -8,7 +8,7 @@
 
 <tr><td width=880;><h1 align="center"><b>翻墙软件免费下载</b></h1>
 
-[ <div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/yue/blob/master/fq/fangqian.epub?raw=true)
+[ <div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/wer/blob/master/fq/fangqians.epub?raw=true)
 </tr></td>
 </table>
 
@@ -48,7 +48,7 @@
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width="293">自由门.安卓版3.2.zip</a></h2></td>
-<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true' width="293">下载详细说明书-epub</a></h2></td>
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqians.epub?raw=true' width="293">下载详细说明书-epub</a></h2></td>
 </tr>
 	
 <tr>	
