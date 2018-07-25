@@ -38,7 +38,9 @@
 </tr>
 <tr>
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/whyaytd.epub?raw=true">为什么劝你退党-epub</a></h3></td>	
-<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/whyTD-0523.epub?raw=true">您把毒誓发给了谁-epub</a></h3></td>	
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/whyTD-0523.epub?raw=true">您把毒誓发给了谁-epub</a></h3></td>
+	
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/huozhai_y.epub?raw=true">这个星球上前所未有的邪恶-epub</a></h3></td>
 </tr>
 </table>
 <hr/>	
@@ -68,7 +70,8 @@
 <h3 align="center">	
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/espec.epub?raw=true">魔鬼在统治着我们的世界(全文)-epub</a></h3></td></h3></p>
 
-
+<h3 align="center">	
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hpbook-1.epub?raw=true">《共产主义黑皮书》-epub</a></h3></td></h3></p>
 </table>
 
 
