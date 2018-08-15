@@ -2,7 +2,7 @@
 <table>
 	
 <div align="center"><a href="https://git.io/ffq">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br></div>	
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-2.jpg?raw=true" width=880></a><br></div>	
 	
 [ <div align="center"><h2>【突破封锁看世界】翻墙请先下载免费软件</h2></div>](https://git.io/ree)
 
