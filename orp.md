@@ -105,7 +105,9 @@
 </tr>
 </table>  
 </tbody>
-<hr/>
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
 <table>	
 <tr>
