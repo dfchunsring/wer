@@ -46,7 +46,9 @@
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/zgthtw-0816.epub?raw=true">中共头号特务—揭开曾庆红的真实面目-epub</a></h3></td>
 </tr>
 </table>
-<hr/>	
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/images-1.png?raw=true" width=880></td>
+</tr>
 <table>
 <tr>
 	<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/4-25snfa.epub?raw=true" width=270>“四•二五”上访真相-epub</a></h3></td>
@@ -77,9 +79,11 @@
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hpbook-1.epub?raw=true">《共产主义黑皮书》-epub</a></h3></td></h3></p>
 </table>
 
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/images-1.png?raw=true" width=880></td>
+</tr>
 
 
-<hr/>
 <table>	
 <tr>
 	<td><a href="https://git.io/9ping">【九评共产党】epub</a></td>
