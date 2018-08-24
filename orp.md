@@ -76,7 +76,7 @@
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/espec.epub?raw=true">魔鬼在统治着我们的世界(全文)-epub</a></h3></td></h3></p>
 
 <h3 align="center">	
-<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hpbook-1.epub?raw=true">《共产主义黑皮书》-epub</a></h3></td></h3></p>
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hpbook-2.epub?raw=true">《共产主义黑皮书》-epub</a></h3></td></h3></p>
 </table>
 
 <tr>
