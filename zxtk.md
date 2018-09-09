@@ -49,7 +49,7 @@
   <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-4.jpg?raw=true" width=700></td><p>“我没有说我不相信政府， 不过我也没说我相信它。我们现 在都明白了，政府控制了新闻。” 央视“天安门自焚”节目的 女主角刘春玲的邻居对前来采访 的《华盛顿邮报》记者说。
 </div>
-   <a href=#list><h6 align="right">回目錄</h6></a>
+  <a href=#list><h6 align="right">回目錄</h6></a>
 <hr>
  <a name=1><h2><b>天安门自焚</b></h2>
 
