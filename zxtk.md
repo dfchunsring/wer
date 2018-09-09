@@ -85,23 +85,23 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <tr> 
 <td>
 李东生：曾任央视副台长、专门迫害法轮功的中央“六一 零办公室”主任、公安部副部长，亲自监制“天安门自 焚”假新闻。李东生于2013年底落马，后被判刑15年。</td>
-  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6-1.jpg?raw=true" width=250></td>
+  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6-1.jpg?raw=true" width=350></td>
 </tr>
   
 <tr> 
 <td>陈虻：央视《东方时空》的创办人之一，“天安门自焚” 假案的主要制片人。2008年12月23日，陈虻在发 现胃癌9个月后痛苦地死在北京肿瘤医院，死时47岁。
-  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6-2.jpg?raw=true" width=250></td>
+  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6-2.jpg?raw=true" width=350></td>
 </tr>
 <tr> 
 <td>
 罗京：央视新闻主播，播报了大量诬蔑法轮功的假新 闻，包括“天安门自焚”假新闻。2009 年 6 月 5 日， 罗京死于淋巴癌扩散，死时 48 岁。
-  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6-3.jpg?raw=true" width=250></td>
+  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6-3.jpg?raw=true" width=350></td>
 </tr>
 <tr> 
 <td>
 方静：央视主播，“自焚”假案发生 4 年后仍播报污 蔑法轮功的谎言，并称去河南做了所谓的“追踪采访”。 方静于 2015 年 11 月 18 日死于癌症，死时 44 岁。
 </td>
-  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6-4.jpg?raw=true" width=250></td>
+  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6-4.jpg?raw=true" width=350></td>
 </tr>
 </table>
 </div>
