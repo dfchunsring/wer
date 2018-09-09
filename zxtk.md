@@ -234,7 +234,8 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 </div>
 
    <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-14.jpg?raw=true" width=600></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-14.jpg?raw=true" width=600></td><p>吴伟标博士
+
 </div>
 
 吴伟标，26 岁取得博士学位，开 始在著名的芝加哥大学任教，29 岁获 得“美国自然科学基金”授予年轻科 学家的职业奖，当年全美只有少数人 在统计学领域获此奖。2009 年，34 岁 的吴伟标教授获得由诺贝尔经济科学 奖得主命名的“库普曼斯计量经济学 奖”。
