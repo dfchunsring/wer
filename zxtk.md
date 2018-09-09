@@ -52,6 +52,7 @@
   
   <a href=#list><h6 align="right">回目錄</h6></a>
 <hr>
+
  <a name=1><h2><b>天安门自焚</b></h2>
 
 <b>中共江氏集團导演的骗局 </b>
@@ -124,6 +125,8 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 诸多事实显示，不是法轮功做错了什么，而是中共内部的 恶势力一直在寻衅迫害法轮功。
 
+  <a href=#list><h6 align="right">回目錄</h6></a>
+<hr>
 
  <a name=3>  <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-10-1.jpg?raw=true" width=700></td><p>
