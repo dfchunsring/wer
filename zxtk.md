@@ -32,7 +32,11 @@
 
  <a name=1><h2><b>中共发动  历次运动  都以谎言宣传开道</b></h2>
 
+中共建政 60 多年，发动运动几十场，从肃反、三反、五反、 反右、大跃进、文革、六四到迫害法轮功，历次运动都以谎言 宣传开道，煽动民众参与其中，受害的是所有的中国人。
 
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-1.jpg?raw=true" width=700></td><p>《人民日报》报道“亩产万斤”。右图：中共媒体渲染“亩产万斤” 稠密的稻子上坐小孩，稻子不倒。大跃进导致大饥荒，约4000万人丧生。
+</div>
 
 
 
