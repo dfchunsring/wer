@@ -90,13 +90,14 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 方静：央视主播，“自焚”假案发生 4 年后仍播报污 蔑法轮功的谎言，并称去河南做了所谓的“追踪采访”。 方静于 2015 年 11 月 18 日死于癌症，死时 44 岁。<p>
 </td>
-  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6.jpg?raw=true" width=180></td>
+  <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-6.jpg?raw=true" width=300></td>
 </tr>
 </table>
 </div>
 
   <a href=#list><h6 align="right">回目錄</h6></a>
 <hr>
+
  <a name=2><h2><b>“1400 例”假新闻如何出笼的?</b></h2>
 
 中共江泽民集团开始迫害法轮功之时，中国大陆媒体充斥着污蔑 法轮功的假新闻，号称“1400例”。这些假新闻是如何出笼的？以下 仅举两例，读者自会明辨。
@@ -124,8 +125,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 诸多事实显示，不是法轮功做错了什么，而是中共内部的 恶势力一直在寻衅迫害法轮功。
 
 
-
- <a name=2>  <div align=center>
+ <a name=3>  <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-10-1.jpg?raw=true" width=700></td><p>
 1999年4月25日， 万名法轮功学员 到国务院信访办 和平上访。现场 秩序井然，警察 不用维持秩序， 在一旁聊天。
 </div>
@@ -162,7 +162,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 <hr>
 
-  <div align=center>
+ <a name=4>   <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-11.jpg?raw=true" width=800></td>
 </div>
 
