@@ -123,9 +123,9 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 诸多事实显示，不是法轮功做错了什么，而是中共内部的 恶势力一直在寻衅迫害法轮功。
 
- <a name=2><h2><b>“万人和平上访”真相 </b></h2>
 
-  <div align=center>
+
+ <a name=2>  <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-10-1.jpg?raw=true" width=700></td><p>
 1999年4月25日， 万名法轮功学员 到国务院信访办 和平上访。现场 秩序井然，警察 不用维持秩序， 在一旁聊天。
 </div>
