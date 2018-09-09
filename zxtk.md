@@ -243,12 +243,11 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 谈到科学与修炼的关系，他说：“修炼是一种超常的东西，这 与我们实证科学看问题的角度都不一样。‘真、善、忍’法理教人 修心向善、平和、理智，提高道德素养，这是我坚定修炼的原因。”◇
 
-
-一位美国著名社会人士曾对身边 接触的251位法轮功修炼者做调查， 发现法轮功学员遍布社会各行各业， 学历情况为：博士52人，硕士44人， 大学89人，低于大学学历的66人。 炼法轮功的专家学者大有人在。
-
    <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-15.jpg?raw=true" width=650></td><p>对251位法轮功修炼者的学历调查
 </div>
+
+一位美国著名社会人士曾对身边 接触的251位法轮功修炼者做调查， 发现法轮功学员遍布社会各行各业， 学历情况为：博士52人，硕士44人， 大学89人，低于大学学历的66人。 炼法轮功的专家学者大有人在。
 
    <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-16.jpg?raw=true" width=350></td>
