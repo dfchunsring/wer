@@ -163,11 +163,11 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <hr>
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-11.jpg?raw=true" width=700></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-11.jpg?raw=true" width=800></td>
 </div>
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-12.jpg?raw=true" width=700></td><p>石采东博士 
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-12.jpg?raw=true" width=500></td><p>石采东博士 
 </div>
 
 【明慧网】“四二五”发生时， 北京中国科学院博士研究生石采东 先生，是被总理朱镕基带进中南海反 映情况的三位法轮功学员之一，他亲 历了事件的全过程。
