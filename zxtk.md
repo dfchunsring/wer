@@ -359,9 +359,11 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 看遍法轮功的书籍， 没有一句“不准学员吃 药”的话。江泽民为何 要销毁法轮功书籍？就 是怕其谎言被揭穿。 
 
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-23.jpg?raw=true" width=650></td>迫害前，大陆媒体正面报 道法轮功。羊城晚报《老 少皆炼法轮功》（1998年）
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-24.jpg?raw=true" width=650></td>
-中国公安部的感谢信，高度 肯定法轮功的功效。（1993 年8月31日）
+  <div align=center><td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-23.jpg?raw=true" width=350></td>迫害前，大陆媒体正面报 道法轮功。羊城晚报《老 少皆炼法轮功》（1998年）</div>
+  
+  
+  <div align=center><td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-24.jpg?raw=true" width=350></td>
+中国公安部的感谢信，高度 肯定法轮功的功效。（1993 年8月31日）</div>
 
 
 
