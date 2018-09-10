@@ -342,10 +342,32 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <hr>
 
    <a name=6> <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-22.jpg?raw=true" width=800></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-22.jpg?raw=true" width=650></td>
 </div>
   
 法轮大法，也称法轮功，是 由李洪志先生于1992年5月传出 的佛家上乘修炼大法，以“真、善、 忍”为根本指导，包含五套舒缓优 美的功法动作。 
+
+<b>教人向善</b>    法轮大法要求修 炼者按“真、善、忍”标准提升 道德水准。修炼法轮大法能使人 变得诚实，善良，宽容，平和。 
+
+<b>使人健康</b>   修炼法轮大法能 祛病健身。1998年，北京、武汉、 大连及广东省的医学界专家进行 了五次医学调查，结果显示法轮 功的祛病健身有效率达98%。 
+
+<b>福益社会</b>   1998年下半年， 乔石与部分人大离退休老干部 对法轮功进行了数月的调查，得 出“法轮功于国于民有百利而无 一害”的结论，并于年底向中央 政治局提交了调查报告。 
+
+<b>弘传世界</b>   法轮大法已弘传 100多个国家和地区，受到世界 人民的爱戴和尊敬。李洪志先生 和法轮大法因对人类身心健康的 杰出贡献，获各国政府褒奖、支 持议案和信函3500多项。法轮 功书籍被译成39种语言在全球 出版发行，并可在法轮大法网站 （falundafa.org)上免费下载。◇
+
+<h3>不让人吃药 ? <h3>
+
+看遍法轮功的书籍， 没有一句“不准学员吃 药”的话。江泽民为何 要销毁法轮功书籍？就 是怕其谎言被揭穿。 
+
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-23.jpg?raw=true" width=650></td>迫害前，大陆媒体正面报 道法轮功。羊城晚报《老 少皆炼法轮功》（1998年）
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-24.jpg?raw=true" width=650></td>
+中国公安部的感谢信，高度 肯定法轮功的功效。（1993 年8月31日）
+
+
+
+
+
+
 
 
 
