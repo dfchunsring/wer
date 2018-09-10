@@ -330,7 +330,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 是呀，我过去关节痛、偏头痛、盗汗、心律失常，是医院的常客。 如今所有的毛病都不翼而飞，甚至连“子宫瘤”经检查也证实消失了。 做检查的西人医生很为我高兴，说：“那么，继续修炼法轮功。”◇
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-21.jpg?raw=true" width=750></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-21.jpg?raw=true" width=650></td>
 </div>
 
 美国临床肿瘤学会（ASCO）官网在2016年6月公开发表一篇 关于修炼法轮功延长癌末病患存活期的论文，该项研究证实：修炼 法轮功可以使癌末病患癌症症状缓解或痊愈。 
@@ -344,7 +344,8 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
    <a name=6> <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-22.jpg?raw=true" width=800></td>
 </div>
-
+  
+法轮大法，也称法轮功，是 由李洪志先生于1992年5月传出 的佛家上乘修炼大法，以“真、善、 忍”为根本指导，包含五套舒缓优 美的功法动作。 
 
 
 
