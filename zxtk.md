@@ -3,6 +3,7 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-1.jpg?raw=true" width=800></td>
 </div>
 
+<hr>
   <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-5.jpg?raw=true" width=800></td><p><h3>哪个危险  你知道</h3
 </div>
@@ -20,9 +21,9 @@
 发电子邮件，内容任意，主题任意，不可空白。
 几 分钟后即可收到一个网页地址，可下载自由门软件。 
 
-<a>欢迎突破封锁浏览明慧网：www.minghui.org</a>
+<b>欢迎突破封锁浏览明慧网：www.minghui.org</b>
 
-
+<hr>
 <h1 align="center"><b>《真相》特刊：澄清谎言与疑问合集</b></h1>
 
 <a name=list><b>目錄</b><p>
