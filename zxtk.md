@@ -355,14 +355,14 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 <b>弘传世界</b>   法轮大法已弘传 100多个国家和地区，受到世界 人民的爱戴和尊敬。李洪志先生 和法轮大法因对人类身心健康的 杰出贡献，获各国政府褒奖、支 持议案和信函3500多项。法轮 功书籍被译成39种语言在全球 出版发行，并可在法轮大法网站 （falundafa.org)上免费下载。◇
 
-<h3>不让人吃药 ? <h3>
+<h3>不让人吃药 ? </h3>
 
 看遍法轮功的书籍， 没有一句“不准学员吃 药”的话。江泽民为何 要销毁法轮功书籍？就 是怕其谎言被揭穿。 
 
-  <div align=center><td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-23.jpg?raw=true" width=350></td>迫害前，大陆媒体正面报 道法轮功。羊城晚报《老 少皆炼法轮功》（1998年）</div>
+  <div align=center><td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-23.jpg?raw=true" width=350></td><p>迫害前，大陆媒体正面报 道法轮功。羊城晚报《老 少皆炼法轮功》（1998年）</div>
   
   
-  <div align=center><td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-24.jpg?raw=true" width=350></td>
+  <div align=center><td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-24.jpg?raw=true" width=350></td><p>
 中国公安部的感谢信，高度 肯定法轮功的功效。（1993 年8月31日）</div>
 
 
