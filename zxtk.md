@@ -304,7 +304,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 “我相信无论做什么事，只要遵循‘真善忍’原则， 就能让自己变得越来越好，以至成为一个更高尚 的人。而法轮大法的舒缓功法和打坐绝对是健身、 保持身体巅峰状态的最佳方式。法轮大法是对全 人类莫大的恩典。”
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-20.jpg?raw=true" width=650></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-20.jpg?raw=true" width=750></td>
 </div>
 
 【明慧网】我女儿林依力 6 岁时得了皮肤病，越来越严重，都 是对称性的部位发作，流血流水，换下的内衣血迹斑斑。令我焦急 万分的是 98％的食物她都不能吃，一旦吃了，皮肤病会泛滥发作。 
@@ -329,10 +329,21 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 是呀，我过去关节痛、偏头痛、盗汗、心律失常，是医院的常客。 如今所有的毛病都不翼而飞，甚至连“子宫瘤”经检查也证实消失了。 做检查的西人医生很为我高兴，说：“那么，继续修炼法轮功。”◇
 
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-21.jpg?raw=true" width=750></td>
+</div>
 
+美国临床肿瘤学会（ASCO）官网在2016年6月公开发表一篇 关于修炼法轮功延长癌末病患存活期的论文，该项研究证实：修炼 法轮功可以使癌末病患癌症症状缓解或痊愈。 
 
+论文第一作者、任职于瑞士诺华制药公司（Novartis）的董宇 红博士，在接受CURE杂志专访时说：我们对152 例预估存活时间 不到1年的癌末患者进行研究，发现修炼法轮功后，实际存活时间 延长10倍以上。直到研究完成时，149 位患者还健在；97% 的患者 在修炼法轮功后，癌症症状消失。董宇红博士说：癌末病患修炼法 轮功后，除了癌症症状缓解或痊愈外，想问题更加正面，更阳光。
 
+ <a href=#list><h6 align="right">回目錄</h6></a>
 
+<hr>
+
+   <a name=6> <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-22.jpg?raw=true" width=800></td>
+</div>
 
 
 
