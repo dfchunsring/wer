@@ -3,6 +3,26 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-1.jpg?raw=true" width=800></td>
 </div>
 
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-5.jpg?raw=true" width=800></td><p><h3>哪个危险  你知道</h3
+</div>
+
+真实自由的信息，像空气。如果被封锁了， 那里的生命就处在危险中。
+
+“自由之家”近年发布的全球新闻自由度报 告显示，中国大陆新闻一直不自由（2015年在199 个国家和地区中排186名）。而在网络自由排名中， 中国排名垫底，是网络最不自由国家。大陆网民 寻求自由信息的主要方法是使用翻墙软件。
+
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-4.jpg?raw=true" width=800></td>
+</div>
+
+索取自由门：用海外邮箱向freeget.one@gmail.com 
+
+发电子邮件，内容任意，主题任意，不可空白。
+几 分钟后即可收到一个网页地址，可下载自由门软件。 
+
+<a>欢迎突破封锁浏览明慧网：www.minghui.org</a>
+
+
 <h1 align="center"><b>《真相》特刊：澄清谎言与疑问合集</b></h1>
 
 <a name=list><b>目錄</b><p>
