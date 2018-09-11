@@ -27,7 +27,9 @@
 
 <b>欢迎突破封锁浏览明慧网：www.minghui.org</b>
 
-<hr>
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_48_3M.png?raw=true" width=880></td>
+</tr>
 <h1 align="center"><b>《真相》特刊：澄清谎言与疑问合集</b></h1>
 
 <a name=list><b>目錄</b><p>
