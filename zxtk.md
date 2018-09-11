@@ -493,7 +493,9 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
 </tr>
 
- <a name=11><h1 align="center"><b>国际谴责中共活摘罪行 </b></h1>
+ <a name=11>
+<h1 align="center">	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/xyrs-mp4/http%253A.mp4?raw=true">国际谴责中共活摘罪行 </a></td></h1></p>
 
 从 1999 年到 2007 年，中国器官移植市场飞速发展。在 2003 年， 
 
