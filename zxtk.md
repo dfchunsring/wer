@@ -79,7 +79,10 @@
 </div>
   
   <a href=#list><h6 align="right">回目錄</h6></a>
-<hr>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
  <a name=1><h2><b>天安门自焚</b></h2>
 
@@ -135,7 +138,10 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 </div>
 
   <a href=#list><h6 align="right">回目錄</h6></a>
-<hr>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
  <a name=2><h2><b>“1400 例”假新闻如何出笼的?</b></h2>
 
@@ -164,7 +170,10 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 诸多事实显示，不是法轮功做错了什么，而是中共内部的 恶势力一直在寻衅迫害法轮功。
 
   <a href=#list><h6 align="right">回目錄</h6></a>
-<hr>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
  <a name=3>  <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-10-1.jpg?raw=true" width=700></td><p>
@@ -201,7 +210,9 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
   <a href=#list><h6 align="right">回目錄</h6></a>
 
-<hr>
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
  <a name=4>   <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-11.jpg?raw=true" width=800></td>
@@ -255,7 +266,9 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
   <a href=#list><h6 align="right">回目錄</h6></a>
 
-<hr>
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
    <a name=5> <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-13.jpg?raw=true" width=800></td>
@@ -281,6 +294,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
    <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-16.jpg?raw=true" width=350></td>
 </div>
+
 <b>男高音歌唱家   关贵敏 </b>
 
 1996年，关贵敏开始修炼法轮功。不久，他的 身体就奇迹般康复——长期折磨他的肝炎和肝 硬化症状消失了。如今，年过七旬的关贵敏仍然 活跃在舞台上，每年在世界各地演出上百场。
@@ -311,7 +325,9 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
    <a href=#list><h6 align="right">回目錄</h6></a>
 
-<hr>
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
    <a name=6> <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-20.jpg?raw=true" width=750></td>
@@ -349,7 +365,9 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
  <a href=#list><h6 align="right">回目錄</h6></a>
 
-<hr>
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
    <a name=7> <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-22.jpg?raw=true" width=650></td>
@@ -366,7 +384,10 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <b>弘传世界</b>   法轮大法已弘传 100多个国家和地区，受到世界 人民的爱戴和尊敬。李洪志先生 和法轮大法因对人类身心健康的 杰出贡献，获各国政府褒奖、支 持议案和信函3500多项。法轮 功书籍被译成39种语言在全球 出版发行，并可在法轮大法网站 （falundafa.org)上免费下载。◇
 
   <a href=#list><h6 align="right">回目錄</h6></a>
-<hr>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
 <a name=8><h1 align="center"><b>不让人吃药 ? </b></h1>
 
@@ -409,7 +430,10 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 那些只练动作、不提高 道德水平的人，不能算法轮 功学员，身体也不会有本质 的改变。
 
   <a href=#list><h6 align="right">回目錄</h6></a>
-<hr>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
 
  <a name=9><h1 align="center"><b>江泽民为何迫害法轮功 ? </b></h1>
 
