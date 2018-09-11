@@ -3,9 +3,10 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-1.jpg?raw=true" width=800></td>
 </div>
 
-  <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_48_3M.png?raw=true" width=800></td>
-</div>
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
   <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-5.jpg?raw=true" width=800></td>
 </div>
