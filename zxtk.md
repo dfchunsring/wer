@@ -454,12 +454,55 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 中共的本质是“假、恶、斗”，与法轮功的“真、善、忍”是 根本对立的。中共江泽民集团迫害法轮功，是其本质决定的。这在 十多年的迫害中表现得淋漓尽致。◇
 
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-25.jpg?raw=true" width=800></td>
+</div>
+
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-26.jpg?raw=true" width=800></td><p>王斌，44岁，黑龙江省优秀 软件工程师，因坚持修炼法 轮功被大庆劳教所毒打致死。
+</div>
+
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-27.jpg?raw=true" width=800></td><p>高蓉蓉，37岁，辽宁省沈阳鲁迅美术学院 财务处职员，曾资助两名贫困儿童读书， 因不放弃信仰“真善忍”，被沈阳龙山劳 教所警察电击7小时毁容，后被迫害致死。
+</div>
+
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-28.jpg?raw=true" width=800></td><p>中共酷刑图示。法轮功学员遭非法监禁、酷刑折磨，被逼迫放弃信仰。 已有4000多名能核实姓名的法轮功学员被迫害致死。
+</div>
+
+ <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=10><div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-29.jpg?raw=true" width=650></td>
+</div>
+
+江泽民因触犯中国《宪法》、《刑法》、《刑事诉讼法》及国 际习惯法等，自2015年5月，已被逾20万法轮功学员向中国最高 检察院、法院实名控告。江泽民迫害法轮功，涉及多项罪名，包括 诽谤、组织出卖人体器官、酷刑、群体灭绝等罪。在全世界，已有 31个国家和地区的逾241万人举报江泽民的罪行。
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-3.jpg?raw=true" width=650></td>
+</div>
 
 
+  <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=11><h1 align="center"><b>国际谴责中共活摘罪行 </b></h1>
+
+从 1999 年到 2007 年，中国器官移植市场飞速发展。在 2003 年， 
+
+中国器官移植数量突然大幅度成倍增长。2003 年到 2006 年间，在 国际上掀起了到中国器官移植旅游的热潮。 中国医院的器官平均等待时间是 1 ～ 2 周（国外为 2 ～ 3 年）。 超短的器官等待时间，意味着不同寻常的器官来源。 
+
+联合国特派专员弗瑞德 • 诺瓦克指出，2000 ～ 2005 年是法轮 功学员被迫害最残酷时期，也是中国器官移植手术暴增阶段。
 
 
-
-
+<h3 align="center"><b>中外器官等待时间对比</b></h3>
 
 
 
