@@ -506,6 +506,49 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 <h3 align="center"><b>中外器官等待时间对比</b></h3>
 
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-30.jpg?raw=true" width=650></td>
+</div>
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-31.jpg?raw=true" width=650></td>
+</div>
+
+中共以前一直否认 用死刑犯人的器官做移 植手术，但是 2007 年 之后忽然转变态度，把 中国移植器官来源都归 为“死囚器官”，究其 原因是2006年中共活 摘法轮功学员器官之事 在海外曝光，中共不得 不用“死囚器官”的罪恶掩盖活摘器官的罪行。
+
+这场由中共前党魁江泽民 下令，由中共政府、军队统一 管理，从监狱——法院——医 院形成一条龙，对法轮功学员 的秘密大屠杀，是对全人类的 犯罪，国际社会纷纷谴责。 
+
+2016 年 6 月 13 日， 美 国 国会众议院通过343号决议案， 敦促中共停止强摘良心犯器官、 停止迫害法轮功。2015年12月， 联合国“禁止酷刑委员会”要 求对中共强摘器官的指控进行 独立调查。此前，台湾、加拿大、 意大利、爱尔兰、澳大利亚、 以色列、西班牙已经通过决议 或立法，制止中共强摘器官。 欧洲议会通过紧急议案，要求 中共立即停止活体摘取良心犯 器官。◇
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-32.jpg?raw=true" width=650></td>
+<p>
+地点：加拿大国会         时间：2016.11.3 议题：中共活摘法轮功学员器官听证会</div>
+
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-33.jpg?raw=true" width=650></td>
+<p>
+地点：韩国国会     时间：2016.10.13      议题：聚焦中共活摘器官暴行论坛</div>
+
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-34.jpg?raw=true" width=650></td>
+  <p>地点：英国国会         时间：2016.7.4  议题：中共强摘良心犯器官研讨会</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
