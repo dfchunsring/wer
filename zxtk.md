@@ -627,7 +627,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 </tr>
 
  <a name=16><div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-40.jpg?raw=true" width=750></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-40-1.jpg?raw=true" width=750></td>
  </div>
 
 这是害人害己的想法。事实上，共产党保护不了任何人，更 左右不了“天”。许多追随中共江泽民集团迫害法轮功的人，还 没等到法律的制裁，就遭到了天理报应。 
@@ -681,7 +681,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
  </div>
 
 <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-45.jpg?raw=true" width=750></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-42-2.jpg?raw=true" width=750></td>
  <p>法国艾菲尔铁塔下，游客了解法轮功真相。近 年来，大陆游客在海外景点声明“三退”成风尚。
 </div>
 
