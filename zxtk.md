@@ -620,4 +620,54 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-39-1.jpg?raw=true" width=750></td>
  </div>
 
+   <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=16><div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-40.jpg?raw=true" width=750></td>
+ </div>
+
+这是害人害己的想法。事实上，共产党保护不了任何人，更 左右不了“天”。许多追随中共江泽民集团迫害法轮功的人，还 没等到法律的制裁，就遭到了天理报应。 
+
+近年来，在中国大陆以反腐败的名义被处理的人，都是江泽 民的人马。民间认为这些人是因追随江泽民迫害法轮功而遭了恶 报。据大陆媒体2016年4月盘点，政法系统内有130多名厅局级 官员被调查，至少10名省部级及以上政法高官落马。2015年，至 少111名政法官员遭遇落马、判刑或意外死亡（跳楼、自缢、猝死） 的厄运。政法官员积极追随中共迫害法轮功，已成高危职业。
+ 
+<b> “全国英模”作恶遭报  殃及家人</b>
+
+任长霞，女，40岁，河南登封市公安局长，因卖力迫害法轮 功而被中共封为“全国英模”。2004年4月，在车祸中，她坐在 后排最安全的位置却死亡，车里其他人安然无恙。任长霞在死亡 的前一天，还下令抓捕了20多位法轮功学员。一人作恶，殃及家人。 她丈夫于2008年突发脑溢血死亡，45岁。她家里只剩一个孩子。
+ 
+<b>枉法法官肺癌身亡 </b>
+
+海口市的陈援朝，是全国第一个对无辜法轮功学员非法判刑 的法官，他因此被记“二等功”。陈援朝明知宪法规定信仰自由， 仍强加罪名给法轮功学员。两年后，陈援朝患肺癌，2003年9月 在万箭穿心般的煎熬中死去。
+ 
+<b>“六一零”主任恶报有因 </b>
+
+芦鹤鸣，陕西省汉中市委办公室副秘书长、汉中市“六一零” （中共江泽民集团迫害法轮功的非法机构）主任，以“不转化就 判刑”相威胁，卖力迫害法轮功学员。2013年3月23日，他与女儿、 女婿、小外孙、秘书和司机乘越野车外出时，被两辆大货车夹撞， 车上除了小孩和其女婿（多根肋骨骨折），其余4人惨死。
+
+   <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=17><div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-41.jpg?raw=true" width=750></td>
+ </div>
+
+《共产党宣言》开篇说：“一个幽灵，共产主义的幽灵，在欧 洲徘徊。”按照共产主义唯物论，人死如灯灭，死了就完了，根本 不相信灵魂，更谈不上“徘徊”了。这不自相矛盾吗？事实上，尽 管共产党披着“无神论”的外衣，却具足宗教的所有特征（见下表）。
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-42.jpg?raw=true" width=750></td>
+ </div>
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-43.jpg?raw=true" width=750></td>
+ </div>
+
+ 正教的特点是讲善。 而邪教恰恰相反，它推崇 暴力，行事极端，漠视人 性和生命。中共建政60 多年以来，发动政治运动 几十场，从土改、镇反、 三反、五反、反右、大跃 进、文革、六四到迫害法 轮功，8000 万中国人被 迫害死。很多有识之士已 经认识到：靠谎言和暴力 起家的中共，是人类历史 上最大的邪教，而且是政 教合一的邪教，以国家政 权的形式，堂而皇之地推 行其“教义”。 
+ 
+前苏联和东欧各国共 产党政权纷纷解体，共产 主义运动早已被全世界所 唾弃，中共邪教走入坟墓 也只是一个时间问题。◇
+ 
 
