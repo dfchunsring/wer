@@ -581,7 +581,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 </tr>
 
  <a name=14><div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-37-1.jpg?raw=true" width=750></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/a-37-1.jpg?raw=true" width=750></td>
  </div>
 
 近年来，律师们为法轮功学员做了上千场无罪辩护，指出：中 共迫害法轮功，没有任何法律依据，法轮功在中国完全是合法的。 
