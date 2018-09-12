@@ -670,4 +670,47 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
  
 前苏联和东欧各国共 产党政权纷纷解体，共产 主义运动早已被全世界所 唾弃，中共邪教走入坟墓 也只是一个时间问题。◇
  
+   <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=18><div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-44.jpg?raw=true" width=750></td>
+ </div>
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-45.jpg?raw=true" width=750></td>
+ <p>法国艾菲尔铁塔下，游客了解法轮功真相。近 年来，大陆游客在海外景点声明“三退”成风尚。
+</div>
+
+凡是加入共产党 的党、团、队组织的 人，都参与了政治， 因为共产党是个政治 组织。 
+
+中共建政以来， 与天、地、人斗，早 已罪恶滔天，如今又 残酷迫害信仰“真善 忍”的法轮功学员， 甚至活体摘取人体器 官贩卖牟利。这样的 罪恶必遭天谴，人不 治天治，即天灭中共。
+
+人们在加入中共的党团队时，都得表态：把一生奉献给它。这 好比发毒誓，把自己的一生卖给共产党了。中共是由党、团、队员 组成的，法轮功修炼者告诉人“三退”（退党、退团、退队），是 希望善良人废除毒誓，天灭中共时，不给共产党作垫背、遭厄运。 他们关心的是人的生命安危，无关政治。
+ 
+    <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=19><div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-46.jpg?raw=true" width=750></td>
+ </div>
+
+中国不等于中共，爱国不等于爱党。中国五千年，中共几十年。 中国经历了二十多个朝代，中国也没有随着哪个朝代的灭亡而灭亡。 中共是中国的最不稳定因素。中国近代史上的几乎所有运动、 动乱，都是中共造成的。中国大陆的“维稳”，是维护中共的稳定， 不是中国的稳定。没有了动乱之源——中共，中国会更加安定。
+
+
+
+
+
+
+
+
+
+
+
 
