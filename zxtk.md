@@ -319,7 +319,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-19.jpg?raw=true" width=350></td>
 </div>
 
- <b align="center">奥运奖牌得主、拉脱维亚运动员   马汀斯 </b>
+<h3 align="center">奥运奖牌得主、拉脱维亚运动员   马汀斯 </h3>
 
 “我相信无论做什么事，只要遵循‘真善忍’原则， 就能让自己变得越来越好，以至成为一个更高尚 的人。而法轮大法的舒缓功法和打坐绝对是健身、 保持身体巅峰状态的最佳方式。法轮大法是对全 人类莫大的恩典。”
 
