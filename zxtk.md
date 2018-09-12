@@ -558,7 +558,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
  正因为不忍心看到人们因不明真相而参与迫害好人、做错事， 从而影响生命前途，法轮功学员才告诉人们真相。在自己遭受迫害 的情况下，想到的是别人，这是法轮功修炼者的慈悲。◇
 
 <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-36-1.jpg?raw=true" width=750></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-07-1.jpg?raw=true" width=750></td>
  </div>
 
 有人认为：国家已经把法轮功定为×教，其实根本就没有。
