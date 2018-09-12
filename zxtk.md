@@ -295,7 +295,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-16.jpg?raw=true" width=350></td>
 </div>
 
-<b>男高音歌唱家   关贵敏 </b>
+<h3 align="center">男高音歌唱家   关贵敏 </h3>
 
 1996年，关贵敏开始修炼法轮功。不久，他的 身体就奇迹般康复——长期折磨他的肝炎和肝 硬化症状消失了。如今，年过七旬的关贵敏仍然 活跃在舞台上，每年在世界各地演出上百场。
 
@@ -303,7 +303,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-17.jpg?raw=true" width=350></td>
 </div>
 
-<b>瑞典国王奖获得者、公司总裁   瓦西柳斯 </b>
+<h3 align="center">瑞典国王奖获得者、公司总裁   瓦西柳斯</h3>
 
 “修炼法轮大法让我获得了内心的宁静和健康 的身体，最重要的是精神境界的升华。我按照‘真 善忍’的标准做事，这使我的公司在整个欧洲经 济下滑的情况下，生意依然成功。”
 
@@ -311,7 +311,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-18.jpg?raw=true" width=350></td>
 </div>
 
-<b>美国普林斯顿大学物理博士   李渊 </b>
+<h3 align="center">美国普林斯顿大学物理博士   李渊 </h3>
 
 “我曾就读于清华大学，通过李政道教授的物理 项目来到美国。我是非常理性的人，不轻易相信 什么。但读了法轮大法的书籍后，我非常佩服， 在里面学到了许多在科学方面没有学到的东西。 现在我明白了如何去做对人类更有好处的研究。”
 
@@ -319,7 +319,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-19.jpg?raw=true" width=350></td>
 </div>
 
-<b>奥运奖牌得主、拉脱维亚运动员   马汀斯</b> 
+ <b align="center">奥运奖牌得主、拉脱维亚运动员   马汀斯 </b>
 
 “我相信无论做什么事，只要遵循‘真善忍’原则， 就能让自己变得越来越好，以至成为一个更高尚 的人。而法轮大法的舒缓功法和打坐绝对是健身、 保持身体巅峰状态的最佳方式。法轮大法是对全 人类莫大的恩典。”
 
