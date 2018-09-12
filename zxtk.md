@@ -537,7 +537,17 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
   <p>地点：英国国会         时间：2016.7.4  议题：中共强摘良心犯器官研讨会</div>
 
 
- <h1 align="center"><b>“好就在家炼，   别上外面宣传 ”</b></h1>
+   <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=11><h1 align="center"><b>“好就在家炼，   别上外面宣传 ”</b></h1>
+  
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-35.jpg?raw=true" width=450></td>
+ </div>
 
  <b>1</b>  这是江泽民集团的说辞。 其实质是：江泽民操控媒体，以 “自焚”等假新闻抹黑法轮功， 残酷迫害信仰“真善忍”的好人， 打击中国社会的道德良知。其害 怕恶行曝光，以“在家炼、别宣传” 阻止被迫害者说出真相，以维持 这场伤天害理的迫害，致使中国 社会的道德愈发沦丧，公义缺失，乱象丛生，人人受害。
    
