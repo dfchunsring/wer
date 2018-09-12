@@ -16,6 +16,9 @@
 
 “自由之家”近年发布的全球新闻自由度报 告显示，中国大陆新闻一直不自由（2015年在199 个国家和地区中排186名）。而在网络自由排名中， 中国排名垫底，是网络最不自由国家。大陆网民 寻求自由信息的主要方法是使用翻墙软件。
 
+  <h2 align="center">	
+<td><a href="https://git.io/epgh">【突破封锁才能看到 国内看不到的】~翻墙软件*免费下载*</a></td></h2></p>
+
   <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-4.jpg?raw=true" width=800></td>
 </div>
