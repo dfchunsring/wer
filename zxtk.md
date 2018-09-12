@@ -580,7 +580,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
 </tr>
 
- <a name=12><div align=center>
+ <a name=14><div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-37-1.jpg?raw=true" width=750></td>
  </div>
 
@@ -602,7 +602,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
 </tr>
 
- <a name=12>
+ <a name=15>
 
 
 
