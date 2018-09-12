@@ -8,9 +8,9 @@
 </tr>
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-5.jpg?raw=true" width=800></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-5-1.jpg?raw=true" width=800></td>
 </div>
-<h3 align="center">哪个危险       你知道</h3>
+
 <p>
 真实自由的信息，像空气。如果被封锁了， 那里的生命就处在危险中。
 
