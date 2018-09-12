@@ -678,11 +678,10 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
  <a name=18><div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-44.jpg?raw=true" width=750></td>
- </div>
+ <p>法国艾菲尔铁塔下，游客了解法轮功真相。近 年来，大陆游客在海外景点声明“三退”成风尚。</div>
 
 <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-42-3.jpg?raw=true" width=750></td>
- <p>法国艾菲尔铁塔下，游客了解法轮功真相。近 年来，大陆游客在海外景点声明“三退”成风尚。
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-40-1.jpg?raw=true" width=750></td>
 </div>
 
 凡是加入共产党 的党、团、队组织的 人，都参与了政治， 因为共产党是个政治 组织。 
