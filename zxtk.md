@@ -557,7 +557,13 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
  
  正因为不忍心看到人们因不明真相而参与迫害好人、做错事， 从而影响生命前途，法轮功学员才告诉人们真相。在自己遭受迫害 的情况下，想到的是别人，这是法轮功修炼者的慈悲。◇
 
-<div align=center>
+   <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=13><div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-07-1.jpg?raw=true" width=750></td>
  </div>
 
@@ -567,7 +573,14 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 迫害开始后的2000年4月9日，公安部颁布《关于认定和取 缔邪教组织若干问题的通知》（公通字[2000]39号），该文件共认 定邪教组织14种，没有法轮功。
 
-<div align=center>
+
+   <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=12><div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-37-1.jpg?raw=true" width=750></td>
  </div>
 
@@ -583,7 +596,13 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 中国新闻出版总署于2011年3月1日发布第五十号令，明确 废止了1999年江泽民为迫害法轮功而发布的“关于查禁印刷法轮 功出版物”的两个文件。法轮功在中国是合法的。江泽民团伙迫害 法轮功，不得人心，已走向末路，面临被清算。
 
+   <a href=#list><h6 align="right">回目錄</h6></a>
 
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=12>
 
 
 
