@@ -602,9 +602,22 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
 </tr>
 
- <a name=15>
+ <a name=15><div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-38.jpg?raw=true" width=750></td>
+ </div>
 
+中国大陆警察为了饭碗，一直执行江泽民集团迫害法轮功的指 令，有意无意地把自己置于助江（泽民）为虐、违反《宪法》的境地。 
 
+法外机构“六一零办公室”违反《宪法》。“六一零办公室” 是江泽民为迫害法轮功，于 1999 年 6 月 10 日成立的一个凌驾于法 律之上的非法机构，类似于中央文革小组。其指令各地“六一零”、 公检法、劳教所、监狱等迫害法轮功学员，并干预法院审判结果。 
 
+中共历次运动，都推出一批“替罪羊”。例如文革，北京市公 安局长刘传新卖力“执行公务”，文革结束时第一个自杀。文革中 表现积极的 793 名警察、公检法系统的 17 名干部被拉到云南枪决， 家属被通知：因公殉职。 
+
+从 2016 年 3 月 1 日开始，新修订的《公安机关人民警察执法过 错责任追究规定》正式施行，1999 年 6 月 11 日开始实施的同名规 定废止。新旧规定区别何在？在 1999 年的规定中“因执行上级命令 而犯错，可以不追究警察责任”的条款，在新规定中没有出现。
+
+这给公检法、“六一零”人员亮起了警灯：无论以什么名义参 与迫害，都会被追究，“执行命令”不能成为逃避追究的借口。◇
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-39-1.jpg?raw=true" width=750></td>
+ </div>
 
 
