@@ -151,12 +151,12 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 中共江泽民集团开始迫害法轮功之时，中国大陆媒体充斥着污蔑 法轮功的假新闻，号称“1400例”。这些假新闻是如何出笼的？以下 仅举两例，读者自会明辨。
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-7-1.jpg?raw=true" width=700></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-7-1.jpg?raw=true" width=550></td>
 </div>
 李淑贤，黑龙江省哈尔滨市阿城区新华乡崔家屯农妇， 婚后在阿城区大岭乡居住。1999 年 7 月，李淑贤患胃溃疡住进哈尔 滨第四医院，病重期间因生活贫困交不上住院费。医院院长主动给 她家人出主意：“你们就说李淑贤是练法轮功练的，就能获得免费 治疗，还能在生活上给予照顾。”李淑贤及家属同意了。 哈尔滨市《新晚报》记者迅速到医院采访，用编好的台词让李 淑贤的丈夫照着说，还告诉他：“你得带着表情，说得像真的一样。” 这样，一则假新闻出笼了。事后，李淑贤病情加重，被医院强 制出院，回家后不久死亡。新华乡政府及阿城市政府曾对此事进行 调查，证实：李淑贤不是炼法轮功的。可是，此事在中央电视台“走 进千万家”栏目播出，很多地方媒体也在播报，炒作得沸沸扬扬。
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-8-1.jpg?raw=true" width=700></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-8-1.jpg?raw=true" width=550></td>
 </div><p>
 马建民，河北省任丘市华北油田居民，本人及家族都 有精神病史。一天，马建民一人在家，家人回来时，看到他肚子剖开， 死在厕所。当时公安局的人明明知道：马建民死时是独自在家，究 竟为什么剖腹，谁也不清楚。可是为了迎合江泽民迫害法轮功的政策、 讨好公安部，捞取政治资本，硬把马建民的死说成是“剖腹找法轮”。 尽管当时央视去马建民家编排节目时，马建民的儿子一再声明其父 的死与法轮功无关，并且拒绝在电视上表演，但央视不顾事实，仍 一手编导了“剖腹找法轮”的骗局。◇
 <p>
@@ -184,7 +184,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 </div>
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-10.jpg?raw=true" width=700></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-10.jpg?raw=true" width=550></td>
 </div>
 
 有人认为：1999 年 4 月 25 日，万名法轮功学员到国务院信 访办（注：信访办位于北京中南海附近）和平上访，是导致中共 江泽民集团迫害法轮功的原因。其实不然。
