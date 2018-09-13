@@ -31,7 +31,7 @@
 <b>欢迎突破封锁浏览明慧网：www.minghui.org</b>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_3M.png?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
   <div align=center>
@@ -86,7 +86,7 @@
   <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=1><h2><b>天安门自焚</b></h2>
@@ -145,7 +145,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
   <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=2><h2><b>“1400 例”假新闻如何出笼的?</b></h2>
@@ -216,7 +216,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
   <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=4>   <div align=center>
@@ -272,7 +272,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
   <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
    <a name=5> <div align=center>
@@ -331,7 +331,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
    <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
    <a name=6> <div align=center>
@@ -371,7 +371,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
  <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
    <a name=7> <div align=center>
@@ -391,7 +391,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
   <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
 <a name=8><h1 align="center"><b>不让人吃药 ? </b></h1>
@@ -437,7 +437,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
   <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=9><h1 align="center"><b>江泽民为何迫害法轮功 ? </b></h1>
@@ -478,7 +478,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
  <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=10><div align=center>
@@ -495,7 +495,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
   <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=11>
@@ -545,7 +545,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
    <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=12><div align=center>
@@ -565,7 +565,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
    <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=13><div align=center>
@@ -604,7 +604,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
    <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=15><div align=center>
@@ -654,7 +654,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
    <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=17><div align=center>
@@ -699,7 +699,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
   <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=19><div align=center>
@@ -776,7 +776,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
    <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=21><div align=center>
