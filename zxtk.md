@@ -373,7 +373,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 </tr>
 
    <a name=7> <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-22.jpg?raw=true" width=650></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-22.jpg?raw=true" width=550></td>
 </div>
   
 <td><a href="https://git.io/cxh">法轮大法，也称法轮功，是 由李洪志先生于1992年5月传出 的佛家上乘修炼大法，以“真、善、 忍”为根本指导，包含五套舒缓优 美的功法动作。 </a></td><p>
