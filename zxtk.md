@@ -4,7 +4,7 @@
 </div>
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=550></td></div>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=650></td></div>
 
 
   <div align=center>
@@ -31,7 +31,7 @@
 <b>欢迎突破封锁浏览明慧网：www.minghui.org</b>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_3M.png?raw=true" width=880></td>
 </tr>
 
   <div align=center>
