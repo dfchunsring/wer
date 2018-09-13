@@ -177,7 +177,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
   <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_138_0S.png?raw=true" width=880></td>
 </tr>
 
  <a name=3>  <div align=center>
