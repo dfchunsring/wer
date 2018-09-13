@@ -252,17 +252,17 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 （石采东, 1999 年“四二五”时在中国科学院攻读博士学位，2002 年 11 月起在美国特拉华大学作访问学者, 现居纽约。）◇
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-0-1.jpg?raw=true" width=800></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-0-1.jpg?raw=true" width=550></td>
 </div>
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-0-2.jpg?raw=true" width=800></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-0-2.jpg?raw=true" width=550></td>
 </div>
 
 上访，是《宪法》第四十一条和国务院《信访条例》规定的公 民权利。中共江泽民集团对法轮功的非法侵害，涉及到几千万人的 正当修炼权利，本应有几千万人去上访，“四二五”只去了一万人， 怎能说是多呢？中共一方面规定公民可以上访，一方面以上访为迫 害借口，这正是中共江泽民集团流氓本性的体现。
  
    <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-0-3.jpg?raw=true" width=800></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-0-3.jpg?raw=true" width=550></td>
 </div>
 
 时事评论人士欧阳非先生说：“中共惯于‘翻手为云，覆手为 雨’，你不跟它整人害人，它说你不关心政治；它撒谎，你揭露它， 它整你；它诽谤，你去澄清时，它迫害你；你讨公道时，它说你反 政府……总之，你跟它不一致了，它就说你‘搞政治’，就要实行 迫害。”搞政治，实质是中共迫害民众时的一个莫须有的罪名。
@@ -274,7 +274,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 </tr>
 
    <a name=5> <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-13.jpg?raw=true" width=800></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-13.jpg?raw=true" width=550></td>
 </div>
 
    <div align=center>
