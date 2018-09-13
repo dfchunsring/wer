@@ -680,12 +680,13 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 </tr>
 
  <a name=18><div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-40-1.jpg?raw=true" width=750></td>
+</div>
+  
+  <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-44.jpg?raw=true" width=750></td>
  <p>法国艾菲尔铁塔下，游客了解法轮功真相。近 年来，大陆游客在海外景点声明“三退”成风尚。</div>
 
-<div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-40-1.jpg?raw=true" width=750></td>
-</div>
 
 凡是加入共产党 的党、团、队组织的 人，都参与了政治， 因为共产党是个政治 组织。 
 
@@ -693,7 +694,7 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 人们在加入中共的党团队时，都得表态：把一生奉献给它。这 好比发毒誓，把自己的一生卖给共产党了。中共是由党、团、队员 组成的，法轮功修炼者告诉人“三退”（退党、退团、退队），是 希望善良人废除毒誓，天灭中共时，不给共产党作垫背、遭厄运。 他们关心的是人的生命安危，无关政治。
  
-    <a href=#list><h6 align="right">回目錄</h6></a>
+  <a href=#list><h6 align="right">回目錄</h6></a>
 
 <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
