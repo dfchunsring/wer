@@ -770,6 +770,37 @@ CCTV镜头显示，刘春玲并非被火烧死，而是被人用重物击中头�
 
 没有了共产党，才能有公正、自由的新中国；没有了共产党， 才能为中华民族真正融入世界民族大家庭扫除障碍；没有了共产党， 所谓的“海外反华势力”也会烟消云散。 （文／龙啸）◇
 
+   <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=21><div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-49.jpg?raw=true" width=750></td>
+ </div>
+
+法轮功没有接受任何政府的资助。法轮功修炼者用自己的钱 制作真相资料、办活动，只为让人明真相，有个美好的未来。他 们的所为，超越世间的名利，那颗善良的心，是用钱买不来的。 全世界的法轮功学员都在这样做。 
+
+原大连信诚会计事务所董事长王春荣女士，在景点讲述法轮 功真相时，坦诚地说：“我因为修炼法轮功被非法判刑三年，警 察说，你说法轮功不好就放你回家，否则就进监狱。我坚持信仰， 在监狱里被关了三年。我们这样的人是用钱能雇得来的吗？”
+
+   <a href=#list><h6 align="right">回目錄</h6></a>
+
+<tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
+</tr>
+
+ <a name=22><div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-a-50.jpg?raw=true" width=750></td>
+ </div>
+
+这是共产党灌输的谎言。共产党不做工、不种地、不创造价 值，它没有钱。中国农民种地、工人做工、知识分子搞科研，财 富是百姓创造的。中国百姓（纳税人）养活了共产党。中国各级 党务官员的工资也来自百姓的纳税钱。 
+
+在中国，每个中国人一出生，只要消费，就是纳税人。但为 什么中国百姓不觉得自己是纳税人呢？因为共产党在设计个人的 账单、发票上，没体现税收，并有意不普及税务知识。比如：水 电煤气账单上不显示税金，只显示单价（单价里其实含着增值税）。 再比如：在商店或网上购物，商家开给个人的发票上，商品单价 其实也是含着各种税的。工厂、商店交到国家的增值税，最终都 是由消费者承担的。在中国境内，无论是谁，只要你消费一元钱， 其中大概就有近五角钱的税钱交给了政府。
+
+另外，共产党执政后，走了一条高税收、低收入的路。假如 你一年创造百万元产值，它给你的工资只是很少的一部分。你的 工资是你劳动所得，你工作时创造的产值足够养活你一辈子，所 以退休金也是你工作时赚来的，不是共产党给的。
+
+
 
 
 
