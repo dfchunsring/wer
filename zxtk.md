@@ -35,7 +35,7 @@
 </tr>
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk--3-2.jpg?raw=true" width=800></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk--3-2.jpg?raw=true" width=880></td>
 </div>
 
 <a name=list><b>目錄</b><p>
