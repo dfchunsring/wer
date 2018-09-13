@@ -3,9 +3,9 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk--1.jpg?raw=true" width=800></td>
 </div>
 
-<tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=550></td>
-</tr>
+  <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=550></td></div>
+
 
   <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk-5-1.jpg?raw=true" width=800></td>
