@@ -4,7 +4,7 @@
 </div>
 
 <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/b_simple_40_0L.jpg?raw=true" width=880></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=550></td>
 </tr>
 
   <div align=center>
