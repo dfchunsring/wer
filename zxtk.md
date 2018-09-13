@@ -34,8 +34,6 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_simple_40_0L.jpg?raw=true" width=880></td>
 </tr>
 
-<h1 align="center"><b>《真相》特刊：</b></h1>
-
   <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk--3-1.jpg?raw=true" width=800></td>
 </div>
