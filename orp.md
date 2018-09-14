@@ -1,8 +1,9 @@
 
 <tbody>
-<tr>
+ <div align=center><tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/215-2.jpg?raw=true" width=800></td>
-</tr>
+</tr></div>
+	
 <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true">法轮大法洪传世界-epub</a></td></h1></p>
 
