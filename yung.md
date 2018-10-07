@@ -104,7 +104,7 @@
 
 <p>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-4.jpg?raw=true" width=880></a><br></div><p>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-4-2.jpg?raw=true" width=880></a><br></div><p>
 
 <p>
 <div align="center">
