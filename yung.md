@@ -88,11 +88,11 @@
  
    中共江泽民集团在迫害法轮功的运动中，奉行的原则是“名 誉上搞臭，经济上截断，肉体上消灭。”在江泽民的指令和授意 下，专事迫害法轮功的非法组织“六一零”执行“打死白打死”、 “打死算自杀”、“不查身源、直接火化”的灭绝政策。法轮功 讯息中心资料显示，截至 2018 年 3 月 12 日，4195 名能确认真 实姓名的法轮功学员被迫害致死。
 
-p>
+<p>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-4.jpg?raw=true" width=880></a><br></div><p>
 
-p>
+<p>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-5.jpg?raw=true" width=880></a><br></div><p>
 
