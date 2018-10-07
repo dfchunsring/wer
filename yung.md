@@ -78,7 +78,9 @@
 
 请你想一想，如果大海啸要来的时候，你希望我对你说什么？古语云：君子 不立于危墙 之下。宁可 信其有，不 可信其无。 快快退出中 共党、团、 队，真正为 自己的生命 和未来着想 吧！
  
-
+<p>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-3.png?raw=true" width=880></a><br></div><p>
 
 
 
