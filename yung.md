@@ -10,6 +10,10 @@
 <p>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-2.jpg?raw=true" width=880></a><br></div><p>
+ 
+ <h1 align="center">	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/pdf/santui-2in1-read.pdf">“三退手册”请下载“pdf档”</a></td></h1>
+ 
 <b>1、什么是“三退保平安”？ </b>
 
 答：很多人听过或看过“退党保平安”或“三退保平安”这句 话。退党，是对退出中国共产党的党组织、共青团组织和少先队组织 的统称，也称“三退”。 
