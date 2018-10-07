@@ -12,7 +12,7 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-2.jpg?raw=true" width=880></a><br></div><p>
  
  <h1 align="center">	
-<td><a href="https://github.com/dfchunsring/wer/blob/master/pdf/santui-2in1-read.pdf">“三退手册”请下载“pdf档”</a></td></h1>
+<td><a href="https://github.com/dfchunsring/wer/blob/master/pdf/santui-2in1-read.pdf">“三退是每一位中国人必須面临的选择”请下载“pdf档”</a></td></h1>
  
 <b>1、什么是“三退保平安”？ </b>
 
