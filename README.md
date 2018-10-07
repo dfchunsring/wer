@@ -10,3 +10,7 @@
 
 <td><h3><a href='https://git.io/3e-t3'> 每一位中国人必须面临的选择 </a><h3></td></td><p>
 
+<table>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/dfh--2.jpg?raw=true" width=880></a><br></div>
+</table>
