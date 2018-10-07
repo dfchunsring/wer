@@ -94,7 +94,7 @@
  
 <p>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-3-3.png?raw=true" width=880></a><br></div><p>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-1-3.png?raw=true" width=880></a><br></div><p>
 
  <b>9、法轮功教人做好人，为什么中共要迫害法轮功？  </b>
 
