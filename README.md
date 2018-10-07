@@ -6,7 +6,7 @@
 
  <td><h3><a href='https://git.io/zb'>了解真相有福报~看更多</a></h3> </td><p>
   
- <td><h3><a href='https://git.io/3jurs'>您明白多少?</a></h3> </td><p>
+ <td><h3><a href='https://git.io/3jurs'>您要的也许都在这里!</a></h3> </td><p>
 
 
 
