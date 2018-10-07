@@ -4,10 +4,12 @@
 
 <p>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/16-2.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-1.jpg?raw=true" width=880></a><br></div><p>
 
 截至2018年3月23日，在海外大纪元网站声明退出中共党、 团、队组织（三退）的人数已经超过三亿。 上图是2018年3月18日，香港法轮功学员举行盛大集会及游 行活动，庆祝并声援近三亿人退出中共党、团、队组织。
-
+<p>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-2.jpg?raw=true" width=880></a><br></div><p>
 <b>1、什么是“三退保平安”？ </b>
 
 答：很多人听过或看过“退党保平安”或“三退保平安”这句 话。退党，是对退出中国共产党的党组织、共青团组织和少先队组织 的统称，也称“三退”。 
