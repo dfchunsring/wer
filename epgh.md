@@ -28,12 +28,14 @@
 
 <table>
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true' width="440">无界浏览18.04正式版 .zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true' width="440">无界浏览18.04正式版 .exe</a></h2></td></tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true' width="293">无界浏览18.04(压缩版).zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true' width="293">无界浏览18.04(执行版).exe</a></h2></td>
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.zip?raw=true' width="293">自由门.桌机版764(压缩版).zip</a></h2></td>
+</tr>	
 	
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true' width="293">无界浏览18.02正式版 .zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true' width="293">无界浏览18.02正式版 .exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true' width="293">无界浏览18.02(压缩版) .zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true' width="293">无界浏览18.02(执行版) .exe</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true' width="293">无界浏览.桌机版1704.zip</a></h2></td>	
 </tr>
 
