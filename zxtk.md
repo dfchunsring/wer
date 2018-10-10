@@ -1,5 +1,10 @@
 
   <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/688.jpg?raw=true" width=800></td><h3>精彩影片 请点击下载 http://220.141.123.215</h3>
+</div>
+
+<p>
+<div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk--1.jpg?raw=true" width=800></td>
 </div>
 
