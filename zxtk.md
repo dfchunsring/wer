@@ -4,6 +4,9 @@
 </div>
 
 <p>
+    <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=500></td></div>
+  
 <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk--1.jpg?raw=true" width=800></td>
 </div>
