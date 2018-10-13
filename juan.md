@@ -19,6 +19,8 @@
 <a href="#3">3.给黄梅县公检法人员、各级干部的一封信</a><br>
 <a href="#4">4.给湖北省荆门沙洋范家台监狱警察的信</a><br>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
 
  <a name=1><h2><b>蒙冤司法女警给同行们的一封信</b></h2>
 
@@ -116,7 +118,9 @@
 
   <a href=#list><h6 align="right">回目錄</h6></a>
  
- <hr>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
+
   <a name=2><h2><b>给延庆县父老乡亲的一封信</b></h2>
  
  您好！下面告诉您一件刚刚发生在您身边的事。
@@ -173,7 +177,9 @@
 
   <a href=#list><h6 align="right">回目錄</h6></a>
 
- <hr>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
+
   <a name=3><h2><b>给黄梅县公检法人员、各级干部的一封信</b></h2>
  
  你们好！虽然你我素不相识，但你们能看到这封信就是我们的缘分，衷心祝福您及家人幸福平安，也希望您能耐心看完这封信。
@@ -199,7 +205,9 @@
 
   <a href=#list><h6 align="right">回目錄</h6></a>
    
- <hr>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
+
   <a name=4><h2><b>给湖北省荆门沙洋范家台监狱警察的信</b></h2>
  
 
@@ -274,5 +282,8 @@
 湖北荆门沙洋范家台监狱电话：0724-8570016 邮政编码：448200
 
 下面是部分参与迫害法轮功学员的监狱人员：
- <hr>
+
   <a href=#list><h6 align="right">回目錄</h6></a>
+  
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>  
