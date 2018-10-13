@@ -170,7 +170,9 @@
 延庆区法轮功学员
 
 二零一八年七月
-   <a href=#list><h6 align="right">回目錄</h6></a>
+
+  <a href=#list><h6 align="right">回目錄</h6></a>
+
  <hr>
   <a name=3><h2><b>给黄梅县公检法人员、各级干部的一封信</b></h2>
  
@@ -195,7 +197,8 @@
 真心为您好的法轮功学员
 二零一八年七月三十日
 
-   <a href=#list><h6 align="right">回目錄</h6></a>
+  <a href=#list><h6 align="right">回目錄</h6></a>
+   
  <hr>
   <a name=4><h2><b>给湖北省荆门沙洋范家台监狱警察的信</b></h2>
  
@@ -272,4 +275,4 @@
 
 下面是部分参与迫害法轮功学员的监狱人员：
  <hr>
- 
+  <a href=#list><h6 align="right">回目錄</h6></a>
