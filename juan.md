@@ -25,7 +25,8 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
 
- <a name=1><h2><b>蒙冤司法女警给同行们的一封信</b></h2>
+ <a name=1><h2><div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/937-1.jpg?raw=true" width=680></a><br></div>
 
 公检法司系统的领导、同行们：
 
