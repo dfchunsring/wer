@@ -134,8 +134,8 @@
 
 各位领导与公检法司同行们，我被构陷冤狱两年，回家已一年半了，期间我曾多次找到有关领导帮助合理解决工资问题，可至今仍未能如愿。尽管如此，我没有因此而怨恨别人，其中包括那些曾经参与迫害过我的公检法司办案人员，我知道他们也是因不明真相才能被利用而参与其中的。即使工资目前仍没恢复，但我相信这只是暂时的，因为“公道自在人心”。作为修炼人是不执着钱财的，那我为什么还一而再的想要回我的工资呢？因为我知道，我的退休工资能否被恢复，这既是衡量着人心善恶的取舍，也是留给很多生命在其中选择的机缘。一旦这场迫害被终结之时，那些曾参与对我和其他大法弟子迫害的人都将为自己的过错承担责任。正因于此，我才凝聚着血与泪写成这封信，诉说着我的经历和期盼，也是为了唤醒昔日的同行们，别再参与迫害好人了，用人的本性和良知来衡量自己的行为，了解真相，转变观念，善待大法修炼者，为自己也为家人选择美好的未来。
 
-  <a href=#list><h6 align="right">回目錄</h6></a>
- 
+  <a href=#list><h5 align="right">回目錄</h5></a>
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
 
@@ -198,7 +198,7 @@
 
 二零一八年七月
 
-  <a href=#list><h6 align="right">回目錄</h6></a>
+  <a href=#list><h5 align="right">回目錄</h5></a>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
@@ -227,7 +227,7 @@
 真心为您好的法轮功学员
 二零一八年七月三十日
 
-  <a href=#list><h6 align="right">回目錄</h6></a>
+  <a href=#list><h5 align="right">回目錄</h5></a>
    
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
@@ -317,7 +317,7 @@
 范家台监狱三监区副教导员 李勇<br>
 范家台监狱狱侦科科长 沈建军<br>
 
-  <a href=#list><h6 align="right">回目錄</h6></a>
+  <a href=#list><h5 align="right">回目錄</h5></a>
   
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_illust_84_2M.png?raw=true" width=780></a><br></div>  
@@ -354,7 +354,7 @@
 
 从那以后到现在，三小姑子再也没犯过病，人比以前还胖了。
 
-  <a href=#list><h6 align="right">回目錄</h6></a>
+  <a href=#list><h5 align="right">回目錄</h5></a>
   
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=780></a><br></div>  
@@ -445,7 +445,7 @@
 
 当我在大洋彼岸听到我父亲和李叔叔获得人身自由的时候，相信高兴的不仅仅是我自己，还有那些伸出援助之手的美国国会议员、政府官员、国际人权机构的朋友们和看到此消息的家乡善良的人们。而您和您的家人，也将为自己的善念而心安，为你们自己明智的善举而骄傲！而受中共指使不思悔改继续参与迫害法轮功的，最终都得为自己的犯罪行为负责。
 
-  <a href=#list><h6 align="right">回目錄</h6></a>
+  <a href=#list><h5 align="right">回目錄</h5></a>
   
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=780></a><br></div>  
@@ -504,7 +504,7 @@
 
 最后，再奉劝所有涉案人员几句：为了将来我们能坦然面对我们的后代子孙。也为了到老了的那一天，回头看看我们所走过的路而无愧于心。请各位在侦办此案时，一定要慎重、再慎重！还有一句忠告：今天不做傀儡，明天就不会成为替罪羊！
 
-  <a href=#list><h6 align="right">回目錄</h6></a>
+  <a href=#list><h5 align="right">回目錄</h5></a>
   
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=780></a><br></div>  
@@ -568,5 +568,5 @@
 从事教育工作的李娸嘉，三年前，在一个因缘际会下，一位德国的朋友介绍法轮功，送他们一本《转法轮》，夫妻俩看到书中的内容觉得浅显易懂，但内涵却是博大精深，每看一次，随着心性的提升，都有不同的体会与收获，夫妻之间的相处经常会用书上的内容对照，遇到矛盾先找自己，互相包容谦让，两个小孩也跟随学《洪吟》。
 
 虽然修炼不久，每次大型活动，他们都是全家参加，参与的过程他们都感到无比的殊胜，感受到很强大的能量场。李娸嘉表示， 她希望世人都能够来了解真相，别错过这难得的机缘，否则就太可惜了。
-
+  <a href=#list><h5 align="right">回目錄</h5></a>
 
