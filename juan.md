@@ -301,7 +301,7 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>  
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-1.jpg?raw=true" width=780></a><br></div>  
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-1.jpg?raw=true" width=680></a><br></div>  
 
 【明慧网二零一八年九月二十九日】我修炼法轮功前患有心脏病、风湿性关节炎、做绝育的后遗症、神经性头疼、口腔溃疡、胃溃疡。炼法轮功不长时间都好了，身心受益。是大法师父改变了我苦难的人生。
 因为我不放弃信仰，二零零九年被非法关押在本市看守所，和犯人关押在一个号房里，我们给犯人讲：法轮功祛病健身的神奇，法轮大法洪传世界一百多个国家和地区，法轮功被迫害真是千古奇冤。以前被非法关押的大法弟子都给他们讲过真相，他们大部份人知道了法轮大法好，明白真相的大部份都三退了。
