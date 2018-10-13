@@ -288,14 +288,14 @@
 
 下面是部分参与迫害法轮功学员的监狱人员：
 
-范家台监狱四监区监区长 徐宏
-范家台监狱特警大队长 陈斌
-范家台监狱劳动车间九监区狱警 陈建华、胡浦高、孙志坚、汤锐
-范家台监狱生活卫生科科长 肖天波
-范家台监狱集训队分监区长 何凯
-范家台监狱三监区监区长 肖正法
-范家台监狱三监区副教导员 李勇
-范家台监狱狱侦科科长 沈建军
+范家台监狱四监区监区长 徐宏<br>
+范家台监狱特警大队长 陈斌<br>
+范家台监狱劳动车间九监区狱警 陈建华、胡浦高、孙志坚、汤锐<br>
+范家台监狱生活卫生科科长 肖天波<br>
+范家台监狱集训队分监区长 何凯<br>
+范家台监狱三监区监区长 肖正法<br>
+范家台监狱三监区副教导员 李勇<br>
+范家台监狱狱侦科科长 沈建军<br>
 
   <a href=#list><h6 align="right">回目錄</h6></a>
   
@@ -337,7 +337,7 @@
   <a href=#list><h6 align="right">回目錄</h6></a>
   
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>  
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=780></a><br></div>  
 
   <a name=6><div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-3.jpg?raw=true" width=680></a><br></div>  
@@ -425,6 +425,12 @@
 
 当我在大洋彼岸听到我父亲和李叔叔获得人身自由的时候，相信高兴的不仅仅是我自己，还有那些伸出援助之手的美国国会议员、政府官员、国际人权机构的朋友们和看到此消息的家乡善良的人们。而您和您的家人，也将为自己的善念而心安，为你们自己明智的善举而骄傲！而受中共指使不思悔改继续参与迫害法轮功的，最终都得为自己的犯罪行为负责。
 
+  <a href=#list><h6 align="right">回目錄</h6></a>
+  
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=780></a><br></div>  
 
+  <a name=6><div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-3.jpg?raw=true" width=680></a><br></div>  
 
 
