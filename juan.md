@@ -300,7 +300,7 @@
   <a href=#list><h6 align="right">回目錄</h6></a>
   
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>  
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_illust_84_2M.png?raw=true" width=780></a><br></div>  
 
   <a name=5><div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-1.jpg?raw=true" width=680></a><br></div>  
