@@ -18,6 +18,8 @@
 <a href="#2">2.给延庆县父老乡亲的一封信</a><br>
 <a href="#3">3.给黄梅县公检法人员、各级干部的一封信</a><br>
 <a href="#4">4.给湖北省荆门沙洋范家台监狱警察的信</a><br>
+<a href="#5">5.看守所里的人们在觉醒</a><br>
+<a href="#6">6.大洋彼岸的呼唤</a><br>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
@@ -300,7 +302,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>  
 
-<div align="center">
+  <a name=5><div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-1.jpg?raw=true" width=680></a><br></div>  
 
 【明慧网二零一八年九月二十九日】我修炼法轮功前患有心脏病、风湿性关节炎、做绝育的后遗症、神经性头疼、口腔溃疡、胃溃疡。炼法轮功不长时间都好了，身心受益。是大法师父改变了我苦难的人生。
@@ -332,7 +334,13 @@
 
 从那以后到现在，三小姑子再也没犯过病，人比以前还胖了。
 
+  <a href=#list><h6 align="right">回目錄</h6></a>
+  
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>  
 
+  <a name=6><div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-3.jpg?raw=true" width=680></a><br></div>  
 
 
 
