@@ -190,7 +190,8 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
 
-  <a name=3><h2><b>给黄梅县公检法人员、各级干部的一封信</b></h2>
+  <a name=3><div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/707-1.jpg?raw=true" width=680></a><br></div>
  
  你们好！虽然你我素不相识，但你们能看到这封信就是我们的缘分，衷心祝福您及家人幸福平安，也希望您能耐心看完这封信。
 
