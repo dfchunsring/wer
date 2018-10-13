@@ -126,7 +126,9 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
 
-  <a name=2><h2><b>给延庆县父老乡亲的一封信</b></h2>
+  <a name=2><div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/511-1.jpg?raw=true" width=680></a><br></div>
+ 
  
  您好！下面告诉您一件刚刚发生在您身边的事。
 
