@@ -65,11 +65,11 @@
  那个参与“自焚”的十二岁小女孩刘思影到医院抢救割开气管插上胶管还能讲话、唱歌，而且凡是懂点常识的人都知道，烧伤患者为了防止感染，必须裸露烧伤处，或者放进无菌箱中，可是焦点访谈栏目主持人采访时我们看到，烧伤者被包裹的严严实实。而且采访者的一个唾沫星都可能给患者带来致命的感染，可是，那个主持人连最起码的防感染的无菌衣都不穿，医院对患者就这么不负责任吗？片中的解说员说：很显然，这场所谓的“自焚”是江泽民集团导演拍摄的煽动仇恨的假戏。精心策划了“自焚”事件。当明白了天安门自焚事件的真实情况后，我彻底清醒了，一个政府为了镇压一个做好人的团体，就可以这样挑起仇恨事件，草菅人命吗？
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_ornament_62_1M.png?raw=true" width=750></a><br></div>  
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_ornament_62_1M.png?raw=true" width=780></a><br></div>  
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/zfln.jpg?raw=true" width=780></a><br></div>
  <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_ornament_62_1M.png?raw=true" width=750></a><br></div>  <p>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_ornament_62_1M.png?raw=true" width=780></a><br></div>  <p>
 
 让我真正了解法轮功的，还是通过看法轮大法原著《转法轮》这本书，不仅让我明白了人生为了什么？为什么有痛苦有欢乐，和怎样做好人升华自己，还让我知道了很多对天地人生等解不开的疑问，通过看《转法轮》，在不知不觉中改变了自己的人生观、价值观，我明白了一种人生观就是自私的，以自己得到的多，自己不受伤害为快乐；一种人生观是为他的，以付出的多，自己吃苦换来他人的幸福为快乐。大法修炼者就是以善待他人为快乐。可就在为他的过程中，因为符合了宇宙的规律，使自己去除了痛苦。
 
