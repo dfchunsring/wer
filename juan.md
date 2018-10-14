@@ -840,4 +840,4 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/222203.jpg?raw=true" width=750></a><br></div>  
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_ornament_62_1M.png?raw=true" width=50></a><br></div>  
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_ornament_62_1M.png?raw=true" width=850></a><br></div>  
