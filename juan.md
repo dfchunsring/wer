@@ -837,7 +837,7 @@
 许多人觉得中共迫害法轮功和自己无关，这是错误的认识。在这场善与恶、正与邪的较量中，沉默其实就是怂恿邪恶，沉默就是邪恶的帮凶，因此保持沉默，保持所谓的中立是没有选择，其实质是帮助了邪恶，助长了邪恶的气焰。现在天灾人祸不断，就是一种警示。所有中国人都是这场无理迫害的受害者。
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/222203.jpg?raw=true" width=780></a><br></div>  
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/222203.jpg?raw=true" width=750></a><br></div>  
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=780></a><br></div>  
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_ornament_62_1M.png?raw=true" width=50></a><br></div>  
