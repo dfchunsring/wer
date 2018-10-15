@@ -1,7 +1,7 @@
 
 <tbody>
  <div align=center><IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=850>
-<br><h3>必看 精彩视频   请直接点击 http://220.141.123.94</h3></div>
+<br><h3>必看 精彩视频   请直接点击 http://61.228.117.11</h3></div>
 	
 <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true">法轮大法洪传世界-epub</a></td></h1></p>
