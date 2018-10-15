@@ -1,6 +1,6 @@
 
 <table>
-  <div align=center><a href="https://git.io/ffq"><IMG SRC="wnn/img/ok.jpg" width=880></a></p></div>
+  <div align=center><a href="https://git.io/ffq"><IMG SRC="https://github.com/dfchunsring/nini/blob/master/wnn/img/ok.jpg?raw=true" width=880></a></p></div>
 </table>
   <div align=center><h3>必看 精彩视频   请直接点击 http://61.228.117.11</h3></div>
 <p>
