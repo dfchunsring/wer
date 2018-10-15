@@ -1,9 +1,8 @@
 
 <table>
-  <div align=center><a href="https://git.io/ffq"><IMG SRC="wnn/img/ok.jpg" width=880></a></p>
-<h3>必看 精彩视频   请直接点击 http://61.228.117.11</h3></div>
+  <div align=center><a href="https://git.io/ffq"><IMG SRC="wnn/img/ok.jpg" width=880></a></p></div>
 </table>
-
+  <div align=center><h3>必看 精彩视频   请直接点击 http://61.228.117.11</h3></div>
 <p>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/816-1.jpg?raw=true" width=880></a><br></div>
