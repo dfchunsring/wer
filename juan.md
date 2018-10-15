@@ -9,7 +9,7 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/816-1.jpg?raw=true" width=880></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=850></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
 
 <p>
 <div align="center">
@@ -33,7 +33,7 @@
 
 
  <a name=1><div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/937-1.jpg?raw=true" width=680></a><br></div><p>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/937-1.jpg?raw=true" width=580></a><br></div><p>
 
 
 <h3>公检法司系统的领导、同行们：</h3>
