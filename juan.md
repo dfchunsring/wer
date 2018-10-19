@@ -58,7 +58,7 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/303.jpg?raw=true" width=680></a><br></div><p>
-<div align="center"><td><h3><a href="https://github.com/dfchunsring/wer/blob/master/xyrs-mp4/tnmzfs.mp4?raw=true">“天安门自焚事件”MP4</a><h3></td>
+<div align="center"><td><h3><a href="https://github.com/dfchunsring/wer/blob/master/xyrs-mp4/tnmzfs.mp4?raw=true">“天安门自焚事件看视频分辨真伪”MP4</a><h3></td>
 </div><p>
 以所谓“天安门自焚事件”为例，这也是洗脑的重要依据，看了央视播出的声情并茂的自焚录像后，我和很多国人一样，由此种下一粒仇恨的种子。可当我接触到这些法轮功学员后，在她们身上怎么也找不到自杀、自焚的影子，后来看到一个关于“天安门自焚伪案”的纪录片之后，令我很震惊，该片通过将央视自焚镜头的慢放和分析，提出了诸多疑问，比如，新年期间天安门是处于戒严状态，这几个法轮功学员是怎样进入到广场的？并且汽油燃烧后，自焚者之一王进东两腿间盛着汽油的雪碧瓶在火焰中完好无损。人的头发最容易燃烧的，但王进东却头发完好。王进东背后的警察就像演戏一样，拿着灭火毯，就等王进东喊完口号后才把灭火毯盖在他头上。
  
