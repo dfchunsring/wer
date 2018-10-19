@@ -845,7 +845,8 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/216-2.jpg?raw=true" width=700></a><br></div> <p>
 
-现在天灾人祸不断，就是一种警示。所有中国人都是这场无理迫害的受害者。
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/ok-1.jpg?raw=true" width=700></a><br></div> <p>
 
 <p><div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/222203.jpg?raw=true" width=750></a><br></div>  
