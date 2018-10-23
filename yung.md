@@ -53,7 +53,7 @@
 
 <p>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-4-1.jpg?raw=true" width=580></a><br></div><p>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/3e-41.jpg?raw=true" width=580></a><br></div><p>
 
 <b>5、“三退”将造成国家不稳定吗？  </b> 
 
