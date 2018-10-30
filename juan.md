@@ -29,6 +29,8 @@
 <a href="#11">11.山东德州市74岁法轮功学员刘桂香遭迫害经历</a><br>
 <a href="#12">12.曾遭八年冤狱　八旬老人又被绑架、骚扰</a><br>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-2.jpg?raw=true" width=680></a><br></div><p>
