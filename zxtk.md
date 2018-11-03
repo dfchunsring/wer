@@ -1,11 +1,11 @@
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/289-1.jpg?raw=true" width=800></td><h3>必看 精彩视频   请直接点击 http://61.228.117.175</h3>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/289-1.jpg?raw=true" width=800></td><h3>必看 精彩视频   请直接点击 http://111.241.99.25</h3>
 </div>
 
 <p>
     <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=500></td></div>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=650></td></div>
   
 <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/zxtk--1.jpg?raw=true" width=800></td>
