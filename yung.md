@@ -85,7 +85,7 @@
 
 </table>
 
-![](https://github.com/dfchunsring/wer/blob/master/img-mf/705.jpg?raw=true width=200)
+![]("https://github.com/dfchunsring/wer/blob/master/img-mf/705.jpg?raw=true" width=200)
 
 <b>三 退的方法很简单：真名.化名都行. 您也可以找当地的*法 轮 功*学员帮您*三 退，也可以自己翻 墙登录海外最大的华人媒体“大 纪 元时报”的网站，点击右边的“九 评共产党引发三 退大潮”栏目，在*退 党网站上声明退 出中 共组织；</b> <p>
 <b> 需要帮退的話  请给qq號:908728809留言 <p>
