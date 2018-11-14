@@ -20,17 +20,16 @@
 
 <h3>因为中共全力打造红墙局域网，自由上网在中国成为难得的享用。在网络上发送数据时，会产生“足迹”，跟踪“足迹”会查到来源，这就是“电子路径跟踪”。破坏掉电子路径上的数据才能保障上网匿名化。自由门和无界就是这样的安全软件。中共当局尝试阻止这样的软件，但同时会造成使中国互联网完全关闭的风险。</h3></p>
 
-
-
-	
 	
 <h2 align="center">翻牆軟件免费下載</h2></p>
+
+<h2 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/fq/ultrasurf_userguide.zip?raw=true'>无界浏览用户说明.zip</a></h2></p>
 
 <table>
 <tr>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u-18.05.zip?raw=true' width="293">无界浏览18.05(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.05.exe?raw=true' width="293">无界浏览18.05(执行版).exe</a></h2></td>
-
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1703.xpi?raw=true' width="293">无界火狐(Firefox)工具17.03</a></h2></td>
 </tr>	
 	
 <tr>	
