@@ -27,6 +27,12 @@
 <h2 align="center">翻牆軟件免费下載</h2></p>
 
 <table>
+<tr>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u-18.05.zip?raw=true' width="293">无界浏览18.05(压缩版).zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.05.exe?raw=true' width="293">无界浏览18.05(执行版).exe</a></h2></td>
+
+</tr>	
+	
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true' width="293">无界浏览18.04(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true' width="293">无界浏览18.04(执行版).exe</a></h2></td>
