@@ -46,10 +46,16 @@
 
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.zip?raw=true' width="293">无界浏览18.01正式版 .zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.exe?raw=true' width="293">无界浏览18.01正式版 .exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="293">无界浏览.桌机版1704.exe</a></h2></td>	
 </tr>
 
+</table>
+
+<h2 align="center">手机版</h2><p>
+
+<table>
+	
 <tr>
 
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true' width="293">无界浏览.安卓版4.5.apk</a></h2></td>	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.3.apk?raw=true' width="293">无界浏览.安卓版4.3.apk</a></h2></td>
@@ -57,7 +63,7 @@
 </tr>
 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td>
+
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width="293">自由门.安卓版3.2.zip</a></h2></td>
 <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqians.epub?raw=true' width="293">下载详细说明书-epub</a></h2></td>
 </tr>
