@@ -52,7 +52,7 @@
 
 </table>
 
-<h2 align="center">手机版</h2><p>
+<h2 align="center">安卓 手机版</h2><p>
 
 <table>
 	
