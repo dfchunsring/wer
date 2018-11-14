@@ -35,7 +35,7 @@
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true' width="293">无界浏览18.04(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true' width="293">无界浏览18.04(执行版).exe</a></h2></td>
-<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.zip?raw=true' width="293">自由门.桌机版764(压缩版).zip</a></h2></td>
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u17.03?raw=true' width="293">Linux VPN17.03</a></h2></td>
 </tr>	
 	
 <tr>	
@@ -45,7 +45,7 @@
 </tr>
 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1801.zip?raw=true' width="293">无界浏览18.01正式版 .zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.zip?raw=true' width="293">自由门.桌机版764(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="293">无界浏览.桌机版1704.exe</a></h2></td>	
 </tr>
