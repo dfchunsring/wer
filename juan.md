@@ -829,7 +829,7 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=550></a><br></div>  
 
 
-<a name=12><div align="center">一位母亲揭示17岁少女死亡真相 惊醒世人</a><br></div>  
+<a name=12><div align="center"><h1>一位母亲揭示17岁少女死亡真相 惊醒世人</h1></a><br></div>  
   
  在1999年8月19日，中央电视台播放了这样一条消息：黑龙江省佳木斯市树人中学陈英，因精神恍惚，多次想自杀，趁家人不备跳车身亡。上述消息与事实真相是严重不符的！今天，我以一位母亲的身份在这里向世人说明17周岁的花季少女陈英死亡真相。
  
