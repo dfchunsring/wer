@@ -826,7 +826,7 @@
 <a href=#list><h5 align="right">回目錄</h5></a>
   
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=780></a><br></div>  
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=550></a><br></div>  
 
 
 <a name=12><div align="center">一位母亲揭示17岁少女死亡真相 惊醒世人</a><br></div>  
@@ -856,7 +856,7 @@ c。车行驶20多里才停下来，李政委和第二包车组的列车长等�
  <a href=#list><h5 align="right">回目錄</h5></a>
   
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=780></a><br></div>  
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/images.jpg?raw=true" width=550></a><br></div>  
 
   <a name=13><div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-10.jpg?raw=true" width=680></a><br></div>  
