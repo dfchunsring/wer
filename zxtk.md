@@ -1,6 +1,6 @@
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/289-1.jpg?raw=true" width=800></td><h3>必看 精彩视频   请直接点击 http://36.227.102.73</h3>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/289-1.jpg?raw=true" width=800></td><h3>必看 精彩视频   请直接点击 http://111.241.88.207</h3>
 </div>
 
 <p>
