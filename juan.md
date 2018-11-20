@@ -1008,6 +1008,8 @@ c。车行驶20多里才停下来，李政委和第二包车组的列车长等�
 
 中共在害人，法轮功学员在讲真相救人。一边是追随中共迫害法轮功做尽坏事的绝路，一边是用点心了解真相作出选择就是光明大道的生路，可贵的中国人，您的选择是什么？
 
+ <a href=#list><h5 align="right">回目錄</h5></a>
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/216-2.jpg?raw=true" width=700></a><br></div> <p>
 
