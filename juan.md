@@ -29,6 +29,10 @@
 <a href="#11">11.山东德州市74岁法轮功学员刘桂香遭迫害经历</a><br>
 <a href="#12">12.一位母亲揭示17岁少女死亡真相 惊醒世人</a><br>
 <a href="#13">13.曾遭八年冤狱　八旬老人又被绑架、骚扰</a><br>
+<a href="#14">14.中共制造了多少人间悲剧？</a><br>
+
+
+
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
