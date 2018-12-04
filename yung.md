@@ -8,7 +8,7 @@
   截至2018年3月23日，在海外大纪元网站声明退出中共党、 团、队组织（三退）的人数已经超过三亿。 上图是2018年3月18日，香港法轮功学员举行盛大集会及游 行活动，庆祝并声援近三亿人退出中共党、团、队组织。
 <p>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-2.jpg?raw=true" width=880></a><br></div><p>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/3e-3t-2.jpg?raw=true" width=680></a><br></div><p>
  
  <h2 align="center">	
 <td><a href="https://github.com/dfchunsring/wer/blob/master/pdf/santui-2in1-read.pdf">“三退是每一位中国人必須面临的选择”请下载“pdf档”</a></td></h2>
