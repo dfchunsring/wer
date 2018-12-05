@@ -16,7 +16,7 @@
 
 <p></p>
 
-
+<td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
 <h3>因为中共全力打造红墙局域网，自由上网在中国成为难得的享用。在网络上发送数据时，会产生“足迹”，跟踪“足迹”会查到来源，这就是“电子路径跟踪”。破坏掉电子路径上的数据才能保障上网匿名化。自由门和无界就是这样的安全软件。中共当局尝试阻止这样的软件，但同时会造成使中国互联网完全关闭的风险。</h3></p>
 
@@ -50,8 +50,9 @@
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="293">无界浏览.桌机版1704.exe</a></h2></td>	
 </tr>
-
 </table>
+
+<td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
 <h2 align="center">安卓 手机版</h2><p>
 
@@ -76,7 +77,7 @@
 </tr>	
 </table>
 
-<hr> 
+<td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
 <table>
 	<h2 align="center">爱博电视免费下载</h2></p>
@@ -100,7 +101,7 @@
  
  <p></p>
  
- 
+ <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
  
 【明慧网二零一八年四月十日】四月七日上午发现，韩五A新唐人只有信号，没有图象和声音。天地行论坛卫星技术版也有不少反馈。后来在新唐人原频道增加节目，出现了图象和声音。查看参数，发现是韩五A新唐人视频、音频和时钟PID更改造成的。这次更改参数没有预警，新唐人总部也没有发布公告，这次是临时更改参数，还是长期的也不清楚，所以我们这次调整参数，建议保存原来的参数频道，这样如果参数再调整回来就不用再调整了。以下三种方法使用任一种方法都可以解决问题，解决方法建议使用方法一或二，这两种方法既能收看到新唐人，又能保存原来的参数频道。<p></p>
 
