@@ -118,22 +118,18 @@
  <p></p>
  
  
- 
 <b>解决方法：</b>
 <p></p>
 一：在新唐人原频道增加节目（推荐，最简单）：菜单──节目设置──增加节目──模式免费──确定
 <p></p>
 	
 	
-	
 二：自动搜索：菜单──节目设置──自动搜索──设置本质频率（11300或10750或10600）──搜索模式──免费──22K（双星设置为开，单星本振10600的高频头设置为开，其它不用管）──确定
 <p></p>
 
 
-
 三：节目参数设置：在新唐人原频道上──菜单──节目设置──节目参数设置──将原视频PID：0257、声音PID：0258、时钟PID：0257更改为：视频PID：0256、声音PID：4112、时钟PID：0513──确定
 
-<td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
 <table>
