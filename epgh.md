@@ -94,7 +94,7 @@
 </tr>
 </table>
 
-<td><h2><a href='https://git.io/duun'> 点击连结~看更多~</a><h2></td>
+<td><h2><a href='https://git.io/duun'> 点击连结~看更多~</a></h2></td>
 
  <div align="right"><h4><a href="https://git.io/goal" style="font-size:24px;color:blue;">真相部落</a></h4></div>
 <p>
