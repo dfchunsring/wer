@@ -112,13 +112,13 @@
  
 <b>视频、音频、时钟参数更改如下：</b>
 <p></p>
-视频PID：0512<p>
+视频PID：0512<p><p>
 音频PID：4112<p>
 时钟PID：0512<p>
  <p></p>
  
  
-<b>解决方法：请看连结</b> <td  width="293"><h3><a href='https://git.io/REad'>新唐人韩星五号参数</a></h3></td>
+<b>解决方法：请看连结<td  width="293"><h3><a href='https://git.io/REad'>新唐人韩星五号参数</h3></td></b> 
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
