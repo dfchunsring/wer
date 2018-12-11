@@ -82,7 +82,7 @@
 <table>
 	<h2 align="center">爱博电视免费下载</h2></p>
 <tr>
-	<td  width="293"><h3><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>新唐人韩星五号参数</a></h3></td>
+	<td  width="293"><h3><a href='https://git.io/REad'>新唐人韩星五号参数</a></h3></td>
 	<td  width="293"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/Green_iPPOTV%20.exe?raw=true'>爱博电视IPPOTV安装软件</a></h3></td>
 	<td  width="293"><h3><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板安装教学.mp4</a></h3></td>
 </tr>
@@ -112,23 +112,13 @@
  
 <b>视频、音频、时钟参数更改如下：</b>
 <p></p>
-视频PID：0256
-音频PID：4112
-时钟PID：0513
+视频PID：0512<p>
+音频PID：4112<p>
+时钟PID：0512<p>
  <p></p>
  
  
-<b>解决方法：</b>
-<p></p>
-一：在新唐人原频道增加节目（推荐，最简单）：菜单──节目设置──增加节目──模式免费──确定
-<p></p>
-	
-	
-二：自动搜索：菜单──节目设置──自动搜索──设置本质频率（11300或10750或10600）──搜索模式──免费──22K（双星设置为开，单星本振10600的高频头设置为开，其它不用管）──确定
-<p></p>
-
-
-三：节目参数设置：在新唐人原频道上──菜单──节目设置──节目参数设置──将原视频PID：0257、声音PID：0258、时钟PID：0257更改为：视频PID：0256、声音PID：4112、时钟PID：0513──确定
+<b>解决方法：请看连结</b> <td  width="293"><h3><a href='https://git.io/REad'>新唐人韩星五号参数</a></h3></td>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
