@@ -4,12 +4,8 @@
 <div align="center"><a href="https://git.io/ffq">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://61.228.117.125</h3></div>	
 	
-[ <div align="center"><h2>【突破封锁看世界】翻墙请先下载免费软件</h2></div>](https://git.io/ubc)
+[ <div align="center"><h2>【突破封锁看世界】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
-<tr><td width=880;><h1 align="center"><b>翻墙软件免费下载</b></h1>
-
-[ <div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/wer/blob/master/fq/fangqians.epub?raw=true)
-</tr></td>
 </table>
 
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
