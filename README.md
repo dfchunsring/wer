@@ -5,7 +5,7 @@
 </table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/1-25.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/1-25.png?raw=true" width=880></a><br>
 
 <h3> 大陆</h3>
 12/24/2018	Monday	首播	20:00<br>
