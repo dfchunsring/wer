@@ -5,7 +5,7 @@
 </table>
 
 
-<h3>敬请期待下一个档期 https://git.io/dici</h3></div>
+
 
  <td><h3><a href='https://git.io/zb'>了解真相有福报~看更多</a></h3> </td><p>
   
