@@ -2,7 +2,7 @@
 <table>
 	
 <div align="center"><a href="https://git.io/ffq">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://220.141.124.111</h3></div>	
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://36.227.100.96</h3></div>	
 
 </table>
 
