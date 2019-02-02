@@ -22,6 +22,12 @@
 <table>
 
 <tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.zip?raw=true' width="293">无界浏览19.01(压缩版) .zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.exe?raw=true' width="293">无界浏览19.01(执行版) .exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1807a.dmg?raw=true' width="293">无界苹果MAC测试版 18.07a.dmg</a></h2></td>	
+</tr>
+
+<tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.zip?raw=true' width="293">无界浏览18.06(压缩版) .zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.exe?raw=true' width="293">无界浏览18.06(执行版) .exe</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true' width="293">无界浏览.桌机版1704.zip</a></h2></td>	
