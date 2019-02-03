@@ -46,6 +46,10 @@
 </tr>	
 
 <tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.桌机版765(压缩版).zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.exe?raw=true' width="440">自由门.桌机版765.exe</a></h2></td></td>
+</tr>	
+<tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.zip?raw=true' width="293">自由门.桌机版764(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="293">无界浏览.桌机版1704.exe</a></h2></td>	
