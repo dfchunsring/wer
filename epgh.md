@@ -133,7 +133,7 @@
  <p></p>
  
  
-<td><h3>解决方法：请看连结~~<a href='https://git.io/REad'>新唐人韩星五号参数</h3></td></b> 
+<td><h3>解决方法：请登入连结~~<a href='https://git.io/REad'>新唐人韩星五号参数</h3></td></b> 
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 <table>
