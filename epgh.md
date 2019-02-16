@@ -51,23 +51,21 @@
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true' width="293">无界浏览18.04(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true' width="293">无界浏览18.04(执行版).exe</a></h2></td>
-
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="293">无界浏览.桌机版1704.exe</a></h2></td>
 </tr>	
 
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg766r.zip?raw=true' width="440">自由门.桌机版766(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg766r.exe?raw=true' width="440">自由门.桌机版766.exe</a></h2></td></td>
+  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.zip?raw=true' width="293">自由门.桌机版764(压缩版).zip</a></h2></td>
 </tr>
 
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.桌机版765(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.exe?raw=true' width="440">自由门.桌机版765.exe</a></h2></td></td>
+  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td></td>
 </tr>	
-<tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.zip?raw=true' width="293">自由门.桌机版764(压缩版).zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="293">无界浏览.桌机版1704.exe</a></h2></td>	
-</tr>
+
 </table>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
