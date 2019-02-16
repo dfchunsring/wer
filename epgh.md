@@ -23,6 +23,12 @@
 <h2 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/fq/ultrasurf_userguide.zip?raw=true'>无界浏览用户说明.zip</a></h2></p>
 
 <table>
+<tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u%2019.02.zip?raw=true' width="293">无界浏览19.02(压缩版) .zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true' width="293">无界浏览19.02(执行版) .exe</a></h2></td>
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u17.03?raw=true' width="293">Linux VPN17.03</a></h2></td>	
+</tr>
+
 
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.zip?raw=true' width="293">无界浏览19.01(压缩版) .zip</a></h2></td>
@@ -45,7 +51,7 @@
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true' width="293">无界浏览18.04(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true' width="293">无界浏览18.04(执行版).exe</a></h2></td>
-<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u17.03?raw=true' width="293">Linux VPN17.03</a></h2></td>
+
 </tr>	
 
 <tr>	
