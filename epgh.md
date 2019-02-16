@@ -49,6 +49,11 @@
 </tr>	
 
 <tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg766r.zip?raw=true' width="440">自由门.桌机版766(压缩版).zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg766r.exe?raw=true' width="440">自由门.桌机版766.exe</a></h2></td></td>
+</tr>
+
+<tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.桌机版765(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.exe?raw=true' width="440">自由门.桌机版765.exe</a></h2></td></td>
 </tr>	
@@ -66,13 +71,13 @@
 <table>
 	
 <tr>
-
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true' width="293">无界浏览.安卓版4.6.apk</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true' width="293">无界浏览.安卓版4.5.apk</a></h2></td>	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.3.apk?raw=true' width="293">无界浏览.安卓版4.3.apk</a></h2></td>
-  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width="293">无界浏览.安卓版4.2.apk</a></h2></td>
+ 
 </tr>
 
 <tr>	
-
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width="293">无界浏览.安卓版4.2.apk</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width="293">自由门.安卓版3.2.zip</a></h2></td>
 <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqians.epub?raw=true' width="293">下载详细说明书-epub</a></h2></td>
 </tr>
