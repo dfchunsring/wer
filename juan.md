@@ -1,10 +1,8 @@
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/Sy-9-1.jpg?raw=true" width=880></a><br></div>
- </br>
+
 <table>
   <div align=center><a href="https://git.io/ubc"><IMG SRC="https://github.com/dfchunsring/nini/blob/master/wnn/img/ok.jpg?raw=true" width=880></a></p></div>
 </table>
-  <div align=center><h3>必看 精彩视频   请直接点击  http://111.241.93.196</h3></div>
+  <div align=center><h3>必看 精彩视频   请直接点击  http://220.141.133.2</h3></div>
 <p>
  <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
