@@ -1,11 +1,8 @@
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/Sy-9-1.jpg?raw=true" width=880></a><br></div>
- </br>
 
 <table>
 	
 <div align="center"><a href="https://git.io/ffq">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://111.241.93.196</h3></div>	
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://220.141.133.2</h3></div>	
 
 </table>
 
