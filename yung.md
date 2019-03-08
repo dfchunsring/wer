@@ -1,7 +1,7 @@
 
 
 <div align=center><IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=780>
- <br><h3>精彩视频 请直接点击 http://220.141.133.89</h3></div>
+ <br><h3>精彩视频 请直接点击 http://118.161.48.33</h3></div>
 
 <p></p>
 <div align="center">
