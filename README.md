@@ -15,5 +15,5 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/dfh--2.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/dfh-a-1.jpg?raw=true" width=880></a><br></div>
 </table>
