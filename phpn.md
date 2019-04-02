@@ -35,7 +35,7 @@
 
 明慧还发表了一种Chrome浏览器。我们推荐用这两款浏览器之一登录站内信箱和论坛，以保障帐号的安全。
 
-如果出现问题，请到天地行论坛网络安全版（https://tiandixing.org/viewforum.php?f=15）反馈。
+如果出现问题，请到天地行论坛网络安全版（https://tiandixing.org/viewforum.php?f=15）  反馈。
 
 【新版软件与教程下载】： 
 http://big5.minghui.org/mh/articles/2015/7/13/312394.html
