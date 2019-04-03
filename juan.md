@@ -40,7 +40,9 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
 
- 郦剑锋：千古奇冤法轮功，千古罪人江泽民
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/peh-fd.jpg?raw=true" width=780></a><br></div>
+
  <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/d-3_211.jpg?raw=true" width=780></a><br>
   2011年7月14日，逾千名来自世界各地的大法弟子与正义人士在美国首府国会山庄前炼功集会，纪念法轮功学员12年来以大善大忍的胸怀，反迫害、唤良知。（摄影: 戴兵 / 大纪元）
