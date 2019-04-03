@@ -16,6 +16,8 @@
 <p>
 
 <a name=list><b>目錄</b><p>
+ <a href="#17">郦剑锋：千古奇冤法轮功，千古罪人江泽民</a><br> 
+  
 <a href="#1">蒙冤司法女警给同行们的一封信</a><br>
 <a href="#2">给延庆县父老乡亲的一封信</a><br>
 <a href="#3">给黄梅县公检法人员、各级干部的一封信</a><br>
@@ -40,6 +42,18 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/622-2.jpg?raw=true" width=680></a><br></div><p>
+ 
+ 郦剑锋：千古奇冤法轮功，千古罪人江泽民
+ 
+ 
+ 
+ 
+ 
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
+
  
 【明慧网二零一八年八月二十二日】
 
