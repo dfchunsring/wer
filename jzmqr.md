@@ -20,13 +20,13 @@
 
 <b>翻牆下载</b><br>
 
-+ <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.1.apk?raw=true'>无界翻墙软件</a>
++ <a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true'>无界翻墙软件4.6.apk</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>安卓版4.5</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u-18.05.zip?raw=true'>无界桌机版18.05(zip)</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.05.exe?raw=true'>无界桌机版18.05(exe)</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u1902.zip'>无界桌机版19.02(zip)</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u1902.exe'>无界桌机版19.02(exe)</a>
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>安卓版3.2</a>
-   - <a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>桌机版7.64版（1月9日)</a>
+   - <a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.exe'>桌机版7.67版</a>
 + <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
 + <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
     - <a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
