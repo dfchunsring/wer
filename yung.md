@@ -5,7 +5,7 @@
 
 <p></p>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/3e-37-ok.jpg?raw=true" width=880></a><br></div><p>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/3t--2-1.jpg?raw=true" width=880></a><br></div><p>
 
   截至2018年3月23日，在海外大纪元网站声明退出中共党、 团、队组织（三退）的人数已经超过三亿。 上图是2018年3月18日，香港法轮功学员举行盛大集会及游 行活动，庆祝并声援近三亿人退出中共党、团、队组织。
 <p>
