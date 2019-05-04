@@ -6,7 +6,7 @@
 
 </table>
 
-<a href=https://git.io/duun><h6 align="right">更多连结</h6></a>
+<a href=https://git.io/duun><h4 align="right">更多连结</h4></a>
 
 <p></p>
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
