@@ -5,14 +5,13 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h3>🌼必看 精彩视频 请直接点击 http://114.37.64.122</h3></div>	
  <div align=center><h1><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h1></div> 
 </table>
-
+ <div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
+ <h2 align="center"> 真相总览➤ https://git.io/01 </h2> 
 <a href=https://git.io/duun><h2 align="right">更多连结</h2></a>
-
 <p></p>
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
 <h3>因为中共全力打造红墙局域网，自由上网在中国成为难得的享用。在网络上发送数据时，会产生“足迹”，跟踪“足迹”会查到来源，这就是“电子路径跟踪”。破坏掉电子路径上的数据才能保障上网匿名化。自由门和无界就是这样的安全软件。中共当局尝试阻止这样的软件，但同时会造成使中国互联网完全关闭的风险。</h3></p>
-
 	
 <h2 align="center">翻牆軟件免费下載</h2></p>
 
@@ -24,7 +23,6 @@
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true' width="293">无界浏览19.02(执行版) .exe</a></h2></td>
 <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u17.03?raw=true' width="293">Linux VPN17.03</a></h2></td>	
 </tr>
-
 
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.zip?raw=true' width="293">无界浏览19.01(压缩版) .zip</a></h2></td>
