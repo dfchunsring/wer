@@ -4,8 +4,9 @@
  </br>
 
  <div align=center><h1><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h1></div> 
-
-<td><h1><a href='https://git.io/duun'> 了解真相有福报~点击连结看更多...</a><h1></td>
+ <div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
+ <h2 align="center"> 真相总览➤ https://git.io/01 </h2> 
+<td><h1><a href='https://git.io/duun'> 看真相得福报~连结看更多...</a><h1></td>
 
 <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h2> </td>
 
