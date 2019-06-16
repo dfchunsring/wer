@@ -53,22 +53,24 @@
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 <table>
 <tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.zip?raw=true' width="293">自由门.桌机版768(压缩版).zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.exe?raw=true' width="293">自由门.桌机版768(执行版).exe</a></h2></td></td>
+  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgma.apk?raw=true' width="293">自由门.安卓版.apk</a></h2></td>
+</tr>
+	
+<tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.zip?raw=true' width="293">自由门.桌机版767(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.exe?raw=true' width="293">自由门.桌机版767(执行版).exe</a></h2></td></td>
-  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgma.apk?raw=true' width="293">自由门.安卓版.apk</a></h2></td>
+  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="293">自由门.安卓版.765(压缩版).zip</a></h2></td>
 </tr>	
 	
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg766r.zip?raw=true' width="440">自由门.桌机版766(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg766r.exe?raw=true' width="440">自由门.桌机版766.exe</a></h2></td></td>
-  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.zip?raw=true' width="293">自由门.桌机版764(压缩版).zip</a></h2></td>
+  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.exe?raw=true' width="293">自由门.桌机版765(执行版).exe</a></h2></td>
 </tr>
 
-<tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.桌机版765(压缩版).zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.exe?raw=true' width="440">自由门.桌机版765.exe</a></h2></td></td>
-  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg764p.exe?raw=true' width="293">自由门.桌机版764.exe</a></h2></td></td>
-</tr>	
+
 
 </table>
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
