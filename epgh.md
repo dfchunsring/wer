@@ -20,13 +20,7 @@
 
 <h2 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/fq/ultrasurf_userguide.zip?raw=true'>无界浏览用户说明.zip</a></h2></p>
 
-<table>
-<tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk' width="400">手机版(神州正见) V4.2  apk</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgateTV.apk' width="400">电视机顶盒版 V2.0  apk</a></h2></td>
 
-</tr>
-</table>
 
 <table>
 <tr>	
@@ -106,6 +100,15 @@
 <td><h2><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md' width="293">翻墙软件~免费下载~</a></h2></td>
 </tr>	
 </table>
+
+<table>
+<tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk' width="400">手机版(神州正见) V4.2  apk</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgateTV.apk' width="400">电视机顶盒版 V2.0  apk</a></h2></td>
+
+</tr>
+</table>
+
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
 <table>
