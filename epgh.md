@@ -22,6 +22,14 @@
 
 <table>
 <tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk' width="400">手机版(神州正见) V4.2  apk</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgateTV.apk' width="400">电视机顶盒版 V2.0  apk</a></h2></td>
+
+</tr>
+</table>
+
+<table>
+<tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u%2019.02.zip?raw=true' width="293">无界浏览19.02(压缩版) .zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true' width="293">无界浏览19.02(执行版) .exe</a></h2></td>
 <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u17.03?raw=true' width="293">Linux VPN17.03</a></h2></td>	
