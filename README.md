@@ -16,7 +16,8 @@
 
 <td><h3><b><a href="http://www.epochtimes.com/gb/19/10/20/n11601191.htm">组图：法轮功纽约布鲁克林游行 震撼人心</a></b></h3> </td> 
 
-
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/b_illust_11_2M.png?raw=true" width=880></a><br></div>
 
 <table>
 <div align="center">
