@@ -14,6 +14,10 @@
 
 <td><h3><a href='https://git.io/3e-t3'> 每一位中国人必须面临的选择 </a><h3></td></td><p>
 
+<div align=center><h1><b><a href="http://www.epochtimes.com/gb/19/10/20/n11601191.htm">组图：法轮功纽约布鲁克林游行 震撼人心</a></b></h1></div> 
+
+
+
 <table>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/dfh-a-1.jpg?raw=true" width=880></a><br></div>
