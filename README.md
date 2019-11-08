@@ -16,10 +16,10 @@
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
-<div align=center><h3><b><a href="http://www.epochtimes.com/gb/19/10/20/n11601191.htm">组图：法轮功纽约布鲁克林游行 震撼人心</a></b></h3> </div> 
+<div align=center><h3><b>组图：法轮功纽约布鲁克林游行 震撼人心</b></h3> </div> 
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-1.jpg?raw=true" width=880></a></br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-1.jpg?raw=true" width=880></a><br></div>
 
 
 【大纪元2019年10月21日讯】（大纪元记者李桂秀、戴兵美国纽约报导）“金秋送福撒甘露，大法弟子有真相”，在全球退党大潮达三亿四千万人退出中共党、团、队之际，20日（周日）纽约近千名法轮功学员在布鲁克林八大道繁华街区举行盛大游行，十几个方阵延绵十多条街区，彩旗花船、龙腾狮舞、军乐锣鼓，正气威震八方。壮观的游行再一次将法轮大法的美好带给布鲁克林民众。
