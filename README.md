@@ -16,7 +16,7 @@
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
-<td><h3><b><a href="http://www.epochtimes.com/gb/19/10/20/n11601191.htm">组图：法轮功纽约布鲁克林游行 震撼人心</a></b></h3> </td> 
+<div align=center><h3><b><a href="http://www.epochtimes.com/gb/19/10/20/n11601191.htm">组图：法轮功纽约布鲁克林游行 震撼人心</a></b></h3> </div> 
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-1.jpg?raw=true" width=880></a><br></div>
