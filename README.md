@@ -91,6 +91,39 @@
 
 “起诉江泽民”的方阵队伍竖旗高举，大型推车展板“法办江泽民”格外显眼。据明慧网不完全统计，通过民间途径传出的消息，证实被中共迫害致死的法轮功学员已有4,363人。截止目前，至少20多万名受害的中国法轮功学员及家属，向中国最高检察院控告江泽民，违犯反人类罪及群体灭绝罪。全球至少35国近320万民众，连署向中国北京的最高检、最高法院举报，要求法办江泽民。
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-18.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-19.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-20.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-21.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-22.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-23.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-24.jpg?raw=true" width=880></a><br></div>
+
+追查迫害法轮功国际组织汪志远在现场表示，追查国际呼吁全世界所有正义人士立即行动起来，全面收集中共迫害法轮功的犯罪者名单和罪证，向追查国际举报，为即将来临的大审判提供证据。
+
+布鲁克林当地居民林小姐在观看游行时，以“林幸运”为名退出中共红领巾少先队，她欣然地与女儿在游行队伍前拍照留念。
+
+全球退党服务中心负责人易蓉在现场表示，曾经的神州大地，在中共邪党几十年的祸害下，已是满目苍夷。中华同胞8,000万被中共历次运动所屠杀，中共是邪灵，是共产主义邪灵在人间的代表，其反宇宙反人类的邪恶本质注定灭亡解体。
+
+易蓉说，随着《九评共产党》的广泛传播，当今中国无论是高官还是平民，无论是军人还是学生，无数的中国人从中共的谎言欺骗中清醒，从中共邪灵的桎梏中挣脱出来，从对中共的恐惧中解脱出来，纷纷选择退出中共。他们的精神获得了自由，发自灵魂深处对中共认清、唾弃和否定，在解体中共的进程中获得了新生。
+
+易蓉最后说：“如今退党大潮已成浩荡之势，正在加速解体中共于无形。‘天灭中共’的预言正在天地间应验，中华民族必将迎来传统道德的回归。”◇
+
+
+
 
 
 
