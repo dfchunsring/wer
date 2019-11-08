@@ -122,14 +122,97 @@
 
 易蓉最后说：“如今退党大潮已成浩荡之势，正在加速解体中共于无形。‘天灭中共’的预言正在天地间应验，中华民族必将迎来传统道德的回归。”◇
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-25.jpg?raw=true" width=880></a><br></div>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-26.jpg?raw=true" width=880></a><br></div>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-27.jpg?raw=true" width=880></a><br></div>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-28.jpg?raw=true" width=880></a><br></div>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-29.jpg?raw=true" width=880></a><br></div>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-30.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-31.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-32.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-33.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-34.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-35.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-36.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-37.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-38.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-39.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-40.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-41.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-42.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-43.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-44.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-45.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-46.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-47.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-48.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-49.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-50.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-51.jpg?raw=true" width=880></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-52.jpg?raw=true" width=880></a><br></div>
+
+<td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
 
 <table>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/dfh-a-1.jpg?raw=true" width=880></a><br></div>
 </table>
+
+<div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/fngrchn3.jpg?raw=true" width=850></td></div>
