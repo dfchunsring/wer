@@ -10,11 +10,11 @@
  <div align=center><h2><a href='https://git.io/duun'>探詢首頁</a></h2></div>
  <td><h3><a href='https://git.io/zb'>了解真相有福报~看更多</a></h3> </td><p>
   
- <td><h3><a href='https://git.io/3jurs'>您要的也许都在这里!</a></h3> </td><p>
+<td><h3><a href='https://git.io/3jurs'>您要的也许都在这里!</a></h3> </td><p>
 
 <td><h3><a href='https://git.io/3e-t3'> 每一位中国人必须面临的选择 </a><h3></td></td><p>
 
-<div align=center><h1><b><a href="http://www.epochtimes.com/gb/19/10/20/n11601191.htm">组图：法轮功纽约布鲁克林游行 震撼人心</a></b></h1></div> 
+<td><h3><b><a href="http://www.epochtimes.com/gb/19/10/20/n11601191.htm">组图：法轮功纽约布鲁克林游行 震撼人心</a></b></h3> </td> 
 
 
 
