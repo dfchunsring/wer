@@ -25,25 +25,25 @@
 【大纪元2019年10月21日讯】（大纪元记者李桂秀、戴兵美国纽约报导）“金秋送福撒甘露，大法弟子有真相”，在全球退党大潮达三亿四千万人退出中共党、团、队之际，20日（周日）纽约近千名法轮功学员在布鲁克林八大道繁华街区举行盛大游行，十几个方阵延绵十多条街区，彩旗花船、龙腾狮舞、军乐锣鼓，正气威震八方。壮观的游行再一次将法轮大法的美好带给布鲁克林民众。
 
 游行从八大道68街前往42街，历时2个小时，浩浩荡荡的队伍展示上百条中英文条幅、竖旗及展板，传递真相：“法轮大法好”、“世界需要真善忍”、“法轮大法洪传100多个国家地区”、“法轮大法使人心向善道德回升”、“停止迫害法轮功”、“中共活摘法轮功学员器官惨绝人寰必遭天谴”、“法办江泽民”、“解体中共制止迫害”、“共产主义的终极目的是毁灭人类”、“共产主义邪灵正在统治我们的世界”、“回归传统道德回升”、“九评神威天灭中共”、“ 三退保命保平安”等。
-<p>
+</p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-2.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-2.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-3.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-3.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-4.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-4.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-5.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-5.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-6.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-6.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-7.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-7.jpg?raw=true" width=780></a><br></div>
 <p>
 
 走在最前面的是由160人组成的、闻名遐迩的法轮大法天国乐团，他们纯净祥和的神态，辉煌雄壮的曲目，震撼人心。紧随其后的是巨型《转法轮》书模、巨型旋转法轮模型、舞龙队、法轮功功法演示队、莲花船队、彩旗队等。
@@ -55,37 +55,37 @@
 从大陆来美不久的孙忠良先生与舞龙队的彩龙合影留念，“共产党迫害法轮功这么多年，一点用没有，人家照样炼，海外炼的人更多。”他说：“我知道大陆人现在也越来越认可法轮功，我的朋友就有在家开始偷偷地学炼的，因为（法轮功）好嘛！他能使人内心平静。”
 
 法轮大法自1992年从中国大陆传出，如今洪传到100多个国家和地区，在海内外赢得了高度赞誉，法轮功得到了世界各民族的普遍欢迎，并获得众多国际褒奖。
-<p>
+</p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-8.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-8.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-9.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-9.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-10.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-10.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-11.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-11.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-12.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-12.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-13.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-13.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-14.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-14.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-15.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-15.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-16.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-16.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-17.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-17.jpg?raw=true" width=780></a><br></div>
 
 <h2>大陆的迫害仍持续  呼吁法办江泽民</h2>
 
@@ -96,25 +96,25 @@
 “起诉江泽民”的方阵队伍竖旗高举，大型推车展板“法办江泽民”格外显眼。据明慧网不完全统计，通过民间途径传出的消息，证实被中共迫害致死的法轮功学员已有4,363人。截止目前，至少20多万名受害的中国法轮功学员及家属，向中国最高检察院控告江泽民，违犯反人类罪及群体灭绝罪。全球至少35国近320万民众，连署向中国北京的最高检、最高法院举报，要求法办江泽民。
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-18.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-18.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-19.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-19.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-20.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-20.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-21.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-21.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-22.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-22.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-23.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-23.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-24.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-24.jpg?raw=true" width=780></a><br></div>
 
 追查迫害法轮功国际组织汪志远在现场表示，追查国际呼吁全世界所有正义人士立即行动起来，全面收集中共迫害法轮功的犯罪者名单和罪证，向追查国际举报，为即将来临的大审判提供证据。
 
@@ -127,95 +127,95 @@
 易蓉最后说：“如今退党大潮已成浩荡之势，正在加速解体中共于无形。‘天灭中共’的预言正在天地间应验，中华民族必将迎来传统道德的回归。”◇
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-25.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-25.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-26.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-26.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-27.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-27.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-28.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-28.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-29.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-29.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-30.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-30.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-31.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-31.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-32.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-32.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-33.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-33.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-34.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-34.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-35.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-35.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-36.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-36.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-37.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-37.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-38.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-38.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-39.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-39.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-40.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-40.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-41.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-41.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-42.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-42.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-43.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-43.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-44.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-44.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-45.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-45.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-46.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-46.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-47.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-47.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-48.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-48.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-49.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-49.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-50.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-50.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-51.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-51.jpg?raw=true" width=780></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-52.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/a-img/a-52.jpg?raw=true" width=780></a><br></div>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_simple_37_2M.png?raw=true" width=880></p></td>
 
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/dfh-a-1.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/dfh-a-1.jpg?raw=true" width=780></a><br></div>
 </table>
 
 <div align=center>
