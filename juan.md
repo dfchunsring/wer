@@ -19,8 +19,9 @@
 <p>
 
 <a name=list><b>目錄</b><p>
+<a href="#18">觅真：沉冤必有昭雪日</a><br>   
 <a href="#17">郦剑锋：千古奇冤法轮功，千古罪人江泽民</a><br> 
-<a href="#18">千古奇冤中的选择</a><br> 
+<a href="#16">千古奇冤中的选择</a><br> 
 <a href="#1">蒙冤司法女警给同行们的一封信</a><br>
 <a href="#2">给延庆县父老乡亲的一封信</a><br>
 <a href="#3">给黄梅县公检法人员、各级干部的一封信</a><br>
@@ -42,6 +43,18 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
+
+
+
+
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
+
+<a name=18><div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
+
+
 
  <a name=17><div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/peh-fd.jpg?raw=true" width=780></a><br></div>
@@ -184,7 +197,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=780></a><br></div>
 
-<a name=18><div align="center">
+<a name=16><div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/peh-633.jpg?raw=true" width=850></a><br></div><p>
 
  【明慧网二零一八年十二月七日】一段千古奇冤，站在正义一边？还是与邪恶为伍，只在一念之间，却是遗臭万年，还是青史彪炳的天壤之别。
