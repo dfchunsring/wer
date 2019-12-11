@@ -55,6 +55,15 @@
 </table>
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 <table>
+	
+<tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg769p.zip' width="440">自由门.桌机版769(压缩版).zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgp.zip' width="440">自由门专业版fgp.zip</a></h2></td></td>
+
+  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgma.apk' width="293">自由门.安卓版fgma.apk</a></h2></td>
+</tr>
+	
+	
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.zip?raw=true' width="293">自由门.桌机版768(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.exe?raw=true' width="293">自由门.桌机版768(执行版).exe</a></h2></td></td>
