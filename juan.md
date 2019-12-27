@@ -48,7 +48,7 @@
 <a name=19><div align=center><h1><a href="https://git.io/Yange">十万恶人榜 罪行无所逃</a></h1></div>
   
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b-3.jpg" width=780></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b-3.jpg" width=880></a><br></div>
 
 文/李铭
 ﻿
