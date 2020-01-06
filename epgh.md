@@ -22,7 +22,7 @@
 
 
 
-<table> <div align=center>
+<table> 
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u%2019.02.zip?raw=true' width="440">无界浏览19.02(压缩版) .zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true' width="440">无界浏览19.02(执行版) .exe</a></h2></td>
@@ -54,12 +54,12 @@
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="440">无界浏览.桌机版1704.exe</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1703.xpi?raw=true' width="440">无界火狐(Firefox)工具17.03</a></h2></td>
-</tr>	 </div>
+</tr>	
 </table>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
-<table> <div align=center>
+<table> 
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.zip' width="440">自由门.桌机版770(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.exe' width="440">自由门.桌机版770.exe</a></h2></td></td>
@@ -84,7 +84,7 @@
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.zip?raw=true' width="440">自由门.桌机版767(压缩版).zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.exe?raw=true' width="440">自由门.桌机版767(执行版).exe</a></h2></td></td>
 </tr>	
-  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.安卓版.765(压缩版).zip</a></h2></td> <div>
+  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.安卓版.765(压缩版).zip</a></h2></td> 
 </table>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
@@ -92,7 +92,7 @@
 <h2 align="center">安卓 手机版</h2><p>
 
 <table>
-<div align=center>
+
 <tr>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true' width="440">无界浏览.安卓版4.6.apk</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true' width="440">无界浏览.安卓版4.5.apk</a></h2></td></td>
@@ -109,15 +109,15 @@
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width="440">无界.安卓手机版1.0.8.rar</a></h2></td>
  <td><h2><a href='https://git.io/ree' width="440">软件安装说明:</a></h2></td>
 
-</tr>	 </div>
+</tr>	
 </table>
 
-<table> <div align=center>
+<table> 
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk' width="440">手机版(神州正见) V4.2  apk</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgateTV.apk' width="440">电视机顶盒版 V2.0  apk</a></h2></td>
 
-</tr> </div>
+</tr> 
 </table>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
@@ -125,8 +125,8 @@
 <table>
 	<h2 align="center">爱博电视免费下载</h2></p>
 <tr>
-	<td  width="293"><h3><a href='https://git.io/REad'>新唐人韩星五号参数</a></h3></td>
-	<td  width="293"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/Green_iPPOTV%20.exe?raw=true'>爱博电视IPPOTV安装软件</a></h3></td>
+	<td  width="440"><h3><a href='https://git.io/REad'>新唐人韩星五号参数</a></h3></td>
+	<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/Green_iPPOTV%20.exe?raw=true'>爱博电视IPPOTV安装软件</a></h3></td>
 
 </tr>
 <tr>
@@ -169,14 +169,14 @@
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
 <table>
- <div align=center>
+
 <tr>
  <td><h2><a href='https://git.io/vEJlj' width="440">下载无界浏览软件</a></h2></td>
  <td><h2><a href='http://wujieliulan.com/userguide.php' width="440">无界浏览使用说明</a></h2></td></td>
 </tr>
 <tr>
 <td  width="293"><h3><a href='http://wujieliulan.com/wjlink.php'>索取无界当前有效网址~</a></h3></td></td>
- </tr> </div>
+ </tr> 
 </table>
 <p></p>
 
