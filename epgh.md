@@ -15,14 +15,13 @@
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
 <h3>因为中共全力打造红墙局域网，自由上网在中国成为难得的享用。在网络上发送数据时，会产生“足迹”，跟踪“足迹”会查到来源，这就是“电子路径跟踪”。破坏掉电子路径上的数据才能保障上网匿名化。自由门和无界就是这样的安全软件。中共当局尝试阻止这样的软件，但同时会造成使中国互联网完全关闭的风险。</h3></p>
-	
+
+<table> 
+
 <h2 align="center">翻牆軟件免费下載</h2></p>
 
 <h2 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/fq/ultrasurf_userguide.zip?raw=true'>无界浏览用户说明.zip</a></h2></p>
 
-
-
-<table> 
 <tr>	
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u%2019.02.zip?raw=true' width="440">无界浏览19.02(压缩版) .zip</a></h2></td>
  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true' width="440">无界浏览19.02(执行版) .exe</a></h2></td>
@@ -81,33 +80,32 @@
 </tr>
 	
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.zip?raw=true' width="440">自由门.桌机版767(压缩版).zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.exe?raw=true' width="440">自由门.桌机版767(执行版).exe</a></h2></td></td>
+   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.zip?raw=true' width="440">自由门.桌机版767(压缩版).zip</a></h2></td>
+   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.exe?raw=true' width="440">自由门.桌机版767(执行版).exe</a></h2></td></td>
 </tr>	
-  <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.安卓版.765(压缩版).zip</a></h2></td> 
+   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.安卓版.765(压缩版).zip</a></h2></td> 
 </table>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
-<h2 align="center">安卓 手机版</h2><p>
-
 <table>
-
+     <h2 align="center">安卓 手机版</h2><p>
+	
 <tr>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true' width="440">无界浏览.安卓版4.6.apk</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true' width="440">无界浏览.安卓版4.5.apk</a></h2></td></td>
+   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true' width="440">无界浏览.安卓版4.6.apk</a></h2></td>
+   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true' width="440">无界浏览.安卓版4.5.apk</a></h2></td></td>
  
 </tr>
 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width="440">无界浏览.安卓版4.2.apk</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width="440">自由门.安卓版3.2.zip</a></h2></td>
+   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width="440">无界浏览.安卓版4.2.apk</a></h2></td>
+   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width="440">自由门.安卓版3.2.zip</a></h2></td>
 
 </tr>
 	
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width="440">无界.安卓手机版1.0.8.rar</a></h2></td>
- <td><h2><a href='https://git.io/ree' width="440">软件安装说明:</a></h2></td>
+   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width="440">无界.安卓手机版1.0.8.rar</a></h2></td>
+   <td><h2><a href='https://git.io/ree' width="440">软件安装说明:</a></h2></td>
 
 </tr>	
 </table>
