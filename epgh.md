@@ -23,36 +23,36 @@
 <h2 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/fq/ultrasurf_userguide.zip?raw=true'>无界浏览用户说明.zip</a></h2></p>
 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u%2019.02.zip?raw=true' width="440">无界浏览19.02(压缩版) .zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true' width="440">无界浏览19.02(执行版) .exe</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u%2019.02.zip?raw=true' width="440">无界浏览19.02(压缩版) .zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true' width="440">无界浏览19.02(执行版) .exe</a></h2></td>
 	
 </tr>
 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.zip?raw=true' width="440">无界浏览19.01(压缩版) .zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.exe?raw=true' width="440">无界浏览19.01(执行版) .exe</a></h2></td></tr>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.zip?raw=true' width="440">无界浏览19.01(压缩版) .zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.exe?raw=true' width="440">无界浏览19.01(执行版) .exe</a></h2></td></tr>
 <tr>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1807a.dmg?raw=true' width="440">无界苹果MAC测试版 18.07a.dmg</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u17.03?raw=true' width="440">Linux VPN17.03</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1807a.dmg?raw=true' width="440">无界苹果MAC测试版 18.07a.dmg</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u17.03?raw=true' width="440">Linux VPN17.03</a></h2></td>
 </tr>
 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.zip?raw=true' width="440">无界浏览18.06(压缩版) .zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.exe?raw=true' width="440">无界浏览18.06(执行版) .exe</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.zip?raw=true' width="440">无界浏览18.06(压缩版) .zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.exe?raw=true' width="440">无界浏览18.06(执行版) .exe</a></h2></td>
 </tr>
 	
 <tr>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u-18.05.zip?raw=true' width="440">无界浏览18.05(压缩版).zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.05.exe?raw=true' width="440">无界浏览18.05(执行版).exe</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u-18.05.zip?raw=true' width="440">无界浏览18.05(压缩版).zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.05.exe?raw=true' width="440">无界浏览18.05(执行版).exe</a></h2></td>
 </tr>	
 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true' width="440">无界浏览18.04(压缩版).zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true' width="440">无界浏览18.04(执行版).exe</a></h2></td></tr>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true' width="440">无界浏览18.04(压缩版).zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true' width="440">无界浏览18.04(执行版).exe</a></h2></td></tr>
  
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="440">无界浏览.桌机版1704.exe</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1703.xpi?raw=true' width="440">无界火狐(Firefox)工具17.03</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true' width="440">无界浏览.桌机版1704.exe</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1703.xpi?raw=true' width="440">无界火狐(Firefox)工具17.03</a></h2></td>
 </tr>	
 </table>
 
@@ -60,30 +60,30 @@
 
 <table> 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.zip' width="440">自由门.桌机版770(压缩版).zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.exe' width="440">自由门.桌机版770.exe</a></h2></td></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.zip' width="440">自由门.桌机版770(压缩版).zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.exe' width="440">自由门.桌机版770.exe</a></h2></td></td>
 
 </tr>
 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg769p.zip' width="440">自由门.桌机版769(压缩版).zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgp.zip' width="440">自由门专业版fgp.zip</a></h2></td></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg769p.zip' width="440">自由门.桌机版769(压缩版).zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgp.zip' width="440">自由门专业版fgp.zip</a></h2></td></td>
 </tr>
 <tr>
-<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgma.apk?raw=true' width="440">自由门.安卓版.apk</a></h2></td>
-<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgma.apk' width="440">自由门.安卓版fgma.apk</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgma.apk?raw=true' width="440">自由门.安卓版.apk</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgma.apk' width="440">自由门.安卓版fgma.apk</a></h2></td>
 </tr>
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.zip?raw=true' width="440">自由门.桌机版768(压缩版).zip</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.exe?raw=true' width="440">自由门.桌机版768(执行版).exe</a></h2></td></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.zip?raw=true' width="440">自由门.桌机版768(压缩版).zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.exe?raw=true' width="440">自由门.桌机版768(执行版).exe</a></h2></td></td>
 
 </tr>
 	
 <tr>	
-   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.zip?raw=true' width="440">自由门.桌机版767(压缩版).zip</a></h2></td>
-   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.exe?raw=true' width="440">自由门.桌机版767(执行版).exe</a></h2></td></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.zip?raw=true' width="440">自由门.桌机版767(压缩版).zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.exe?raw=true' width="440">自由门.桌机版767(执行版).exe</a></h2></td></td>
 </tr>	
-   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.安卓版.765(压缩版).zip</a></h2></td> 
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg765p.zip?raw=true' width="440">自由门.安卓版.765(压缩版).zip</a></h2></td> 
 </table>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
@@ -92,28 +92,28 @@
      <h2 align="center">安卓 手机版</h2><p>
 	
 <tr>
-   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true' width="440">无界浏览.安卓版4.6.apk</a></h2></td>
-   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true' width="440">无界浏览.安卓版4.5.apk</a></h2></td></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true' width="440">无界浏览.安卓版4.6.apk</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true' width="440">无界浏览.安卓版4.5.apk</a></h2></td></td>
  
 </tr>
 
 <tr>	
-   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width="440">无界浏览.安卓版4.2.apk</a></h2></td>
-   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width="440">自由门.安卓版3.2.zip</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width="440">无界浏览.安卓版4.2.apk</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width="440">自由门.安卓版3.2.zip</a></h2></td>
 
 </tr>
 	
 <tr>	
-   <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width="440">无界.安卓手机版1.0.8.rar</a></h2></td>
-   <td><h2><a href='https://git.io/ree' width="440">软件安装说明:</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width="440">无界.安卓手机版1.0.8.rar</a></h2></td>
+	<td><h2><a href='https://git.io/ree' width="440">软件安装说明:</a></h2></td>
 
 </tr>	
 </table>
 
 <table> 
 <tr>	
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk' width="440">手机版(神州正见) V4.2  apk</a></h2></td>
- <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgateTV.apk' width="440">电视机顶盒版 V2.0  apk</a></h2></td>
+	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk' width="440">手机版(神州正见) V4.2  apk</a></h2></td>
+ 	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgateTV.apk' width="440">电视机顶盒版 V2.0  apk</a></h2></td>
 
 </tr> 
 </table>
@@ -128,11 +128,11 @@
 
 </tr>
 <tr>
-<td  width="440"><h3><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板安装教学.mp4</a></h3></td>
-<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iPPONews-pc.exe?raw=true'>iPPONews-pc(.exe)</a></h3></td>
+	<td  width="440"><h3><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板安装教学.mp4</a></h3></td>
+	<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iPPONews-pc.exe?raw=true'>iPPONews-pc(.exe)</a></h3></td>
 </tr>
 <tr>
-<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iNTD_TV%202.1.13.apk?raw=true'>安卓版2.1.13sp1 .iNTD_TV(apk)</a></h3></td>
+	<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iNTD_TV%202.1.13.apk?raw=true'>安卓版2.1.13sp1 .iNTD_TV(apk)</a></h3></td>
 	<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iNTD_TVsp1.apk?raw=true'>安卓版-sp1 iNTD_TVsp1(apk)</a></h3></td>
 	
 </tr>
@@ -169,11 +169,11 @@
 <table>
 
 <tr>
- <td><h2><a href='https://git.io/vEJlj' width="440">下载无界浏览软件</a></h2></td>
- <td><h2><a href='http://wujieliulan.com/userguide.php' width="440">无界浏览使用说明</a></h2></td></td>
+	<td><h2><a href='https://git.io/vEJlj' width="440">下载无界浏览软件</a></h2></td>
+	<td><h2><a href='http://wujieliulan.com/userguide.php' width="440">无界浏览使用说明</a></h2></td></td>
 </tr>
 <tr>
-<td  width="293"><h3><a href='http://wujieliulan.com/wjlink.php'>索取无界当前有效网址~</a></h3></td></td>
+	<td  width="293"><h3><a href='http://wujieliulan.com/wjlink.php'>索取无界当前有效网址~</a></h3></td></td>
  </tr> 
 </table>
 <p></p>
