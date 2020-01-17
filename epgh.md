@@ -32,8 +32,9 @@
 </tr>
 
 <tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.zip?raw=true'>无界浏览19.01(压缩版) .zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.exe?raw=true'>无界浏览19.01(执行版) .exe</a></h2></td></tr>
+	 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.zip?raw=true'>无界浏览19.01(压缩版) .zip</a></h2></td>
+	 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u19.01.exe?raw=true'>无界浏览19.01(执行版) .exe</a></h2></td>
+</tr>
 <tr>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1807a.dmg?raw=true'>无界苹果MAC测试版 18.07a.dmg</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u17.03?raw=true'>Linux VPN17.03</a></h2></td>
