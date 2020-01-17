@@ -96,28 +96,28 @@
      <h2 align="center">安卓 手机版</h2><p>
 	
 <tr>
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true' width="440">无界浏览.安卓版4.6.apk</a></h2></td>
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true' width="440">无界浏览.安卓版4.5.apk</a></h2></td></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true'>无界浏览.安卓版4.6.apk</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></h2></td></td>
  
 </tr>
 
 <tr>	
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true' width="440">无界浏览.安卓版4.2.apk</a></h2></td>
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true' width="440">自由门.安卓版3.2.zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.2.apk?raw=true'>无界浏览.安卓版4.2.apk</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-20160129-32.zip?raw=true'>自由门.安卓版3.2.zip</a></h2></td>
 
 </tr>
 	
 <tr>	
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true' width="440">无界.安卓手机版1.0.8.rar</a></h2></td>
-	<td><h2><a href='https://git.io/ree' width="440">软件安装说明:</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1.0.8.%20(2017%E5%B9%B411%E6%9C%8811%E6%97%A5).rar?raw=true'>无界.安卓手机版1.0.8.rar</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://git.io/ree'>软件安装说明:</a></h2></td>
 
 </tr>	
 </table>
 
 <table> 
 <tr>	
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk' width="440">手机版(神州正见) V4.2  apk</a></h2></td>
- 	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgateTV.apk' width="440">电视机顶盒版 V2.0  apk</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>手机版(神州正见) V4.2  apk</a></h2></td>
+ 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgateTV.apk'>电视机顶盒版 V2.0  apk</a></h2></td>
 
 </tr> 
 </table>
@@ -128,16 +128,16 @@
 	<h2 align="center">爱博电视免费下载</h2></p>
 <tr>
 	<td  width="440"><h3><a href='https://git.io/REad'>新唐人韩星五号参数</a></h3></td>
-	<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/Green_iPPOTV%20.exe?raw=true'>爱博电视IPPOTV安装软件</a></h3></td>
+	<td width="440"  border="0" alt="" align="center"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/Green_iPPOTV%20.exe?raw=true'>爱博电视IPPOTV安装软件</a></h3></td>
 
 </tr>
 <tr>
-	<td  width="440"><h3><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板安装教学.mp4</a></h3></td>
-	<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iPPONews-pc.exe?raw=true'>iPPONews-pc(.exe)</a></h3></td>
+	<td width="440"  border="0" alt="" align="center"><h3><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板安装教学.mp4</a></h3></td>
+	<td width="440"  border="0" alt="" align="center"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iPPONews-pc.exe?raw=true'>iPPONews-pc(.exe)</a></h3></td>
 </tr>
 <tr>
-	<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iNTD_TV%202.1.13.apk?raw=true'>安卓版2.1.13sp1 .iNTD_TV(apk)</a></h3></td>
-	<td  width="440"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iNTD_TVsp1.apk?raw=true'>安卓版-sp1 iNTD_TVsp1(apk)</a></h3></td>
+	<td width="440"  border="0" alt="" align="center"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iNTD_TV%202.1.13.apk?raw=true'>安卓版2.1.13sp1 .iNTD_TV(apk)</a></h3></td>
+	<td width="440"  border="0" alt="" align="center"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/iNTD_TVsp1.apk?raw=true'>安卓版-sp1 iNTD_TVsp1(apk)</a></h3></td>
 	
 </tr>
 </table>
