@@ -127,7 +127,7 @@
 <table>
 	<h2 align="center">爱博电视免费下载</h2></p>
 <tr>
-	<td  width="440"><h3><a href='https://git.io/REad'>新唐人韩星五号参数</a></h3></td>
+	<td width="440"  border="0" alt="" align="center"><h3><a href='https://git.io/REad'>新唐人韩星五号参数</a></h3></td>
 	<td width="440"  border="0" alt="" align="center"><h3><a href='https://github.com/dfchunsring/wer/blob/master/IPPOTV/Green_iPPOTV%20.exe?raw=true'>爱博电视IPPOTV安装软件</a></h3></td>
 
 </tr>
