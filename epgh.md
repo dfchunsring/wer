@@ -63,8 +63,8 @@
 
 <table> 
 <tr>	
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.zip' width="440">自由门.桌机版770(压缩版).zip</a></h2></td>
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.exe' width="440">自由门.桌机版770.exe</a></h2></td></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.zip'>自由门.桌机版770(压缩版).zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.exe'>自由门.桌机版770.exe</a></h2></td></td>
 
 </tr>
 
