@@ -171,13 +171,13 @@
 
 <table>
 <tr>
-<td><h2><a href='https://git.io/vEJlj' width="440">下载无界浏览软件</a></h2></td>
+<td><h2><a href='https://git.io/vEJlj' width="440">下载无界浏览软件</a></h2></td></b> 
 
-<td><h2><a href='http://wujieliulan.com/userguide.php' width="440">无界浏览使用说明</a></h2></td></td>
+<td><h2><a href='http://wujieliulan.com/userguide.php' width="440">无界浏览使用说明</a></h2></td></td></b> 
 </tr>
 
 <tr>
-<td  width="440"><h3><a href='http://wujieliulan.com/wjlink.php'>索取无界当前有效网址~</a></h3></td></td>
+<td  width="440"><h3><a href='http://wujieliulan.com/wjlink.php'>索取无界当前有效网址~</a></h3></td></td></b> 
  </tr> 
 </table>
 <p></p>
