@@ -142,7 +142,7 @@
 </tr>
 </table>
 
-<td><h2><a href='https://git.io/duun'> 点击连结~看更多~</a></h2></td>
+<td><h3><a href='https://git.io/duun'> 点击连结~看更多~</a></h3></td>
 
 <p>
  
@@ -170,13 +170,14 @@
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
 <table>
+<tr>
+<td><h2><a href='https://git.io/vEJlj' width="440">下载无界浏览软件</a></h2></td>
+
+<td><h2><a href='http://wujieliulan.com/userguide.php' width="440">无界浏览使用说明</a></h2></td></td>
+</tr>
 
 <tr>
-	<td><h2><a href='https://git.io/vEJlj' width="440">下载无界浏览软件</a></h2></td>
-	<td><h2><a href='http://wujieliulan.com/userguide.php' width="440">无界浏览使用说明</a></h2></td></td>
-</tr>
-<tr>
-	<td  width="293"><h3><a href='http://wujieliulan.com/wjlink.php'>索取无界当前有效网址~</a></h3></td></td>
+<td  width="440"><h3><a href='http://wujieliulan.com/wjlink.php'>索取无界当前有效网址~</a></h3></td></td>
  </tr> 
 </table>
 <p></p>
