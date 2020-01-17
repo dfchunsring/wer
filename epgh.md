@@ -29,10 +29,6 @@
 <tr>	
 	 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u%2019.02.zip?raw=true'>无界浏览.桌机版19.02.zip</a></h2></td>
 	 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true'>无界浏览.桌机版19.02.exe</a></h2></td>	
-</tr><tr>
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u%2019.02.zip?raw=true' width="440">无界浏览19.02(压缩版) .zip</a></h2></td>
-	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true' width="440">无界浏览19.02(执行版) .exe</a></h2></td>
-	
 </tr>
 
 <tr>	
