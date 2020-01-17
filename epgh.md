@@ -42,7 +42,7 @@
 
 <tr>	
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.zip?raw=true'>无界浏览18.06(压缩版) .zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.exe?raw=true'>无界浏览18.06(执行版) .exe</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.exe?raw=true'>无界浏览18.06(执行版) .exe</a></h2></td>
 </tr>
 	
 <tr>
