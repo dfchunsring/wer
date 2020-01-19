@@ -171,7 +171,8 @@
 
 <table>
 <tr>
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://git.io/vEJlj'>下载无界浏览软件</a></h2></td></b> 
+	
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://git.io/vEJlj'>下载无界浏览软件</a></h2></td> 
 
 <td width="440"  border="0" alt="" align="center"><h2><a href='http://wujieliulan.com/userguide.php'>无界浏览使用说明</a></h2></td>
 </tr>
