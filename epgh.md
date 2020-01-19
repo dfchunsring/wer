@@ -4,7 +4,7 @@
 <div align="center"><a href="https://git.io/ffq">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h2>请收藏本网址，连上即时IP<br>  https://git.io/ubc </h2></div>	
 	
-<div align=center><h3>🌼必看 精彩视频 请直接点击 220.141.125.164</h3></div>	
+<div align=center><h3>🌼必看 精彩视频 请直接点击 http://220.141.125.164</h3></div>	
 
 
 
@@ -173,11 +173,11 @@
 <tr>
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://git.io/vEJlj'>下载无界浏览软件</a></h2></td></b> 
 
-<td width="440"  border="0" alt="" align="center"><h2><a href='http://wujieliulan.com/userguide.php'>无界浏览使用说明</a></h2></td></td></b> 
+<td width="440"  border="0" alt="" align="center"><h2><a href='http://wujieliulan.com/userguide.php'>无界浏览使用说明</a></h2></td>
 </tr>
 
 <tr>
-<td width="440"  border="0" alt="" align="center"><h3><a href='http://wujieliulan.com/wjlink.php'>索取无界当前有效网址~</a></h3></td></td></b> 
+<td width="440"  border="0" alt="" align="center"><h3><a href='http://wujieliulan.com/wjlink.php'>索取无界当前有效网址~</a></h3></td>
  </tr> 
 </table>
 <p></p>
