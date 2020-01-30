@@ -4,7 +4,7 @@
 <div align="center"><a href="https://git.io/ffq">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h2>请收藏本网址，连上即时IP<br>  https://git.io/ubc </h2></div>	
 	
-<div align=center><h3>🌼必看 精彩视频 请直接点击 http://220.141.123.251</h3></div>	
+<div align=center><h3>🌼必看 精彩视频 请直接点击 http://114.43.38.167</h3></div>	
 
 
 
