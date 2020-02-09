@@ -67,15 +67,18 @@
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true'>无界浏览18.04(压缩版).zip</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true'>无界浏览18.04(执行版).exe</a></h2></td></tr>
  
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.exe?raw=true'>无界浏览.桌机版1704.exe</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1703.xpi?raw=true'>无界火狐(Firefox)工具17.03</a></h2></td>
-</tr>	
+
 </table>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
 <table> 
+	
+<tr>	
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/PnyETyGmm.1.apk'>罔门.apk</a></h2></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>神州明见.apk</a></h2></td></td>
+
+</tr>	
 	
 <tr>	
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg772p.zip'>自由门.桌机版772(压缩版).zip</a></h2></td>
