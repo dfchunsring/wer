@@ -53,20 +53,6 @@
 	<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1807a.dmg?raw=true' width="440">无界苹果MAC测试版 18.07a.dmg</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u17.03?raw=true' width="440">Linux VPN17.03</a></h2></td></tr>
 
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.zip?raw=true'>无界浏览18.06(压缩版) .zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u%2018.06.exe?raw=true'>无界浏览18.06(执行版) .exe</a></h2></td>
-</tr>
-	
-<tr>
-	<<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u-18.05.zip?raw=true'>无界浏览18.05(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.05.exe?raw=true'>无界浏览18.05(执行版).exe</a></h2></td>
-</tr>	
-
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.zip?raw=true'>无界浏览18.04(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u18.04.exe?raw=true'>无界浏览18.04(执行版).exe</a></h2></td></tr>
- 
 
 </table>
 
@@ -99,24 +85,6 @@
 
 </tr>
 
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg769p.zip'>自由门.桌机版769(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgp.zip'>自由门专业版fgp.zip</a></h2></td></td>
-</tr>
-<tr>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgma.apk?raw=true'>自由门.安卓版.apk</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fgma.apk'>自由门.安卓版fgma.apk</a></h2></td>
-</tr>
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.zip?raw=true'>自由门.桌机版768(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.exe?raw=true'>自由门.桌机版768(执行版).exe</a></h2></td></td>
-
-</tr>
-	
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.zip?raw=true'>自由门.桌机版767(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/fg767p.exe?raw=true'>自由门.桌机版767(执行版).exe</a></h2></td></td>
-</tr>	
 
 </table>
 
