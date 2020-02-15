@@ -6,11 +6,13 @@
 	
 <div align=center><h3>🌼必看 精彩视频 请直接点击 http://220.141.128.182</h3></div>	
 
-
-
- <div align=center><h3><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h3></div> 
 </table>
- <div align=center><h3><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h3></div>
+
+<tr>	
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/PnyETyGmm.1.apk'>罔门.apk</a></h2></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>神州明见.apk</a></h2></td></td>
+
+</tr>	
 
  <a href=https://git.io/duun><h3 align="right">更多连结</h3></a>
 
