@@ -1,7 +1,7 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/cw-9.jpg" width=380></a><br><h3>🌼必看 精彩视频 请直接点击 http://220.141.128.182</h3></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/cw-9.jpg" width=850></a><br><h3>🌼必看 精彩视频 请直接点击 http://220.141.128.182</h3></div>
 </table>
 
 希望之声电波穿越黑暗——短波接收的一点经验
@@ -24,17 +24,17 @@
 请看图示：两种组合的接头
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/internet_1.jpg?raw=true" width=380></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/internet_1.jpg?raw=true" width=500></a><br></div>
 
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/internet_2.jpg" width=380></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/internet_2.jpg" width=500></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/internet_3.jpg" width=380></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/internet_3.jpg" width=500></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/internet_4.jpg" width=380></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/internet_4.jpg" width=500></a><br></div>
 
 二、天线长度
 1、接收部份
@@ -62,9 +62,30 @@
 
 转载【明慧网二零一二年十月九日】报道
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-10.jpg?raw=true" width=880></a><br></div>
+
+海外短波节目收听讯息
+希望之声ＳＷ短波广播同时有多个频率播放同一套节目，分布于 6MHz–22MHz之间，频率不定期改动，特别是10820-11170间, 11410-13160间, 13530-14980间, 15295-17780间，有相对较多的频率可选。各地可收听频率不同，一般会有几个或十几个频率可听，讯号不好时，可寻找另一清晰频率就可收听同一节目。
+【注：短波收听情况会因每日天气、时间及地区有不同变化，请寻找适合您的频率。】
+
+播放内容：
+国内外每日重要新闻、时事评论、专题报导、名家谈、脱口秀、禁书连播、文化节目等。
+
+有时听到的是重复的国乐，这是中共施放的干扰音乐。因为中共对於传递真实讯息的管道一向封锁打压不遗余力。但在每个整点的5分钟，干扰音乐会消失，此时多是播报新闻，收听特别清楚。
+
+短波收听指南
+收听短波广播的效果取决於电台发射功率的强弱、收音机性能的好坏以及接收地点等环境因素。好的收音机，收听效果会更好。短波电台的声音有时会忽大忽小，自动增益控制(AGC)性能比较好的收音机，可以减轻此现象。
+
+如果没有很好的收音机，也不要紧，可以通过一些简单的方法弥补。短波讯号是从天而降，因此在室外直接用伸缩天线就可以效果好些，有的电台讯号甚至强到不需要伸出天线即可收听。如果在室内收听，首先收音机尽可能靠近窗户，
+
+并将伸缩天线全部伸出来，如果您要听的电台仍然不清楚，就要考虑用室外天线来改善。一般而言，将收音机调到一个比较弱的短波电台，一边收听一边走出室外，如果这个短波电台的信号增强了的话，就应该安装室外天线来改善接收效果。
+
+有些收音机都有随机附赠卷成圆盘状、长达7公尺的细电线，如果您没有此类原厂天线也可以自己轻易做出来，去找任何的废电线5-10米长，中心最好是细金属线缠绕的那种，将末端塑胶皮剥掉，露出长约5-10公分的金属线缠绕在短波收音机的伸缩天线，再将天线从窗户丢下去悬垂即可，只要不去接触到电线就好，当然，建议听完之后收起来，不然下雨打雷的时候会吸引静电。别怀疑，短波广播接收就是这么简单，这样您就可以收听到更多的短波电台。如果您仍然有干扰的情形出现，建议先改用电池来接收看看。
 
 
-
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/radio.jpg?raw=true" width=500></a><br></div>
 
 
 
