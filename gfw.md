@@ -1,7 +1,7 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/cw-8.jpg" width=750></a><br><h3>🌼必看 精彩视频 请直接点击 http://220.141.128.182</h3></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/cw-8.jpg" width=700></a><br><h3>🌼必看 精彩视频 请直接点击 http://220.141.128.182</h3></div>
 </table>
 
 希望之声电波穿越黑暗——短波接收的一点经验
@@ -93,7 +93,7 @@
 
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/radio.jpg?raw=true" width=500></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/radio.jpg?raw=true" width=400></a><br></div>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-10.jpg?raw=true" width=880></a><br></div>
