@@ -4,6 +4,14 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/cw-8.jpg" width=700></a><br><h3>🌼必看 精彩视频 请直接点击 http://220.141.128.182</h3></div>
 </table>
 
+<table>
+<tr>	
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/PnyETyGmm.1.apk'>罔门.apk</a></h2></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>神州明见.apk</a></h2></td></td>
+
+</tr>	
+</table>
+
 <h2>希望之声电波穿越黑暗——短波接收的一点经验</h2>
 
 希望之声采用了较新的播出方式，如果配合一款好的短波收音机和加装“简易抗干扰外接短波天线”，收听效果将大大改善，某些时间段可达到很好的收听效果。
