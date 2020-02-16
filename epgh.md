@@ -7,14 +7,12 @@
 <div align=center><h3>🌼必看 精彩视频 请直接点击 http://220.141.128.182</h3></div>	
 
 </table>
-<div align=center>
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>神州明见.apk</a></h2></td></td></div>	
 
 <table>
 <tr>	
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/PnyETyGmm.1.apk'>罔门.apk</a></h2></td>
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/pmkCN0.zip'>罔门.zip</a></h2></td></td>
-
+<td width="290"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/PnyETyGmm.1.apk'>罔门.apk</a></h2></td>
+<td width="290"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/pmkCN0.zip'>罔门.zip</a></h2></td></td>
+<td width="290"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>神州明见.apk</a></h2></td></td>
 </tr>	
 </table>
 
