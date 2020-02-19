@@ -1,7 +1,7 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/cw-8.jpg" width=700></a><br><h3>🌼必看 精彩视频 请直接点击 http://36.228.40.87</h3></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/cw-8.jpg" width=700></a><br><h3>🌼必看 精彩视频 请直接点击 http://220.141.128.50</h3></div>
 </table>
 
 <table>
