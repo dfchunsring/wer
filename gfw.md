@@ -76,7 +76,7 @@
 <p>
   
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-10.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-5.jpg?raw=true" width=880></a><br></div>
 <p><p>
   
 <h2>海外短波节目收听讯息</h2>
@@ -105,7 +105,7 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/radio.jpg?raw=true" width=400></a><br></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-10.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-5.jpg?raw=true" width=880></a><br></div>
 
 <h2>明慧广播电台－－听众指南</h2>
 
@@ -235,9 +235,9 @@ W5号卫星在中国主要城市的天线角度
 
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-10.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-5.jpg?raw=true" width=880></a><br></div>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-10.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-5.jpg?raw=true" width=880></a><br></div>
 
 
 
