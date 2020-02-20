@@ -69,7 +69,14 @@
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>神州明见.apk</a></h2></td></td>
 
 </tr>	
+
 	
+<tr>	
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg774p.zip'>自由门.桌机版774(压缩版).zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg774p.exe'>自由门.桌机版774.exe</a></h2></td></td>
+
+</tr>
+
 <tr>	
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg773p.zip'>自由门.桌机版773(压缩版).zip</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg773p.exe'>自由门.桌机版773.exe</a></h2></td></td>
@@ -88,13 +95,6 @@
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg771pb1.exe'>自由门.桌机版771.exe</a></h2></td></td>
 
 </tr>	
-	
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.zip'>自由门.桌机版770(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg770p.exe'>自由门.桌机版770.exe</a></h2></td></td>
-
-</tr>
-
 
 </table>
 
