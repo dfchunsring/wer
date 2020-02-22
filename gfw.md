@@ -273,7 +273,7 @@ W5号卫星在中国主要城市的天线角度
 希○望○之○声ＳＷ短○波○广播同时有多个频率播放同一套节目，分布于 6MHz–22MHz之间，频率不定期改动，特别是10820-11170间, 11410-13160间, 13530-14980间, 15295-17780间，有相对较多的频率可选。各地可收听频率不同，一般会有几个或十几个频率可听，讯号不好时，可寻找另一清晰频率就可收听同一节目。		
 【注：短波收听情况会因每日天气、时间及地区有不同变化，请寻找适合您的频率。】		<p>	
 		
-https://git.io/gfw		
+请收藏  https://git.io/gfw		
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fngrchn3-1.jpg?raw=true" width=880></a><br></div>
