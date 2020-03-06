@@ -65,8 +65,9 @@
 <table> 
 	
 <tr>	
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/PnyETyGmm.1.apk'>罔门.apk</a></h2></td>
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>神州明见.apk</a></h2></td></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/antss1.3.1.dmg'>苹果Mac系统翻墙软件.dmg</a></h2></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/Shadowrocket-2.1.11.ipa'>Shadowrocket-2.1.11.ipa .iphone手机安装包</a></h2></td></td>
+
 
 </tr>	
 
