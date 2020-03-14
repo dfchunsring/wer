@@ -1,8 +1,10 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/cw-8.jpg" width=800></a><br><h3>🌼必看 精彩视频 请直接点击 http://220.141.118.207</h3></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/pdf/cw-8.jpg" width=800></a><br></div>
 </table>
+
+ <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip</b></h2></div> 
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fngrchn3-1.jpg?raw=true" width=880></a><br></div>
