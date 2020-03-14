@@ -2,10 +2,9 @@
 <table>
   <div align=center><a href="https://git.io/ubc"><IMG SRC="https://github.com/dfchunsring/nini/blob/master/wnn/img/ok.jpg?raw=true" width=880></a></p></div>
 </table>
-  <div align=center><h3>🌼 必看 精彩视频 请直接点击 http://220.141.118.207</h3></div>
+  <div align=center><h3>🌼 必看 精彩视频 请直接点击 http://61.228.185.229/310</h3></div>
 <p>
-   <div align=center><h3><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h3></div> 
-   <div align=center><h3><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h3></div>
+ <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip</b></h2></div> 
 
  <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
