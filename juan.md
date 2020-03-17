@@ -2,7 +2,7 @@
 <table>
   <div align=center><a href="https://git.io/ubc"><IMG SRC="https://github.com/dfchunsring/nini/blob/master/wnn/img/ok.jpg?raw=true" width=880></a></p></div>
 </table>
-  <div align=center><h3>🌼 必看 精彩视频 请直接点击 http://61.228.185.229/310</h3></div>
+  <div align=center><h3>🌼 必看 精彩视频 请直接点击 http://61.228.179.75/300</h3></div>
 <p>
  <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip</b></h2></div> 
 
