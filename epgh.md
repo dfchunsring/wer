@@ -68,8 +68,13 @@
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/antss1.3.1.dmg'>苹果Mac系统翻墙软件.dmg</a></h2></td>
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/Shadowrocket-2.1.11.ipa'>Shadowrocket-2.1.11.ipa .iphone手机安装包</a></h2></td></td>
 
-
 </tr>	
+	
+<tr>	
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg778p.zip'>自由门.桌机版778(压缩版).zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg778p.exe'>自由门.桌机版778.exe</a></h2></td></td>
+
+</tr>
 
 <tr>	
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg777p.zip'>自由门.桌机版777(压缩版).zip</a></h2></td>
@@ -88,12 +93,7 @@
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg775p.exe'>自由门.桌机版775.exe</a></h2></td></td>
 
 </tr>	
-	
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg774p.zip'>自由门.桌机版774(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg774p.exe'>自由门.桌机版774.exe</a></h2></td></td>
 
-</tr>
 
 </table>
 
