@@ -16,6 +16,8 @@
 </tr>	
 </table>
 
+
+
  <a href=https://git.io/duun><h3 align="right">更多连结</h3></a>
 
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
@@ -101,7 +103,13 @@
 
 <table>
      <h2 align="center">安卓 手机版</h2><p>
-	
+
+<tr>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg-soundofhope.zip'>➣希➣望之声安卓版.zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.8.apk'>无界浏览.安卓版4.8.apk</a></h2></td></td>
+ 
+</tr>
+
 <tr>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true'>无界浏览.安卓版4.6.apk</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></h2></td></td>
