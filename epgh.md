@@ -15,6 +15,11 @@
 </tr>	
 
 <tr>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fgma42.zip'>新版 安卓版 自由门.zip</a></h2></td></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fgma42.apk'>新版 安卓版 自由门 42.apk</a></h2></td></td>
+</tr>
+
+<tr>
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>神州明见.apk</a></h2></td></td>
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fgma41.apk'>新版 安卓版 自由门 4.1.apk</a></h2></td></td>
 </tr>
