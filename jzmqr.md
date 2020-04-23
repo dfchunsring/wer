@@ -3,7 +3,7 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br> <!-- <h3>🌼必看 精彩视频  请直接点击 http://61.228.184.37/300</h3>--> </div>
  </br>
 
-  <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip</b></h2></div> 
+  <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip 或  https://bit.ly/3ezRQKo</b></h2></div> 
   
  <h2 align="center"></h2> 
 <td><h2><a href='https://git.io/duun'> 看真相得福报~连结看更多...</a><h2></td>
