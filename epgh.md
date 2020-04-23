@@ -4,7 +4,7 @@
 <div align="center"><a href="https://git.io/ffq">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h2>请收藏本网址，连上即时IP<br>  https://git.io/ubc   https://git.io/swspip</h2></div>	
 	
-<div align=center><h3>🌼必看 精彩视频 请直接点击 http://61.228.184.37/300</h3></div>	
+<div align=center><!--<h3>🌼必看 精彩视频 请直接点击 http://61.228.184.37/300</h3>--></div>	
 
 </table>
 
@@ -34,12 +34,12 @@
 <table>
 <tr>
  <td>
- <a href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.184.37/300</b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</h3></td>
+ <a href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，<!--<b>连上面→免翻视频 IP http://61.228.184.37/300</b>--> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</h3></td>
 </tr> 
 
 <tr>
  <td>
- <a href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，请点击翻牆网站  https://git.io/opopop  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</h3></td>
+<a target="_blank" target="_blank" target="_blank" target="_blank" href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，请点击翻牆网站  https://bit.ly/3asSXIA  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</h3></td>
 </tr>
   </table> 
 
