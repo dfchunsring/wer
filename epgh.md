@@ -23,9 +23,14 @@
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate%20.apk'>神州明见.apk</a></h2></td></td>
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fgma41.apk'>新版 安卓版 自由门 4.1.apk</a></h2></td></td>
 </tr>
+
+<tr>	
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/antss1.3.1.dmg'>苹果Mac系统翻墙软件.dmg</a></h2></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/Shadowrocket-2.1.11.ipa'>Shadowrocket-2.1.11.ipa .iphone手机安装包</a></h2></td></td>
+
+</tr>	
+
 </table>
-
-
 
  <a href=https://git.io/duun><h3 align="right">更多连结</h3></a>
 
@@ -76,8 +81,8 @@
 <table> 
 	
 <tr>	
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/antss1.3.1.dmg'>苹果Mac系统翻墙软件.dmg</a></h2></td>
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/Shadowrocket-2.1.11.ipa'>Shadowrocket-2.1.11.ipa .iphone手机安装包</a></h2></td></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg779p.zip'>自由门.桌机版779(压缩版).zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg779p.exe'>自由门.桌机版779.exe</a></h2></td></td>
 
 </tr>	
 	
@@ -99,11 +104,7 @@
 
 </tr>	
 
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg775p.zip'>自由门.桌机版775(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg775p.exe'>自由门.桌机版775.exe</a></h2></td></td>
 
-</tr>	
 
 
 </table>
