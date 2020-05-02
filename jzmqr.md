@@ -5,7 +5,7 @@
 
   <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip 或  https://bit.ly/3ezRQKo</b></h2></div> 
   <div align=center><b>直连不必翻墙 🌼 必看精彩视频https://bit.ly/2VIs51L</b></div>
- <h2 align="center"></h2> 
+
 <td><h1>看更多真相 https://bit.ly/2RQM1hX</h1></td>
 
 <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h2> </td>
