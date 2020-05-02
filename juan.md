@@ -4,7 +4,14 @@
 </table>
 
 <p>
- <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip</b></h2></div> 
+ <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip 或  https://bit.ly/3ezRQKo</b></h2></div> 
+
+ <div align=center><b>直连不必翻墙 🌼 必看精彩视频https://bit.ly/2VIs51L</b></div>
+<hr>
+<tr><td width=900><h3><b><a href="https://git.io/kkopop">➤ 中国禁闻  点击视频  </a></b></h3></tr>
+</td>
+<hr> 
+<h1>看更多真相 https://bit.ly/2RQM1hX</h1>
 
  <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
