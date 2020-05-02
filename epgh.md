@@ -5,6 +5,13 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/69-1.jpg?raw=true" width=880></a><br><h2>请收藏本网址，连上即时IP<br>    https://git.io/swspip 或  https://bit.ly/3ezRQKo</h2></div>	
 	
 <div align=center><!--<h3>🌼必看 精彩视频 请直接点击 http://61.228.184.37/300</h3>--></div>	
+ <div align=center><b>直连不必翻墙 🌼 必看精彩视频https://bit.ly/2VIs51L</b></div>
+<hr>
+<tr><td width=900><h3><b><a href="https://git.io/kkopop">➤ 中国禁闻  点击视频  </a></b></h3></tr>
+</td>
+
+<hr> 
+<h1>看更多真相 https://bit.ly/2RQM1hX</h1>
 
 </table>
 
