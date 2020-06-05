@@ -89,6 +89,12 @@
 <table> 
 
 <tr>	
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg783p.zip'>自由门.桌机版783(压缩版).zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg783p.exe'>自由门.桌机版783.exe</a></h2></td></td>
+
+</tr>	
+
+<tr>	
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg782p.zip'>自由门.桌机版782(压缩版).zip</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg782p.exe'>自由门.桌机版782.exe</a></h2></td></td>
 
@@ -111,12 +117,6 @@
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg778p.exe'>自由门.桌机版778.exe</a></h2></td></td>
 
 </tr>
-
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg777p.zip'>自由门.桌机版777(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg777p.exe'>自由门.桌机版777.exe</a></h2></td></td>
-
-</tr>	
 
 </table>
 
