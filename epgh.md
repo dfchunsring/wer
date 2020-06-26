@@ -128,7 +128,7 @@
 <table>
      <h2 align="center">安卓 手机版</h2><p>
 <tr>
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/1ca81e76.apk'>➣环门手机版 (035)apk</a></h2></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/196ecfe2.apk'>➣环门手机版 (036)apk</a></h2></td>
 
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/ff09b64c.apk'>➣神州明见手机版 V4.2.apk</a></h2></td>
 </tr>
