@@ -93,6 +93,13 @@
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
 <table> 
+	
+<tr>	
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg788p.zip'>自由门.桌机版788(压缩版).zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg788p.exe'>自由门.桌机版788.exe</a></h2></td></td>
+
+</tr>	
+	
 <tr>	
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg787p.zip'>自由门.桌机版787(压缩版).zip</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg787p.exe'>自由门.桌机版787.exe</a></h2></td></td>
@@ -117,14 +124,6 @@
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg784p.exe'>自由门.桌机版784.exe</a></h2></td></td>
 
 </tr>
-
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg783p.zip'>自由门.桌机版783(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg783p.exe'>自由门.桌机版783.exe</a></h2></td></td>
-
-</tr>	
-
-
 
 </table>
 
