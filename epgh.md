@@ -19,6 +19,10 @@
 <table>
 
 <tr>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate_V5.1%20(1).apk'>神州明见V5.1.apk</a></h2></td></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/%E7%8E%AF%E9%97%A8047.apk'>环门 4.7.apk</a></h2></td></td>
+
+<tr>
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fgma43.apk.asc'>新版 安卓版 自由门.43.apk.asc</a></h2></td></td>
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fgma43%20(1).apk?raw=true'>新版 安卓版 自由门 4.3.apk</a></h2></td></td>
 </tr>
