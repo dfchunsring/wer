@@ -103,7 +103,12 @@
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
 <table> 
-	<tr>	
+	
+<tr>	
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg794p.zip'>自由门.桌机版794(压缩版).zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg794p.exe'>自由门.桌机版794.exe</a></h2></td></td>
+	
+<tr>	
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg790p.zip?raw=true'>自由门.桌机版790(压缩版).zip</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg790p.exe?raw=true'>自由门.桌机版790.exe</a></h2></td></td>
 
@@ -127,9 +132,7 @@
 
 </tr>	
 
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg786p.zip'>自由门.桌机版786(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg786p.exe'>自由门.桌机版786.exe</a></h2></td></td>
+
 
 </tr>	
 
