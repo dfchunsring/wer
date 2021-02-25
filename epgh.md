@@ -20,7 +20,7 @@
 
 <tr>	
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/Huanmen049.apk?raw=true'>环门手机版 (04.9)apk</a></h2></td>
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/Huanmen050.apk?raw=true'>环门手机版 (05.0).zip</a></h2></td></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/Huanmen050.apk?raw=true'>环门手机版 (05.0).apk</a></h2></td></td>
 </tr>	
 
 <tr>	
