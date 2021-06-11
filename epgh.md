@@ -115,7 +115,7 @@
 
 <table> 
 
-	<tr>	
+<tr>	
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/fg796r.zip'>自由门.桌机版796(压缩版).zip</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/fg796r.exe'>自由门.桌机版796.exe</a></h2></td></td>
 
