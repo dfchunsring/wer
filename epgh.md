@@ -17,6 +17,11 @@
 </table>
 
 <table>
+
+<tr>	
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/huanmen.053.apk'>环门手机版 (053)apk</a></h2></td>
+<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/huanmen052.apk'>环门手机版 (052).apk</a></h2></td></td>
+</tr>		
 	
 <tr>	
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/oGatea051.apk'>环门手机版 (5.1)apk</a></h2></td>
@@ -28,10 +33,7 @@
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/Huanmen050.apk?raw=true'>环门手机版 (05.0).apk</a></h2></td></td>
 </tr>	
 
-<tr>	
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/%E7%8E%AF%E9%97%A848.apk'>环门手机版 (4.8)apk</a></h2></td>
-<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/%E7%8E%AF%E9%97%A848.zip'>环门手机版 (4.8).zip</a></h2></td></td>
-</tr>	
+
 
 <tr>
 <td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/SzzdOgate_V5.1%20(1).apk'>神州明见V5.1.apk</a></h2></td></td>
@@ -112,7 +114,13 @@
 <td><IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_62_2M.png?raw=true" width=880></p></td>
 
 <table> 
-		
+
+	<tr>	
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/fg796r.zip'>自由门.桌机版796(压缩版).zip</a></h2></td>
+	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/fg796r.exe'>自由门.桌机版796.exe</a></h2></td></td>
+
+</tr>	
+	
 <tr>	
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/fg795p.zip'>自由门.桌机版fg795p(压缩版).zip</a></h2></td>
 	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fg2/fg795p.exe'>自由门.桌机版fg795p.exe</a></h2></td></td>
@@ -134,11 +142,7 @@
 
 </tr>
 	
-<tr>	
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg788p.zip'>自由门.桌机版788(压缩版).zip</a></h2></td>
-	<td width="440"  border="0" alt="" align="center"><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/fg788p.exe'>自由门.桌机版788.exe</a></h2></td></td>
 
-</tr>	
 
 </tr>	
 
